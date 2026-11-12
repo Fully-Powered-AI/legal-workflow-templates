@@ -1,0 +1,56 @@
+{
+  "id": "ip-terms-question-table",
+  "name": "IP ownership and licence question table",
+  "kind": "workflow-template",
+  "version": "0.1.0",
+  "summary": "Before an agreement or statement of work is signed, IP counsel gets one table of the ownership, assignment, licence, background-IP and confidentiality clauses, each quoted with its section, set against the company's own IP positions and led by whether the assignment words counsel expects were found.",
+  "directory": "https://fullypowered.ai/workflows/ip-terms-question-table/",
+  "primary_function": "functions/legal-and-contracts",
+  "functions": [
+    "functions/legal-and-contracts"
+  ],
+  "industries": [
+    "industries/software-technology",
+    "industries/marketing-and-advertising",
+    "industries/media-and-entertainment"
+  ],
+  "situations": [
+    "situations/startups-and-new-ventures",
+    "situations/acquisitions-and-integration"
+  ],
+  "related": [
+    "contract-issues-table-for-counsel",
+    "contract-intake-brief",
+    "pilot-acceptance-test-preparation"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-11",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-11",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own rules for legal preparation: a named lawyer decides, the company's own counsel-approved positions are the only comparison, and every gap is written as a question."
+    },
+    {
+      "kind": "third-party",
+      "repository": "anthropics/claude-for-legal",
+      "commit": "4a6c651889c97cc9140580363c73e0eb17379c2b",
+      "path": "ip-legal/skills/ip-clause-review/SKILL.md",
+      "licence": "Apache-2.0",
+      "contribution": "Checking the assignment of commissioned work first and putting that check at the top; the difference between a present assignment and a promise to assign; leaving a clause that could be read either way to the attorney rather than settling it; reading the IP terms of an agreement alongside its statements of work; stating the company's side for each agreement and asking rather than inferring it; and treating confidentiality, with return or destruction, as an IP clause family.",
+      "text_reused": false,
+      "notice": "notices/anthropics-claude-for-legal-LICENSE.txt"
+    }
+  ]
+}

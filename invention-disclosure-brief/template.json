@@ -1,0 +1,58 @@
+{
+  "id": "invention-disclosure-brief",
+  "name": "Invention disclosure brief for patent counsel",
+  "kind": "workflow-template",
+  "version": "0.1.0",
+  "summary": "Before the first call with patent counsel, the founder or engineering lead has one factual brief: the invention in the inventor's words, who contributed what and when, every outside demonstration, sale, talk or publication with its date and audience, and the records still missing. Counsel decides.",
+  "directory": "https://fullypowered.ai/workflows/invention-disclosure-brief/",
+  "primary_function": "functions/legal-and-contracts",
+  "functions": [
+    "functions/legal-and-contracts",
+    "functions/research-and-development",
+    "functions/software-engineering"
+  ],
+  "industries": [
+    "industries/software-technology",
+    "industries/hardware-and-physical-technology",
+    "industries/manufacturing"
+  ],
+  "situations": [
+    "situations/startups-and-new-ventures",
+    "situations/new-business-lines"
+  ],
+  "related": [
+    "ip-terms-question-table",
+    "contract-intake-brief",
+    "pilot-acceptance-test-preparation"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-11",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-11",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own rules for legal preparation: the organisation's own records as the only authority, every statement quoted and located, every gap written as a question, and a named lawyer who decides and signs."
+    },
+    {
+      "kind": "third-party",
+      "repository": "anthropics/claude-for-legal",
+      "commit": "4a6c651889c97cc9140580363c73e0eb17379c2b",
+      "path": "ip-legal/skills/invention-intake/SKILL.md",
+      "licence": "Apache-2.0",
+      "contribution": "Getting the inventor's account in one round, covering what was made, how, by whom and when, and each kind of outside showing or offer by name; starting from an existing disclosure form; ending with the facts still open.",
+      "text_reused": false,
+      "notice": "notices/anthropics-claude-for-legal-LICENSE.txt"
+    }
+  ]
+}

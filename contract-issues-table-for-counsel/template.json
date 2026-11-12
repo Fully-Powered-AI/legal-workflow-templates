@@ -1,0 +1,68 @@
+{
+  "id": "contract-issues-table-for-counsel",
+  "name": "Contract issues table for counsel",
+  "kind": "workflow-template",
+  "version": "0.1.0",
+  "summary": "Before counsel negotiates a vendor or customer agreement, the contracts team hands over one cited issues table: every clause quoted with its section, the playbook position it meets or departs from, the playbook’s fallback wording copied beside each departure, and the approver your matrix names. Counsel decides.",
+  "directory": "https://fullypowered.ai/workflows/contract-issues-table-for-counsel/",
+  "primary_function": "functions/legal-and-contracts",
+  "functions": [
+    "functions/legal-and-contracts"
+  ],
+  "industries": [
+    "industries/software-technology",
+    "industries/professional-services",
+    "industries/consumer-brands"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/established-businesses"
+  ],
+  "related": [
+    "contract-intake-brief",
+    "nda-position-check",
+    "vendor-quote-comparison",
+    "vendor-renewal-review",
+    "pilot-acceptance-test-preparation"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-11",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-11",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own rules for legal preparation: a named lawyer who decides, wording copied only from a counsel-approved playbook, checks limited to the terms that playbook lists, and nothing sent before counsel has reviewed it."
+    },
+    {
+      "kind": "third-party",
+      "repository": "CaseMark/skills",
+      "commit": "afe48c44914d753297766404378e871d1f88d7a8",
+      "path": "skills/legal/contract-playbook-review/SKILL.md",
+      "licence": "Apache-2.0",
+      "contribution": "Setting each clause against a playbook of preferred, settle-for and refused positions, quoting it under its section number, leaving clauses the playbook does not address out of the comparison, listing required clauses the agreement omits, and noting where one clause points to another.",
+      "text_reused": false,
+      "notice": "notices/casemark-skills-LICENSE.txt"
+    },
+    {
+      "kind": "third-party",
+      "repository": "anthropics/claude-for-legal",
+      "commit": "4a6c651889c97cc9140580363c73e0eb17379c2b",
+      "path": "commercial-legal/skills/escalation-flagger/SKILL.md",
+      "licence": "Apache-2.0",
+      "contribution": "Settling which side of the deal the company is on, using the company's escalation matrix to find the one person who must decide each issue, saying so when it names no one, sending an issue up when its place inside the playbook is uncertain, and preparing the approver's request for a lawyer to send.",
+      "text_reused": false,
+      "notice": "notices/anthropics-claude-for-legal-LICENSE.txt"
+    }
+  ]
+}

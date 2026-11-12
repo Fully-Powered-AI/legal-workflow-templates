@@ -1,0 +1,57 @@
+{
+  "id": "open-source-licence-inventory",
+  "name": "Open-source licence inventory for counsel",
+  "kind": "workflow-template",
+  "version": "0.1.0",
+  "summary": "Before a release ships or an acquirer asks, counsel and the engineering lead get every open-source package listed with its licence as found, the file and line where it was read, and the duties your own policy attaches to it. A missing, custom or conflicting licence is marked needs review, never cleared.",
+  "directory": "https://fullypowered.ai/workflows/open-source-licence-inventory/",
+  "primary_function": "functions/legal-and-contracts",
+  "functions": [
+    "functions/legal-and-contracts",
+    "functions/software-engineering"
+  ],
+  "industries": [
+    "industries/software-technology",
+    "industries/hardware-and-physical-technology",
+    "industries/media-and-entertainment"
+  ],
+  "situations": [
+    "situations/acquisitions-and-integration",
+    "situations/startups-and-new-ventures"
+  ],
+  "related": [
+    "buyer-security-questionnaire-answers",
+    "software-subscription-and-vendor-spend-review",
+    "release-notes-draft"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-11",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-11",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "third-party",
+      "repository": "anthropics/claude-for-legal",
+      "commit": "4a6c651889c97cc9140580363c73e0eb17379c2b",
+      "path": "ip-legal/skills/oss-review/SKILL.md",
+      "licence": "Apache-2.0",
+      "contribution": "The ideas of fixing the delivery way before listing duties, comparing the licence a package declares with what its own files say (file headers included), never counting an unclear licence as unconditional, watching for a choice of licences and a text from another version, using the company's own policy as the authority, and passing contested licence readings to a lawyer.",
+      "text_reused": false,
+      "notice": "notices/anthropics-claude-for-legal-LICENSE.txt"
+    },
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's inventory method: the policy's own categories and words only, a quoted line with file and line for every licence found, fixed review reasons, a row-for-row count against the list, checks on the policy before use, and a draft addressed to counsel that approves nothing."
+    }
+  ]
+}

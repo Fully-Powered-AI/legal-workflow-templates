@@ -1,0 +1,56 @@
+{
+  "id": "legal-hold-custodian-tracker",
+  "name": "Legal hold custodian tracker",
+  "kind": "workflow-template",
+  "version": "0.1.0",
+  "summary": "Once counsel has issued a legal hold, your legal operations lead keeps one tracker for counsel: every custodian and system in counsel’s scope, who has acknowledged and who is overdue, who has left or changed role, the refresh date counsel set, and reminders copied from counsel’s own text for a person to send.",
+  "directory": "https://fullypowered.ai/workflows/legal-hold-custodian-tracker/",
+  "primary_function": "functions/legal-and-contracts",
+  "functions": [
+    "functions/legal-and-contracts"
+  ],
+  "industries": [
+    "industries/software-technology",
+    "industries/manufacturing",
+    "industries/professional-services"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/acquisitions-and-integration"
+  ],
+  "related": [
+    "employee-offboarding-and-handover-checklist",
+    "pilot-acceptance-test-preparation",
+    "sop-exception-capture"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-11",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-11",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI’s own rules for legal work prepared for a lawyer: counsel’s own record as the only authority, counted dates shown with their working, wording copied only from counsel’s approved text, and every open point written as a question for the named lawyer."
+    },
+    {
+      "kind": "third-party",
+      "repository": "anthropics/claude-for-legal",
+      "commit": "4a6c651889c97cc9140580363c73e0eb17379c2b",
+      "path": "litigation-legal/skills/legal-hold/SKILL.md",
+      "licence": "Apache-2.0",
+      "contribution": "Following a hold from issue to release with its next refresh date on record, a status view that shows when a refresh has come due, and flagging a custodian who has left for counsel’s attention.",
+      "text_reused": false,
+      "notice": "notices/anthropics-claude-for-legal-LICENSE.txt"
+    }
+  ]
+}

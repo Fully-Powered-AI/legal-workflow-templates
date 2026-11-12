@@ -1,0 +1,58 @@
+{
+  "id": "contract-amendment-trace",
+  "name": "Contract amendment trace",
+  "kind": "workflow-template",
+  "version": "0.1.0",
+  "summary": "Before a question about a signed contract goes to counsel, the contracts manager has one dated history of the provision that matters: every signed document in order, each version quoted with its document and section, every gap marked, and a list for the lawyer to confirm. It never says which wording controls.",
+  "directory": "https://fullypowered.ai/workflows/contract-amendment-trace/",
+  "primary_function": "functions/legal-and-contracts",
+  "functions": [
+    "functions/legal-and-contracts"
+  ],
+  "industries": [
+    "industries/manufacturing",
+    "industries/consumer-brands",
+    "industries/software-technology"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/acquisitions-and-integration"
+  ],
+  "related": [
+    "vendor-renewal-review",
+    "contract-renewal-notice-register",
+    "contract-issues-table-for-counsel",
+    "rent-roll-to-lease-abstract-match",
+    "pilot-acceptance-test-preparation"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-11",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-11",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own rules for the trace: three orders compared, signature blocks and draft markings reported as separate facts, versions not signed by every party identified but never quoted, letters and notices set aside for counsel, the register check, no combined text, a search reported as words found or not found and never as an effect, places that name or redefine the defined terms, a fixed order of gap types, nothing prepared until a lawyer is named, and the list for the named lawyer to confirm."
+    },
+    {
+      "kind": "third-party",
+      "repository": "anthropics/claude-for-legal",
+      "commit": "4a6c651889c97cc9140580363c73e0eb17379c2b",
+      "path": "commercial-legal/skills/amendment-history/SKILL.md",
+      "licence": "Apache-2.0",
+      "contribution": "The idea of ordering a base agreement and its amendments by date, cross-checked against the dates each amendment gives for earlier papers, and following one named provision through each change with exact wording and section, plus flags for a party added or renamed, a renumbered section, a change to a deleted provision, contradictory language between amendments and two documents that appear to be the same amendment; and its limits of leaving conflicts between documents to the lawyer, drafting no amendment and making no playbook comparison.",
+      "text_reused": false,
+      "notice": "notices/anthropics-claude-for-legal-LICENSE.txt"
+    }
+  ]
+}

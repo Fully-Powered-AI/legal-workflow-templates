@@ -1,0 +1,103 @@
+{
+  "repository": "Fully-Powered-AI/legal-workflow-templates",
+  "title": "Legal",
+  "term": "functions/legal-and-contracts",
+  "templates": [
+    {
+      "id": "contract-amendment-trace",
+      "name": "Contract amendment trace",
+      "version": "0.1.0",
+      "summary": "Before a question about a signed contract goes to counsel, the contracts manager has one dated history of the provision that matters: every signed document in order, each version quoted with its document and section, every gap marked, and a list for the lawyer to confirm. It never says which wording controls.",
+      "path": "contract-amendment-trace/",
+      "directory": "https://fullypowered.ai/workflows/contract-amendment-trace/"
+    },
+    {
+      "id": "contract-intake-brief",
+      "name": "Contract intake brief",
+      "version": "0.1.0",
+      "summary": "When another party's agreement arrives, counsel gets a one-page intake brief: what it is, read from its titles, the parties as named, what is missing, the requester's purpose and date, and the reviewer your own routing rules name. It comments on no term; counsel decides.",
+      "path": "contract-intake-brief/",
+      "directory": "https://fullypowered.ai/workflows/contract-intake-brief/"
+    },
+    {
+      "id": "contract-issues-table-for-counsel",
+      "name": "Contract issues table for counsel",
+      "version": "0.1.0",
+      "summary": "Before counsel negotiates a vendor or customer agreement, the contracts team hands over one cited issues table: every clause quoted with its section, the playbook position it meets or departs from, the playbook’s fallback wording copied beside each departure, and the approver your matrix names. Counsel decides.",
+      "path": "contract-issues-table-for-counsel/",
+      "directory": "https://fullypowered.ai/workflows/contract-issues-table-for-counsel/"
+    },
+    {
+      "id": "contract-renewal-notice-register",
+      "name": "Contract renewal and notice register",
+      "version": "0.1.0",
+      "summary": "From your signed agreements and amendments, the contracts manager gets a register for counsel to confirm: each term, renewal and notice clause quoted with its section, cancel-by and send-by dates proposed only under counsel's own counting rules, and the windows sorted by proposed send-by date. Nothing is sent.",
+      "path": "contract-renewal-notice-register/",
+      "directory": "https://fullypowered.ai/workflows/contract-renewal-notice-register/"
+    },
+    {
+      "id": "inbound-demand-intake-record",
+      "name": "Inbound demand or claim intake record",
+      "version": "0.1.0",
+      "summary": "When a demand, claim or subpoena arrives, the company's lawyer gets one intake record the same day: who sent it, what it asks, every date it states, the facts and citations it relies on, related matters, where the records are, and a question on keeping them. It rates nothing and recommends nothing.",
+      "path": "inbound-demand-intake-record/",
+      "directory": "https://fullypowered.ai/workflows/inbound-demand-intake-record/"
+    },
+    {
+      "id": "invention-disclosure-brief",
+      "name": "Invention disclosure brief for patent counsel",
+      "version": "0.1.0",
+      "summary": "Before the first call with patent counsel, the founder or engineering lead has one factual brief: the invention in the inventor's words, who contributed what and when, every outside demonstration, sale, talk or publication with its date and audience, and the records still missing. Counsel decides.",
+      "path": "invention-disclosure-brief/",
+      "directory": "https://fullypowered.ai/workflows/invention-disclosure-brief/"
+    },
+    {
+      "id": "ip-terms-question-table",
+      "name": "IP ownership and licence question table",
+      "version": "0.1.0",
+      "summary": "Before an agreement or statement of work is signed, IP counsel gets one table of the ownership, assignment, licence, background-IP and confidentiality clauses, each quoted with its section, set against the company's own IP positions and led by whether the assignment words counsel expects were found.",
+      "path": "ip-terms-question-table/",
+      "directory": "https://fullypowered.ai/workflows/ip-terms-question-table/"
+    },
+    {
+      "id": "legal-hold-custodian-tracker",
+      "name": "Legal hold custodian tracker",
+      "version": "0.1.0",
+      "summary": "Once counsel has issued a legal hold, your legal operations lead keeps one tracker for counsel: every custodian and system in counsel’s scope, who has acknowledged and who is overdue, who has left or changed role, the refresh date counsel set, and reminders copied from counsel’s own text for a person to send.",
+      "path": "legal-hold-custodian-tracker/",
+      "directory": "https://fullypowered.ai/workflows/legal-hold-custodian-tracker/"
+    },
+    {
+      "id": "nda-position-check",
+      "name": "NDA check against counsel's approved positions",
+      "version": "0.1.0",
+      "summary": "Before anyone signs a proposed NDA, counsel gets every clause quoted with its section and set beside the positions counsel has approved: matching, departing or not covered. Any obligation beyond confidentiality sends the whole NDA to counsel. The check never says an NDA is ready to sign.",
+      "path": "nda-position-check/",
+      "directory": "https://fullypowered.ai/workflows/nda-position-check/"
+    },
+    {
+      "id": "open-source-licence-inventory",
+      "name": "Open-source licence inventory for counsel",
+      "version": "0.1.0",
+      "summary": "Before a release ships or an acquirer asks, counsel and the engineering lead get every open-source package listed with its licence as found, the file and line where it was read, and the duties your own policy attaches to it. A missing, custom or conflicting licence is marked needs review, never cleared.",
+      "path": "open-source-licence-inventory/",
+      "directory": "https://fullypowered.ai/workflows/open-source-licence-inventory/"
+    },
+    {
+      "id": "outside-counsel-invoice-questions",
+      "name": "Outside-counsel invoice questions",
+      "version": "0.1.0",
+      "summary": "When a law firm’s invoice arrives, legal operations has one worksheet ready: every line set against the agreed rates, the approved matter budget and the company’s own billing guidelines, each difference written as a neutral question for the firm. Nothing is sent, paid or rejected until people decide.",
+      "path": "outside-counsel-invoice-questions/",
+      "directory": "https://fullypowered.ai/workflows/outside-counsel-invoice-questions/"
+    },
+    {
+      "id": "outside-counsel-status-requests",
+      "name": "Weekly status requests to outside counsel",
+      "version": "0.1.0",
+      "summary": "Every Monday, in-house counsel has a draft status request for each outside firm that owes one: what has happened since the last update, the dates on record to confirm, decisions pending and spend against budget, plus the matters skipped and why. Counsel edits and sends each one.",
+      "path": "outside-counsel-status-requests/",
+      "directory": "https://fullypowered.ai/workflows/outside-counsel-status-requests/"
+    }
+  ]
+}

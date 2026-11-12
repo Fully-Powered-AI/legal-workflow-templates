@@ -1,0 +1,57 @@
+{
+  "id": "inbound-demand-intake-record",
+  "name": "Inbound demand or claim intake record",
+  "kind": "workflow-template",
+  "version": "0.1.0",
+  "summary": "When a demand, claim or subpoena arrives, the company's lawyer gets one intake record the same day: who sent it, what it asks, every date it states, the facts and citations it relies on, related matters, where the records are, and a question on keeping them. It rates nothing and recommends nothing.",
+  "directory": "https://fullypowered.ai/workflows/inbound-demand-intake-record/",
+  "primary_function": "functions/legal-and-contracts",
+  "functions": [
+    "functions/legal-and-contracts"
+  ],
+  "industries": [
+    "industries/ecommerce-and-retail",
+    "industries/manufacturing",
+    "industries/software-technology"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "court-order-deadline-notice-preparation",
+    "legal-hold-custodian-tracker",
+    "complaint-and-refund-request-handling",
+    "supplier-issue-notice"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-11",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-11",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own rules for legal preparation: copy and locate rather than characterise, count no date, check no authority, work only from the company's own lists, and address every output to a named lawyer who decides."
+    },
+    {
+      "kind": "third-party",
+      "repository": "anthropics/claude-for-legal",
+      "commit": "4a6c651889c97cc9140580363c73e0eb17379c2b",
+      "path": "litigation-legal/skills/demand-received/SKILL.md",
+      "licence": "Apache-2.0",
+      "contribution": "Three ideas: reading the same fixed set of points from every incoming letter, including how and when it arrived and any marking on it; looking through the company's own matters, finished ones too, for the same party; and flagging the law a letter cites for the lawyer to verify rather than validating it. Also the prompt that keeping records belongs among the first steps.",
+      "text_reused": false,
+      "notice": "notices/anthropics-claude-for-legal-LICENSE.txt"
+    }
+  ]
+}

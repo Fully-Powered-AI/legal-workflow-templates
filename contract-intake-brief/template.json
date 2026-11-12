@@ -1,0 +1,58 @@
+{
+  "id": "contract-intake-brief",
+  "name": "Contract intake brief",
+  "kind": "workflow-template",
+  "version": "0.1.0",
+  "summary": "When another party's agreement arrives, counsel gets a one-page intake brief: what it is, read from its titles, the parties as named, what is missing, the requester's purpose and date, and the reviewer your own routing rules name. It comments on no term; counsel decides.",
+  "directory": "https://fullypowered.ai/workflows/contract-intake-brief/",
+  "primary_function": "functions/legal-and-contracts",
+  "functions": [
+    "functions/legal-and-contracts",
+    "functions/procurement-and-suppliers",
+    "functions/sales"
+  ],
+  "industries": [
+    "industries/software-technology",
+    "industries/professional-services",
+    "industries/manufacturing"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/startups-and-new-ventures"
+  ],
+  "related": [
+    "vendor-quote-comparison",
+    "vendor-renewal-review",
+    "pilot-acceptance-test-preparation"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-11",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-11",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own rules for legal preparation: the organisation's own documents and counsel-approved rules as the only authority, every gap written as a question, and a named lawyer who decides and signs."
+    },
+    {
+      "kind": "third-party",
+      "repository": "anthropics/claude-for-legal",
+      "commit": "4a6c651889c97cc9140580363c73e0eb17379c2b",
+      "path": "commercial-legal/skills/review/SKILL.md",
+      "licence": "Apache-2.0",
+      "contribution": "Working out what an incoming agreement is from its main title and each attachment's title before its clauses, using those titles as the routing signal, and having a person confirm that reading before anything else is done.",
+      "text_reused": false,
+      "notice": "notices/anthropics-claude-for-legal-LICENSE.txt"
+    }
+  ]
+}

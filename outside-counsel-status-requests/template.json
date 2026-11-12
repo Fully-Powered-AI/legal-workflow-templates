@@ -1,0 +1,56 @@
+{
+  "id": "outside-counsel-status-requests",
+  "name": "Weekly status requests to outside counsel",
+  "kind": "workflow-template",
+  "version": "0.1.0",
+  "summary": "Every Monday, in-house counsel has a draft status request for each outside firm that owes one: what has happened since the last update, the dates on record to confirm, decisions pending and spend against budget, plus the matters skipped and why. Counsel edits and sends each one.",
+  "directory": "https://fullypowered.ai/workflows/outside-counsel-status-requests/",
+  "primary_function": "functions/legal-and-contracts",
+  "functions": [
+    "functions/legal-and-contracts"
+  ],
+  "industries": [
+    "industries/manufacturing",
+    "industries/software-technology",
+    "industries/insurance"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "matter-budget-and-status-summary",
+    "weekly-open-matter-check",
+    "pilot-acceptance-test-preparation"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-11",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-11",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own rules for legal workflow templates: a named lawyer who decides, dates only as the company has them on record, questions rather than instructions, and nothing sent or recorded by the assistant."
+    },
+    {
+      "kind": "third-party",
+      "repository": "anthropics/claude-for-legal",
+      "commit": "4a6c651889c97cc9140580363c73e0eb17379c2b",
+      "path": "litigation-legal/skills/oc-status/SKILL.md",
+      "licence": "Apache-2.0",
+      "contribution": "Picking the open matters due a weekly check-in by the firm's silence and the nearness of the next date, a per-matter email covering progress, dates, open decisions and fees against the approved budget, counsel's review before sending, and a run record of matters drafted and passed over, the flags for matters with no outside counsel (raised when high risk) and for matters with a firm but no email address, leaving out an empty numbered item and renumbering the rest, keeping to broad questions when the notes are thin, and the reminder that counsel reads each check-in for strategy or privileged content before it goes.",
+      "text_reused": false,
+      "notice": "notices/anthropics-claude-for-legal-LICENSE.txt"
+    }
+  ]
+}

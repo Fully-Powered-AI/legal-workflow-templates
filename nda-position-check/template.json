@@ -1,0 +1,57 @@
+{
+  "id": "nda-position-check",
+  "name": "NDA check against counsel's approved positions",
+  "kind": "workflow-template",
+  "version": "0.1.0",
+  "summary": "Before anyone signs a proposed NDA, counsel gets every clause quoted with its section and set beside the positions counsel has approved: matching, departing or not covered. Any obligation beyond confidentiality sends the whole NDA to counsel. The check never says an NDA is ready to sign.",
+  "directory": "https://fullypowered.ai/workflows/nda-position-check/",
+  "primary_function": "functions/legal-and-contracts",
+  "functions": [
+    "functions/legal-and-contracts",
+    "functions/sales"
+  ],
+  "industries": [
+    "industries/software-technology",
+    "industries/hardware-and-physical-technology",
+    "industries/manufacturing"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/startups-and-new-ventures"
+  ],
+  "related": [
+    "deal-close-plan",
+    "buyer-security-questionnaire-answers",
+    "channel-partner-fit-review"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-11",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-11",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "third-party",
+      "repository": "anthropics/claude-for-legal",
+      "commit": "4a6c651889c97cc9140580363c73e0eb17379c2b",
+      "path": "commercial-legal/skills/nda-review/SKILL.md",
+      "licence": "Apache-2.0",
+      "contribution": "The idea of measuring an NDA only against a lawyer's written positions for the company's side, stopping when those positions are missing, supplying no default where they are silent, sending any NDA that binds a party to more than confidentiality to a lawyer, not telling the other side the company will sign before a lawyer has decided, and the range of topics such positions may cover.",
+      "text_reused": false,
+      "notice": "notices/anthropics-claude-for-legal-LICENSE.txt"
+    },
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's comparison method: every clause quoted beside the position it was measured against, per-clause marks, a line for each position the NDA does not address, a fixed rule for what counts as a difference, a confirm line for each defined term read as an ordinary word, flags that name their list item word for word, a review-date check on the positions file, and every result, a full match included, addressed to counsel as a draft for counsel to decide and sign, never routed to signature."
+    }
+  ]
+}

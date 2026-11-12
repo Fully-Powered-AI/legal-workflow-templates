@@ -1,0 +1,57 @@
+{
+  "id": "contract-renewal-notice-register",
+  "name": "Contract renewal and notice register",
+  "kind": "workflow-template",
+  "version": "0.1.0",
+  "summary": "From your signed agreements and amendments, the contracts manager gets a register for counsel to confirm: each term, renewal and notice clause quoted with its section, cancel-by and send-by dates proposed only under counsel's own counting rules, and the windows sorted by proposed send-by date. Nothing is sent.",
+  "directory": "https://fullypowered.ai/workflows/contract-renewal-notice-register/",
+  "primary_function": "functions/legal-and-contracts",
+  "functions": [
+    "functions/legal-and-contracts",
+    "functions/procurement-and-suppliers"
+  ],
+  "industries": [
+    "industries/software-technology",
+    "industries/professional-services",
+    "industries/manufacturing"
+  ],
+  "situations": [
+    "situations/established-businesses",
+    "situations/acquisitions-and-integration"
+  ],
+  "related": [
+    "vendor-renewal-review",
+    "court-order-deadline-notice-preparation",
+    "pilot-acceptance-test-preparation"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-11",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-11",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "The register read from the signed agreements and amendments, with every clause quoted and located; dates proposed only under the company's lawyer-approved counting rules with the working shown; and the line-by-line list counsel confirms, written for this workflow template."
+    },
+    {
+      "kind": "third-party",
+      "repository": "anthropics/claude-for-legal",
+      "commit": "4a6c651889c97cc9140580363c73e0eb17379c2b",
+      "path": "commercial-legal/skills/renewal-tracker/SKILL.md",
+      "licence": "Apache-2.0",
+      "contribution": "Separate notice-period and send dates for each notice window, counting from the current term end carried forward at each renewal, moving a deadline off a closed day to an earlier day, grouping windows by how soon they come with those already behind listed apart, and the business owner deciding renewal after a lawyer's look.",
+      "text_reused": false,
+      "notice": "notices/anthropics-claude-for-legal-LICENSE.txt"
+    }
+  ]
+}
