@@ -1,0 +1,47 @@
+{
+  "id": "counterparty-document-field-check",
+  "name": "Counterparty certificate and bond field check",
+  "kind": "workflow-template",
+  "version": "0.1.0",
+  "summary": "When the other side hands over a bond, guarantee, standby letter of credit or estoppel certificate, the contracts manager gets each field set beside the contract and the file records, quoted, with every mismatch raised as a question for counsel. It never says whether the document is valid, sufficient or enforceable.",
+  "directory": "https://fullypowered.ai/workflows/counterparty-document-field-check/",
+  "primary_function": "functions/legal-and-contracts",
+  "functions": [
+    "functions/legal-and-contracts",
+    "functions/procurement-and-suppliers"
+  ],
+  "industries": [
+    "industries/construction",
+    "industries/real-estate",
+    "industries/energy"
+  ],
+  "situations": [
+    "situations/acquisitions-and-integration",
+    "situations/growth-and-scaling"
+  ],
+  "related": [
+    "vendor-insurance-certificate-check",
+    "contract-amendment-trace",
+    "rent-roll-to-lease-abstract-match"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-12",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-12",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Fully Powered AI's own published map of the work: its illustrative examples of a bond checked against the project particulars and an estoppel certificate brought back to the lease file, with its own rules for legal preparation (the company's own documents as the only authority, every mismatch written as a factual question, and a named lawyer who decides and signs)."
+    }
+  ]
+}

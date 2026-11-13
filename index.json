@@ -36,6 +36,14 @@
       "directory": "https://fullypowered.ai/workflows/contract-renewal-notice-register/"
     },
     {
+      "id": "counterparty-document-field-check",
+      "name": "Counterparty certificate and bond field check",
+      "version": "0.1.0",
+      "summary": "When the other side hands over a bond, guarantee, standby letter of credit or estoppel certificate, the contracts manager gets each field set beside the contract and the file records, quoted, with every mismatch raised as a question for counsel. It never says whether the document is valid, sufficient or enforceable.",
+      "path": "counterparty-document-field-check/",
+      "directory": "https://fullypowered.ai/workflows/counterparty-document-field-check/"
+    },
+    {
       "id": "inbound-demand-intake-record",
       "name": "Inbound demand or claim intake record",
       "version": "0.1.0",
@@ -98,6 +106,14 @@
       "summary": "Every Monday, in-house counsel has a draft status request for each outside firm that owes one: what has happened since the last update, the dates on record to confirm, decisions pending and spend against budget, plus the matters skipped and why. Counsel edits and sends each one.",
       "path": "outside-counsel-status-requests/",
       "directory": "https://fullypowered.ai/workflows/outside-counsel-status-requests/"
+    },
+    {
+      "id": "workplace-investigation-record",
+      "name": "Workplace investigation record for counsel",
+      "version": "0.1.0",
+      "summary": "When counsel directs a workplace investigation, the HR investigator turns the interview notes and documents into one restricted record for that lawyer: the allegations, who said what, a dated chronology, where accounts differ, an evidence index and the follow-up still open, each pinned to its source.",
+      "path": "workplace-investigation-record/",
+      "directory": "https://fullypowered.ai/workflows/workplace-investigation-record/"
     }
   ]
 }

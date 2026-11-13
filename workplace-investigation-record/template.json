@@ -1,0 +1,48 @@
+{
+  "id": "workplace-investigation-record",
+  "name": "Workplace investigation record for counsel",
+  "kind": "workflow-template",
+  "version": "0.1.0",
+  "summary": "When counsel directs a workplace investigation, the HR investigator turns the interview notes and documents into one restricted record for that lawyer: the allegations, who said what, a dated chronology, where accounts differ, an evidence index and the follow-up still open, each pinned to its source.",
+  "directory": "https://fullypowered.ai/workflows/workplace-investigation-record/",
+  "primary_function": "functions/legal-and-contracts",
+  "functions": [
+    "functions/legal-and-contracts",
+    "functions/people-and-hr"
+  ],
+  "industries": [
+    "industries/hospitality",
+    "industries/logistics-and-trade",
+    "industries/manufacturing",
+    "industries/software-technology"
+  ],
+  "situations": [
+    "situations/growth-and-scaling",
+    "situations/established-businesses"
+  ],
+  "related": [
+    "case-chronology",
+    "legal-hold-custodian-tracker",
+    "incident-investigation-and-corrective-actions"
+  ],
+  "evidence": {
+    "written_by": "Fully Powered AI",
+    "source_and_rights_reviewed": true,
+    "editorially_reviewed": "2026-11-12",
+    "package_format_valid": true,
+    "tested_environments": [],
+    "tried_on_example": [
+      {
+        "product": "Claude",
+        "date": "2026-11-12",
+        "record": "public/trial.md"
+      }
+    ]
+  },
+  "sources": [
+    {
+      "kind": "own",
+      "title": "Its own published map of legal work: the workplace investigation record it describes for employment counsel and the HR investigator working under counsel."
+    }
+  ]
+}
