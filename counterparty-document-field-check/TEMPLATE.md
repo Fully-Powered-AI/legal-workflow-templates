@@ -1,6 +1,6 @@
 # Counterparty certificate and bond field check
 
-Workflow template 0.1.0 · Legal and contracts · Fully Powered AI
+Workflow template 0.1.0 · Legal and contracts · FullyPowered AI
 
 ## Purpose
 
@@ -472,4 +472,4 @@ The company writes these. The workflow template supplies only the default field 
 
 ## Version notes
 
-0.1.0 · 12 November 2026 · Written by Fully Powered AI from its own published map of the work. Editorially reviewed. Not reviewed by a lawyer. Published as preparation only: it compares fields, counts no date, compares no wording with any form, and says nothing about whether the document is genuine, valid, in force, sufficient or enforceable. Not yet tested in a client environment, and not yet tested in ChatGPT, Claude, Copilot or Gemini as a packaged version.
+0.1.0 · 12 November 2026 · Written by FullyPowered AI from its own published map of the work. Editorially reviewed. Not reviewed by a lawyer. Published as preparation only: it compares fields, counts no date, compares no wording with any form, and says nothing about whether the document is genuine, valid, in force, sufficient or enforceable. Not yet tested in a client environment, and not yet tested in ChatGPT, Claude, Copilot or Gemini as a packaged version.

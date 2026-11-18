@@ -1,6 +1,6 @@
 # Contract renewal and notice register
 
-Workflow template 0.1.0 · Legal and contracts · Fully Powered AI
+Workflow template 0.1.0 · Legal and contracts · FullyPowered AI
 
 ## Purpose
 
@@ -542,4 +542,4 @@ The company writes these. The template supplies none of them.
 
 ## Version notes
 
-0.1.0 · 11 November 2026 · Written by Fully Powered AI. Editorially reviewed. Published as preparation only: every counted date is a proposed date for counsel to confirm, the template carries no counting rules of its own, and it counts from an amendment's wording only where the company's own rules say so, and it answers a question about meaning, timing, law or what to do only by referring it to counsel and naming the line where counsel answers it. Not reviewed by a lawyer. Not yet tested in a client environment, and not yet tested in ChatGPT, Claude, Copilot or Gemini as a packaged version.
+0.1.0 · 11 November 2026 · Written by FullyPowered AI. Editorially reviewed. Published as preparation only: every counted date is a proposed date for counsel to confirm, the template carries no counting rules of its own, and it counts from an amendment's wording only where the company's own rules say so, and it answers a question about meaning, timing, law or what to do only by referring it to counsel and naming the line where counsel answers it. Not reviewed by a lawyer. Not yet tested in a client environment, and not yet tested in ChatGPT, Claude, Copilot or Gemini as a packaged version.

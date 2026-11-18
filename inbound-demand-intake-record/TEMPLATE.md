@@ -1,6 +1,6 @@
 # Inbound demand or claim intake record
 
-Workflow template 0.1.0 · Legal and contracts · Fully Powered AI
+Workflow template 0.1.0 · Legal and contracts · FullyPowered AI
 
 ## Purpose
 
@@ -427,4 +427,4 @@ The company sets these. The template supplies none of them.
 
 ## Version notes
 
-0.1.0 · 11 November 2026 · Written by Fully Powered AI in its own words. The fields read from an incoming letter (including how and when it arrived, and any marking on it) and the search of the company's matter list, closed matters included, draw on the demand-received instructions in anthropics/claude-for-legal (Apache-2.0); the merit rating, response options, recommendation, deadline work and hand-offs in that source are deliberately left out. The source's first steps also raise keeping records; here that becomes a question for counsel. The source also flags cited law for the lawyer to verify rather than validating it; here every citation is copied as cited and left for the lawyer. Fully Powered AI added the copied-not-counted rule for dates, the naming of every record in the letter's own words, the records map with its deletion rules beside that question, the documents to gather and the addressing to a named lawyer. Editorially reviewed. Not reviewed by a lawyer. Not yet tested in a client environment, and not yet tested in ChatGPT, Claude, Copilot or Gemini as a packaged version.
+0.1.0 · 11 November 2026 · Written by FullyPowered AI in its own words. The fields read from an incoming letter (including how and when it arrived, and any marking on it) and the search of the company's matter list, closed matters included, draw on the demand-received instructions in anthropics/claude-for-legal (Apache-2.0); the merit rating, response options, recommendation, deadline work and hand-offs in that source are deliberately left out. The source's first steps also raise keeping records; here that becomes a question for counsel. The source also flags cited law for the lawyer to verify rather than validating it; here every citation is copied as cited and left for the lawyer. FullyPowered AI added the copied-not-counted rule for dates, the naming of every record in the letter's own words, the records map with its deletion rules beside that question, the documents to gather and the addressing to a named lawyer. Editorially reviewed. Not reviewed by a lawyer. Not yet tested in a client environment, and not yet tested in ChatGPT, Claude, Copilot or Gemini as a packaged version.

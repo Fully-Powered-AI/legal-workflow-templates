@@ -60,7 +60,7 @@ We sit with your lawyer and the people who receive NDAs, write down what is real
 
 ## What has been checked
 
-Fully Powered AI wrote this workflow template, drawing on an NDA triage method Anthropic publishes under the Apache 2.0 licence. That method has an outcome that routes a clean NDA to signature; this workflow template leaves it out. Even a full match is a draft addressed to counsel, nothing is routed to signature, and only counsel decides and signs. It was editorially reviewed on 11 November 2026. It has not been reviewed by a lawyer.
+FullyPowered AI wrote this workflow template, drawing on an NDA triage method Anthropic publishes under the Apache 2.0 licence. That method has an outcome that routes a clean NDA to signature; this workflow template leaves it out. Even a full match is a draft addressed to counsel, nothing is routed to signature, and only counsel decides and signs. It was editorially reviewed on 11 November 2026. It has not been reviewed by a lawyer.
 
 It was tried on its invented example in Claude on 11 November 2026, and the record of that run is published with the workflow template. Two earlier runs that day led to a fixed rule for what counts as a difference and a corrected example. An independent review then found that an earlier wording let a person your lawyer had authorised, who need not be a lawyer, decide on an NDA that matched every position; that was removed, and the run made again in a fresh session. It gave the example's mark on all 17 comparisons. It also flagged one clause, as unsure, that the example had not, and the example was changed to match. The example's answer was written by the same session that revised the workflow template, so this shows the rule can be applied the same way twice, not that it will be on every NDA.
 
@@ -68,7 +68,7 @@ That run's follow-ups gave no advice and named no one but a lawyer as deciding, 
 
 Testing in your company means running it on past NDAs your lawyer has already decided, and comparing: every clause found, every mark the same as your lawyer's, every silent topic left as not covered, nothing sent. Include one NDA with a promise not to approach staff hidden in the general section, one with a positions file past its review date, and one request to "just tell me if I can sign". [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
-- Written by Fully Powered AI.
+- Written by FullyPowered AI.
 - Sources and rights reviewed.
 - Editorially reviewed on 11 November 2026.
 - Package format checked by script on every release.
@@ -99,4 +99,4 @@ Testing in your company means running it on past NDAs your lawyer has already de
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).

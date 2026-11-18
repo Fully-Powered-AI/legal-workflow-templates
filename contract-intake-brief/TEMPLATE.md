@@ -1,6 +1,6 @@
 # Contract intake brief
 
-Workflow template 0.1.0 · Legal and contracts · Fully Powered AI
+Workflow template 0.1.0 · Legal and contracts · FullyPowered AI
 
 ## Purpose
 
@@ -449,4 +449,4 @@ The company writes these. The workflow template supplies none of them.
 
 ## Version notes
 
-0.1.0 · 11 November 2026 · Written by Fully Powered AI, drawing one idea from a published source credited in the entry. Editorially reviewed. Not reviewed by a lawyer. Published as preparation only: the brief comments on no term, routes only under the company's own counsel-approved rules, and goes to the named lawyer. Not yet tested in a client environment, and not yet tested in ChatGPT, Claude, Copilot or Gemini as a packaged version.
+0.1.0 · 11 November 2026 · Written by FullyPowered AI, drawing one idea from a published source credited in the entry. Editorially reviewed. Not reviewed by a lawyer. Published as preparation only: the brief comments on no term, routes only under the company's own counsel-approved rules, and goes to the named lawyer. Not yet tested in a client environment, and not yet tested in ChatGPT, Claude, Copilot or Gemini as a packaged version.

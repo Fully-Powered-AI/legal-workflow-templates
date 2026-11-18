@@ -1,8 +1,10 @@
-# Fully Powered Workflow Templates: Legal
+# FullyPowered Workflow Templates: Legal
 
 Counsel's time spent on the judgment, not the gathering. These workflow templates prepare, organise, check and track legal work for the lawyer who decides and signs. They give no legal advice, draft nothing for use, and have not been reviewed by a lawyer.
 
 This repository holds 14 workflow templates for in-house counsel, contracts teams and the operations people who prepare work for outside counsel. Each one is a single piece of work with its own folder: what it is for and who starts it, the complete template an AI assistant follows, a worked example with invented data, what to change for your company, what has been checked, and its sources.
+
+These templates are examples and a starting point, not a complete list of what a team can do. FullyPowered AI can build any workflow for your company, including one that runs several steps, in a [Workflow Sprint or a scoped implementation](https://fullypowered.ai/pricing/).
 
 ## The workflow templates
 
@@ -39,7 +41,7 @@ Each folder says exactly what was checked and when: who wrote it, that its sourc
 
 ## More workflow templates
 
-The [Fully Powered Workflows Directory](https://fullypowered.ai/workflows/) lists every workflow template across functions and industries, with search. A machine-readable list of this repository is in [index.json](index.json).
+The [FullyPowered Workflows Directory](https://fullypowered.ai/workflows/) lists every workflow template across functions and industries, with search. A machine-readable list of this repository is in [index.json](index.json).
 
 For the work these templates come from, by team and by task, see [AI workflow examples for legal and contracts teams](https://fullypowered.ai/functions/legal-and-contracts/).
 
@@ -47,4 +49,4 @@ Law firms have their own page: [AI workflow examples for law firms](https://full
 
 ## Licence and credits
 
-MIT, in [LICENSE](LICENSE) and in every folder. Each folder's SOURCES.md names what the workflow template drew on. Published by [Fully Powered AI](https://fullypowered.ai/).
+MIT, in [LICENSE](LICENSE) and in every folder. Each folder's SOURCES.md names what the workflow template drew on. Published by [FullyPowered AI](https://fullypowered.ai/).

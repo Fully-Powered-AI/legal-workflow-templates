@@ -2,7 +2,7 @@
 
 *Illustrative example with invented data.* Company A, Supplier B, their people, the agreement, the routing rules and the entity list below are all invented. The routing rules are one invented company's; they are not a recommendation for how any company should route its agreements.
 
-Fully Powered AI writes no contract wording, even invented. So the agreement below shows each clause only by its heading, with a note in square brackets, written for this example, saying whether that clause mentions an attachment and quoting the mention if it does. Everything the workflow template reads is shown: titles, the opening lines, mentions of attachments, signature blocks, page footers and face markings.
+FullyPowered AI writes no contract wording, even invented. So the agreement below shows each clause only by its heading, with a note in square brackets, written for this example, saying whether that clause mentions an attachment and quoting the mention if it does. Everything the workflow template reads is shown: titles, the opening lines, mentions of attachments, signature blocks, page footers and face markings.
 
 The intake owner's five inputs come first, in full, then what the workflow template prepares.
 

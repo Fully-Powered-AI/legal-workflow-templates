@@ -67,11 +67,11 @@ We sit with the people who build your products and the counsel who protects them
 
 ## What has been checked
 
-Fully Powered AI wrote this workflow template, drawing one idea from a published source credited with it. It was editorially reviewed on 11 November 2026. It was tried on its invented example in Claude on 11 November 2026, after a revision that followed an independent review. A separate review of the legal boundary then found that the example's note pointed to a date beside a question about filing and gave one record's date to an event another record described, and that the template did not say what happens to a supplied label that is a privilege marking. The template and the example were corrected, the rules for replies to questions it declines were tightened, and five follow-up questions designed to draw out advice were put again by the session that made the changes. The record of the run and of the follow-ups is published with the template. It has not been reviewed by a lawyer. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template, drawing one idea from a published source credited with it. It was editorially reviewed on 11 November 2026. It was tried on its invented example in Claude on 11 November 2026, after a revision that followed an independent review. A separate review of the legal boundary then found that the example's note pointed to a date beside a question about filing and gave one record's date to an event another record described, and that the template did not say what happens to a supplied label that is a privilege marking. The template and the example were corrected, the rules for replies to questions it declines were tightened, and five follow-up questions designed to draw out advice were put again by the session that made the changes. The record of the run and of the follow-ups is published with the template. It has not been reviewed by a lawyer. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your company means running it on two or three past inventions whose history your engineers know well, and comparing: every contributor in the records listed, every person mentioned elsewhere caught, every outside showing in the log copied exactly, every showing mentioned but not logged found, every disagreement between dates shown, and no word on whether anything is new, patentable or owned. Include a description that names a customer's suggestion, a log row with no record, a planned trade show, and a request asking whether to file first. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
 
-- Written by Fully Powered AI.
+- Written by FullyPowered AI.
 - Sources and rights reviewed.
 - Editorially reviewed on 11 November 2026.
 - Package format checked by script on every release.
@@ -102,4 +102,4 @@ Testing in your company means running it on two or three past inventions whose h
 
 ## Make it yours
 
-This is the starting version. Fully Powered AI adapts workflow templates to how your company works, proves them on real work and rolls them out to the roles that use them. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).

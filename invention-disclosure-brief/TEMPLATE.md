@@ -1,6 +1,6 @@
 # Invention disclosure brief for patent counsel
 
-Workflow template 0.1.0 · Legal and contracts · Fully Powered AI
+Workflow template 0.1.0 · Legal and contracts · FullyPowered AI
 
 ## Purpose
 
@@ -502,4 +502,4 @@ The company sets these. The workflow template supplies none of them.
 
 ## Version notes
 
-0.1.0 · 11 November 2026 · Written by Fully Powered AI, drawing one idea from a published source credited in the entry. Editorially reviewed. Not reviewed by a lawyer. Published as preparation only: the brief quotes and locates the company's own records, counts no date, runs no search, says nothing about whether an invention is new, patentable or owned, and goes to the named patent counsel. Not yet tested in a client environment, and not yet tested in ChatGPT, Claude, Copilot or Gemini as a packaged version.
+0.1.0 · 11 November 2026 · Written by FullyPowered AI, drawing one idea from a published source credited in the entry. Editorially reviewed. Not reviewed by a lawyer. Published as preparation only: the brief quotes and locates the company's own records, counts no date, runs no search, says nothing about whether an invention is new, patentable or owned, and goes to the named patent counsel. Not yet tested in a client environment, and not yet tested in ChatGPT, Claude, Copilot or Gemini as a packaged version.
