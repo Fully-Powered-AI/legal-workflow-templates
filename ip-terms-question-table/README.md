@@ -1,10 +1,17 @@
 # IP ownership and licence question table
 
-Before an agreement or statement of work is signed, IP counsel gets one table of the ownership, assignment, licence, background-IP and confidentiality clauses, each quoted with its section, set against the company's own IP positions and led by whether the assignment words counsel expects were found.
+Get one table of ownership, assignment, licence and confidentiality clauses, each quoted with its section, for counsel's review before signing.
 
-*Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/ip-terms-question-table/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See IP ownership and licence question table on our website](https://fullypowered.ai/workflows/ip-terms-question-table/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-ip-terms-question-table&from=gh-legal-ip-terms-question-table) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/ip-terms-question-table/?from=gh-legal-ip-terms-question-table)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/ip-terms-question-table/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-ip-terms-question-table&from=gh-legal-ip-terms-question-table)*
 
 ## The outcome
 
@@ -43,14 +50,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Legal and contracts](https://fullypowered.ai/functions/legal-and-contracts/): the IP terms of an agreement read the same way every time, against positions the company's own lawyer wrote.
-- [Software and technology](https://fullypowered.ai/industries/software-technology/), where code, designs and documentation built by contractors are the product.
-- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/), where agency agreements and statements of work carry the terms on campaign artwork.
-- [Media and entertainment](https://fullypowered.ai/industries/media-and-entertainment/), where commissioned content and its licences are the business.
-- [Startups and new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/), where investors' counsel will ask who holds the rights to what the first contractors built.
-- [Acquisitions and integration](https://fullypowered.ai/situations/acquisitions-and-integration/), where a buyer's counsel needs every IP clause of the target's agreements quoted in one place.
+- [Legal and contracts](https://fullypowered.ai/functions/legal-and-contracts/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-ip-terms-question-table&from=gh-legal-ip-terms-question-table): the IP terms of an agreement read the same way every time, against positions the company's own lawyer wrote.
+- [Software and technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-ip-terms-question-table&from=gh-legal-ip-terms-question-table), where code, designs and documentation built by contractors are the product.
+- [Marketing and advertising](https://fullypowered.ai/industries/marketing-and-advertising/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-ip-terms-question-table&from=gh-legal-ip-terms-question-table), where agency agreements and statements of work carry the terms on campaign artwork.
+- [Media and entertainment](https://fullypowered.ai/industries/media-and-entertainment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-ip-terms-question-table&from=gh-legal-ip-terms-question-table), where commissioned content and its licences are the business.
+- [Startups and new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-ip-terms-question-table&from=gh-legal-ip-terms-question-table), where investors' counsel will ask who holds the rights to what the first contractors built.
+- [Acquisitions and integration](https://fullypowered.ai/situations/acquisitions-and-integration/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-ip-terms-question-table&from=gh-legal-ip-terms-question-table), where a buyer's counsel needs every IP clause of the target's agreements quoted in one place.
 
-It follows [contract intake brief](https://fullypowered.ai/workflows/contract-intake-brief/), which records what an agreement is and who reviews it. It covers only IP terms, for an IP reviewer; warranties, indemnities, liability and every other clause go to [contract issues table for counsel](https://fullypowered.ai/workflows/contract-issues-table-for-counsel/).
+It follows [contract intake brief](https://fullypowered.ai/workflows/contract-intake-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-ip-terms-question-table&from=gh-legal-ip-terms-question-table), which records what an agreement is and who reviews it. It covers only IP terms, for an IP reviewer; warranties, indemnities, liability and every other clause go to [contract issues table for counsel](https://fullypowered.ai/workflows/contract-issues-table-for-counsel/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-ip-terms-question-table&from=gh-legal-ip-terms-question-table).
 
 ## What has to change for your company
 
@@ -62,7 +69,7 @@ We sit with your contracts staff and your counsel, write down how IP terms are r
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 11 November 2026. It was tried on its invented example in Claude on 11 November 2026, in a fresh session that had not written or revised it, with six follow-up requests that tried to draw out advice, wording or a planted instruction. One reply in that run suggested asking the other side which copy of a document it had sent; a separate review of the legal boundary caught it, the rules were tightened so the template names no step beyond checking the quotations and giving the table to counsel, and the six requests were tried again on the tightened rules by the session that revised them, not by a fresh one. The record is published with the template. It has not been reviewed by a lawyer. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your company means running it on past agreements your counsel has already reviewed, and comparing: every IP clause found, every quotation exact, every word reported as found really there, no reading and no wording anywhere. Include an agreement whose assignment depends on payment, a statement of work that departs from its agreement, and a schedule that was never attached. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your company means running it on past agreements your counsel has already reviewed, and comparing: every IP clause found, every quotation exact, every word reported as found really there, no reading and no wording anywhere. Include an agreement whose assignment depends on payment, a statement of work that departs from its agreement, and a schedule that was never attached. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-ip-terms-question-table&from=gh-legal-ip-terms-question-table) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-ip-terms-question-table&from=gh-legal-ip-terms-question-table) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -91,8 +98,8 @@ Testing in your company means running it on past agreements your counsel has alr
 
 - [Contract issues table for counsel](../contract-issues-table-for-counsel/)
 - [Contract intake brief](../contract-intake-brief/)
-- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-ip-terms-question-table&from=gh-legal-ip-terms-question-table)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-ip-terms-question-table&from=gh-legal-ip-terms-question-table).

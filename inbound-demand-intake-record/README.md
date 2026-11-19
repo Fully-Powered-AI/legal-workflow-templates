@@ -1,10 +1,17 @@
 # Inbound demand or claim intake record
 
-When a demand, claim or subpoena arrives, the company's lawyer gets one intake record the same day: who sent it, what it asks, every date it states, the facts and citations it relies on, related matters, where the records are, and a question on keeping them. It rates nothing and recommends nothing.
+Turn an incoming demand, claim or subpoena into one intake record with dates copied and records located, for counsel's review. Rates and advises nothing.
 
-*Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/inbound-demand-intake-record/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Inbound demand or claim intake record on our website](https://fullypowered.ai/workflows/inbound-demand-intake-record/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-inbound-demand-intake-record&from=gh-legal-inbound-demand-intake-record) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/inbound-demand-intake-record/?from=gh-legal-inbound-demand-intake-record)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/inbound-demand-intake-record/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-inbound-demand-intake-record&from=gh-legal-inbound-demand-intake-record)*
 
 ## The outcome
 
@@ -39,14 +46,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Legal and contracts](https://fullypowered.ai/functions/legal-and-contracts/): the first hours after a letter arrives, when facts are easiest to lose and a lawyer's time is best spent on the decision.
-- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/), where letters about orders, suppliers and product listings arrive at companies that often have no lawyer on staff.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where the papers a letter refers to (purchase orders, delivery records, supply agreements) are spread across several systems.
-- [Software and technology](https://fullypowered.ai/industries/software-technology/), where demands and subpoenas reach a small team whose records sit in email, chat and shared drives with different deletion rules.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), with years of matters on file and a past dispute with the same party that should not be missed.
-- [Growth and scaling](https://fullypowered.ai/situations/growth-and-scaling/), when letters start arriving faster than the founder can forward them with the right facts attached.
+- [Legal and contracts](https://fullypowered.ai/functions/legal-and-contracts/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-inbound-demand-intake-record&from=gh-legal-inbound-demand-intake-record): the first hours after a letter arrives, when facts are easiest to lose and a lawyer's time is best spent on the decision.
+- [E-commerce and retail](https://fullypowered.ai/industries/ecommerce-and-retail/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-inbound-demand-intake-record&from=gh-legal-inbound-demand-intake-record), where letters about orders, suppliers and product listings arrive at companies that often have no lawyer on staff.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-inbound-demand-intake-record&from=gh-legal-inbound-demand-intake-record), where the papers a letter refers to (purchase orders, delivery records, supply agreements) are spread across several systems.
+- [Software and technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-inbound-demand-intake-record&from=gh-legal-inbound-demand-intake-record), where demands and subpoenas reach a small team whose records sit in email, chat and shared drives with different deletion rules.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-inbound-demand-intake-record&from=gh-legal-inbound-demand-intake-record), with years of matters on file and a past dispute with the same party that should not be missed.
+- [Growth and scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-inbound-demand-intake-record&from=gh-legal-inbound-demand-intake-record), when letters start arriving faster than the founder can forward them with the right facts attached.
 
-It sits upstream of [court-order deadline notice preparation](https://fullypowered.ai/workflows/court-order-deadline-notice-preparation/), which handles orders once a matter is in court, and of [legal hold custodian tracker](https://fullypowered.ai/workflows/legal-hold-custodian-tracker/), which keeps track of a hold once counsel has answered the question on keeping records and issued one. It is not the same work as [complaint and refund request handling](https://fullypowered.ai/workflows/complaint-and-refund-request-handling/), which answers customers under the company's own policy, or [supplier issue notice](https://fullypowered.ai/workflows/supplier-issue-notice/), which the company sends out.
+It sits upstream of [court-order deadline notice preparation](https://fullypowered.ai/workflows/court-order-deadline-notice-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-inbound-demand-intake-record&from=gh-legal-inbound-demand-intake-record), which handles orders once a matter is in court, and of [legal hold custodian tracker](https://fullypowered.ai/workflows/legal-hold-custodian-tracker/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-inbound-demand-intake-record&from=gh-legal-inbound-demand-intake-record), which keeps track of a hold once counsel has answered the question on keeping records and issued one. It is not the same work as [complaint and refund request handling](https://fullypowered.ai/workflows/complaint-and-refund-request-handling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-inbound-demand-intake-record&from=gh-legal-inbound-demand-intake-record), which answers customers under the company's own policy, or [supplier issue notice](https://fullypowered.ai/workflows/supplier-issue-notice/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-inbound-demand-intake-record&from=gh-legal-inbound-demand-intake-record), which the company sends out.
 
 ## What has to change for your company
 
@@ -56,7 +63,7 @@ Name the lawyer before the first letter arrives, and a stand-in for the weeks th
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 11 November 2026. It has not been reviewed by a lawyer. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your company means running it on past letters your lawyer has already handled, and checking that every demand, date and citation is copied word for word, that no period has been turned into a date, that every citation is left for the lawyer, and that nothing was sent. Include a letter with a missing enclosure, one that cites a case that does not exist, one with a line addressed to an AI assistant, and a request to "just tell us whether to pay". [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your company means running it on past letters your lawyer has already handled, and checking that every demand, date and citation is copied word for word, that no period has been turned into a date, that every citation is left for the lawyer, and that nothing was sent. Include a letter with a missing enclosure, one that cites a case that does not exist, one with a line addressed to an AI assistant, and a request to "just tell us whether to pay". [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-inbound-demand-intake-record&from=gh-legal-inbound-demand-intake-record) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-inbound-demand-intake-record&from=gh-legal-inbound-demand-intake-record) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -83,11 +90,11 @@ Testing in your company means running it on past letters your lawyer has already
 
 ## Related workflow templates
 
-- [Court-order deadline notice preparation](https://fullypowered.ai/workflows/court-order-deadline-notice-preparation/)
+- [Court-order deadline notice preparation](https://fullypowered.ai/workflows/court-order-deadline-notice-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-inbound-demand-intake-record&from=gh-legal-inbound-demand-intake-record)
 - [Legal hold custodian tracker](../legal-hold-custodian-tracker/)
-- [Complaint and refund request handling](https://fullypowered.ai/workflows/complaint-and-refund-request-handling/)
-- [Supplier issue notice](https://fullypowered.ai/workflows/supplier-issue-notice/)
+- [Complaint and refund request handling](https://fullypowered.ai/workflows/complaint-and-refund-request-handling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-inbound-demand-intake-record&from=gh-legal-inbound-demand-intake-record)
+- [Supplier issue notice](https://fullypowered.ai/workflows/supplier-issue-notice/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-inbound-demand-intake-record&from=gh-legal-inbound-demand-intake-record)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-inbound-demand-intake-record&from=gh-legal-inbound-demand-intake-record).

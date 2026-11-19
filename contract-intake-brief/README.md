@@ -1,10 +1,17 @@
 # Contract intake brief
 
-When another party's agreement arrives, counsel gets a one-page intake brief: what it is, read from its titles, the parties as named, what is missing, the requester's purpose and date, and the reviewer your own routing rules name. It comments on no term; counsel decides.
+Get a one-page intake brief for each incoming agreement: what arrived, parties, missing exhibits and routing, all for counsel's review.
 
-*Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/contract-intake-brief/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Contract intake brief on our website](https://fullypowered.ai/workflows/contract-intake-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-intake-brief&from=gh-legal-contract-intake-brief) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/contract-intake-brief/?from=gh-legal-contract-intake-brief)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/contract-intake-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-intake-brief&from=gh-legal-contract-intake-brief)*
 
 ## The outcome
 
@@ -18,7 +25,7 @@ This is preparation for a lawyer, and it stays preparation. It gives no legal ad
 
 The contracts manager, the legal operations lead, or the operations person who routes contracts starts it when a supplier, customer or partner sends its own agreement for the company to sign. The intake owner confirms the routing. The named lawyer decides everything else: in-house counsel, or, where the company has no lawyer of its own, the outside counsel it uses. In that case the brief is addressed to outside counsel and goes to them; it is never handed back to the business as an answer. If the company has no lawyer at all, the brief is marked not ready for counsel and waits for one; it is not a review of the agreement and says nothing about whether to sign.
 
-It is not for a law firm's new-client inquiries, which [inquiry handoff](https://fullypowered.ai/workflows/inquiry-handoff/) prepares, or for deciding whether to answer a buyer's request for proposal, which is [bid or no-bid and RFP response plan](https://fullypowered.ai/workflows/bid-or-no-bid-and-rfp-response-plan/). Letters, claims, notices and court papers go straight to counsel as received. A question such as "is this fine to sign?" is recorded in the brief for counsel and not answered, and the reply to it points to counsel without picking out any of the brief's findings as bearing on the answer.
+It is not for a law firm's new-client inquiries, which [inquiry handoff](https://fullypowered.ai/workflows/inquiry-handoff/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-intake-brief&from=gh-legal-contract-intake-brief) prepares, or for deciding whether to answer a buyer's request for proposal, which is [bid or no-bid and RFP response plan](https://fullypowered.ai/workflows/bid-or-no-bid-and-rfp-response-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-intake-brief&from=gh-legal-contract-intake-brief). Letters, claims, notices and court papers go straight to counsel as received. A question such as "is this fine to sign?" is recorded in the brief for counsel and not answered, and the reply to it points to counsel without picking out any of the brief's findings as bearing on the answer.
 
 ## What they supply
 
@@ -46,16 +53,16 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Legal and contracts](https://fullypowered.ai/functions/legal-and-contracts/), where the first hour of every review goes on working out what arrived and who should read it.
-- [Procurement and suppliers](https://fullypowered.ai/functions/procurement-and-suppliers/), where a chosen supplier's paper arrives with a start date attached.
-- [Sales](https://fullypowered.ai/functions/sales/), where a customer insists on its own agreement and the deal date is close.
-- [Software and technology](https://fullypowered.ai/industries/software-technology/), where subscription, services and data agreements arrive weekly, each with its own stack of exhibits.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where client paper decides whether an engagement can start on the agreed day.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where supply, tooling and distribution agreements come from many counterparties in many forms.
-- [Growth and scaling](https://fullypowered.ai/situations/growth-and-scaling/), when contract volume outgrows the one lawyer who used to see everything.
-- [Startups and new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/), with no lawyer on staff and every agreement going to outside counsel, whose time is billed by the hour.
+- [Legal and contracts](https://fullypowered.ai/functions/legal-and-contracts/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-intake-brief&from=gh-legal-contract-intake-brief), where the first hour of every review goes on working out what arrived and who should read it.
+- [Procurement and suppliers](https://fullypowered.ai/functions/procurement-and-suppliers/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-intake-brief&from=gh-legal-contract-intake-brief), where a chosen supplier's paper arrives with a start date attached.
+- [Sales](https://fullypowered.ai/functions/sales/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-intake-brief&from=gh-legal-contract-intake-brief), where a customer insists on its own agreement and the deal date is close.
+- [Software and technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-intake-brief&from=gh-legal-contract-intake-brief), where subscription, services and data agreements arrive weekly, each with its own stack of exhibits.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-intake-brief&from=gh-legal-contract-intake-brief), where client paper decides whether an engagement can start on the agreed day.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-intake-brief&from=gh-legal-contract-intake-brief), where supply, tooling and distribution agreements come from many counterparties in many forms.
+- [Growth and scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-intake-brief&from=gh-legal-contract-intake-brief), when contract volume outgrows the one lawyer who used to see everything.
+- [Startups and new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-intake-brief&from=gh-legal-contract-intake-brief), with no lawyer on staff and every agreement going to outside counsel, whose time is billed by the hour.
 
-It often follows [vendor quote comparison](https://fullypowered.ai/workflows/vendor-quote-comparison/), which ends with the supplier's terms going to your reviewer. Once an agreement is signed, [vendor renewal review](https://fullypowered.ai/workflows/vendor-renewal-review/) takes over before its notice date.
+It often follows [vendor quote comparison](https://fullypowered.ai/workflows/vendor-quote-comparison/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-intake-brief&from=gh-legal-contract-intake-brief), which ends with the supplier's terms going to your reviewer. Once an agreement is signed, [vendor renewal review](https://fullypowered.ai/workflows/vendor-renewal-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-intake-brief&from=gh-legal-contract-intake-brief) takes over before its notice date.
 
 ## What has to change for your company
 
@@ -69,7 +76,7 @@ We sit with the person who routes your contracts and the lawyer who reviews them
 
 FullyPowered AI wrote this workflow template, drawing one idea from a published source credited with it. It was editorially reviewed on 11 November 2026. It has not been reviewed by a lawyer. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your company means running it on past agreements whose routing counsel already settled, and comparing: every attachment found, every missing one named, every difference in names set out, the reviewer equal to counsel's choice, and no term commented on. Include a services agreement the requester called an NDA, an exhibit mentioned and not sent, a title no rule matches, and a request that asks whether the agreement is fine to sign. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your company means running it on past agreements whose routing counsel already settled, and comparing: every attachment found, every missing one named, every difference in names set out, the reviewer equal to counsel's choice, and no term commented on. Include a services agreement the requester called an NDA, an exhibit mentioned and not sent, a title no rule matches, and a request that asks whether the agreement is fine to sign. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-intake-brief&from=gh-legal-contract-intake-brief) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-intake-brief&from=gh-legal-contract-intake-brief) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -96,10 +103,10 @@ Testing in your company means running it on past agreements whose routing counse
 
 ## Related workflow templates
 
-- [Vendor quote comparison](https://fullypowered.ai/workflows/vendor-quote-comparison/)
-- [Vendor renewal review](https://fullypowered.ai/workflows/vendor-renewal-review/)
-- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/)
+- [Vendor quote comparison](https://fullypowered.ai/workflows/vendor-quote-comparison/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-intake-brief&from=gh-legal-contract-intake-brief)
+- [Vendor renewal review](https://fullypowered.ai/workflows/vendor-renewal-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-intake-brief&from=gh-legal-contract-intake-brief)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-intake-brief&from=gh-legal-contract-intake-brief)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-intake-brief&from=gh-legal-contract-intake-brief).

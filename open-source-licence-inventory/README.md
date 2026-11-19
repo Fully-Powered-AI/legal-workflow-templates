@@ -1,10 +1,17 @@
 # Open-source licence inventory for counsel
 
-Before a release ships or an acquirer asks, counsel and the engineering lead get every open-source package listed with its licence as found, the file and line where it was read, and the duties your own policy attaches to it. A missing, custom or conflicting licence is marked needs review, never cleared.
+Get every open-source package listed with its licence as found and your policy's duties, with doubtful ones marked needs review, for counsel's review.
 
-*Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/open-source-licence-inventory/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Open-source licence inventory for counsel on our website](https://fullypowered.ai/workflows/open-source-licence-inventory/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-open-source-licence-inventory&from=gh-legal-open-source-licence-inventory) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/open-source-licence-inventory/?from=gh-legal-open-source-licence-inventory)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/open-source-licence-inventory/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-open-source-licence-inventory&from=gh-legal-open-source-licence-inventory)*
 
 ## The outcome
 
@@ -44,15 +51,15 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Legal and contracts](https://fullypowered.ai/functions/legal-and-contracts/): counsel sets the policy once and sees each release already laid out against it.
-- [Software engineering](https://fullypowered.ai/functions/software-engineering/), which owns the dependency list, the build and any change counsel's decisions lead to.
-- [Software technology](https://fullypowered.ai/industries/software-technology/), where products are built from open-source packages and customers ask what is inside.
-- [Hardware and physical technology](https://fullypowered.ai/industries/hardware-and-physical-technology/), where software ships inside a device and the delivery way changes what the policy asks.
-- [Media and entertainment](https://fullypowered.ai/industries/media-and-entertainment/), where apps and games go out to millions of devices.
-- [Acquisitions & integration](https://fullypowered.ai/situations/acquisitions-and-integration/), when a buyer's diligence list asks for the open-source code in the product and counsel wants it laid out first.
-- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/), where the lawyer is usually outside counsel and every hour of their time is paid for.
+- [Legal and contracts](https://fullypowered.ai/functions/legal-and-contracts/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-open-source-licence-inventory&from=gh-legal-open-source-licence-inventory): counsel sets the policy once and sees each release already laid out against it.
+- [Software engineering](https://fullypowered.ai/functions/software-engineering/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-open-source-licence-inventory&from=gh-legal-open-source-licence-inventory), which owns the dependency list, the build and any change counsel's decisions lead to.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-open-source-licence-inventory&from=gh-legal-open-source-licence-inventory), where products are built from open-source packages and customers ask what is inside.
+- [Hardware and physical technology](https://fullypowered.ai/industries/hardware-and-physical-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-open-source-licence-inventory&from=gh-legal-open-source-licence-inventory), where software ships inside a device and the delivery way changes what the policy asks.
+- [Media and entertainment](https://fullypowered.ai/industries/media-and-entertainment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-open-source-licence-inventory&from=gh-legal-open-source-licence-inventory), where apps and games go out to millions of devices.
+- [Acquisitions & integration](https://fullypowered.ai/situations/acquisitions-and-integration/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-open-source-licence-inventory&from=gh-legal-open-source-licence-inventory), when a buyer's diligence list asks for the open-source code in the product and counsel wants it laid out first.
+- [Startups & new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-open-source-licence-inventory&from=gh-legal-open-source-licence-inventory), where the lawyer is usually outside counsel and every hour of their time is paid for.
 
-It sits beside [buyer security questionnaire answers](https://fullypowered.ai/workflows/buyer-security-questionnaire-answers/), the other request about what is inside your product that arrives during a sale, and [software subscription and vendor spend review](https://fullypowered.ai/workflows/software-subscription-and-vendor-spend-review/), which looks at the software you pay for rather than the open-source code you ship. [Release notes draft](https://fullypowered.ai/workflows/release-notes-draft/) covers what the same release tells your users.
+It sits beside [buyer security questionnaire answers](https://fullypowered.ai/workflows/buyer-security-questionnaire-answers/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-open-source-licence-inventory&from=gh-legal-open-source-licence-inventory), the other request about what is inside your product that arrives during a sale, and [software subscription and vendor spend review](https://fullypowered.ai/workflows/software-subscription-and-vendor-spend-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-open-source-licence-inventory&from=gh-legal-open-source-licence-inventory), which looks at the software you pay for rather than the open-source code you ship. [Release notes draft](https://fullypowered.ai/workflows/release-notes-draft/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-open-source-licence-inventory&from=gh-legal-open-source-licence-inventory) covers what the same release tells your users.
 
 ## What has to change for your company
 
@@ -64,7 +71,7 @@ We sit with your engineering lead and your lawyer, write down what is really don
 
 FullyPowered AI wrote this workflow template, drawing on an open-source review method Anthropic publishes under the Apache 2.0 licence, and left out that method's own licence families, risk ratings and recommendations. It was editorially reviewed on 11 November 2026. It has not been reviewed by a lawyer. It was tried on its invented example in Claude on 11 November 2026, and the record of that run is published with the template. Its five pressure tests, which try to draw a verdict, a case or advice out of it, were run again after its last changes by the session that revised it, not by an independent one. It has not yet been tested in a client environment, or tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your company means running it on past releases whose licence questions your lawyer has already settled, and comparing: every package listed, every licence quoted from its own text, every needs-review item the same as your lawyer's list, nothing approved, nothing changed. Include a package with no licence file, one whose source file header names a different licence from its licence file, a request to "just tell us if we can ship", a request that cites a licence section nobody supplied, and a licence file with a line telling AI tools what to report. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your company means running it on past releases whose licence questions your lawyer has already settled, and comparing: every package listed, every licence quoted from its own text, every needs-review item the same as your lawyer's list, nothing approved, nothing changed. Include a package with no licence file, one whose source file header names a different licence from its licence file, a request to "just tell us if we can ship", a request that cites a licence section nobody supplied, and a licence file with a line telling AI tools what to report. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-open-source-licence-inventory&from=gh-legal-open-source-licence-inventory) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-open-source-licence-inventory&from=gh-legal-open-source-licence-inventory) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -91,10 +98,10 @@ Testing in your company means running it on past releases whose licence question
 
 ## Related workflow templates
 
-- [Buyer security questionnaire answers](https://fullypowered.ai/workflows/buyer-security-questionnaire-answers/)
-- [Software subscription and vendor spend review](https://fullypowered.ai/workflows/software-subscription-and-vendor-spend-review/)
-- [Release notes draft](https://fullypowered.ai/workflows/release-notes-draft/)
+- [Buyer security questionnaire answers](https://fullypowered.ai/workflows/buyer-security-questionnaire-answers/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-open-source-licence-inventory&from=gh-legal-open-source-licence-inventory)
+- [Software subscription and vendor spend review](https://fullypowered.ai/workflows/software-subscription-and-vendor-spend-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-open-source-licence-inventory&from=gh-legal-open-source-licence-inventory)
+- [Release notes draft](https://fullypowered.ai/workflows/release-notes-draft/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-open-source-licence-inventory&from=gh-legal-open-source-licence-inventory)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-open-source-licence-inventory&from=gh-legal-open-source-licence-inventory).

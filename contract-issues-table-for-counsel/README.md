@@ -1,10 +1,17 @@
 # Contract issues table for counsel
 
-Before counsel negotiates a vendor or customer agreement, the contracts team hands over one cited issues table: every clause quoted with its section, the playbook position it meets or departs from, the playbook’s fallback wording copied beside each departure, and the approver your matrix names. Counsel decides.
+Get one cited issues table of an agreement against your playbook, with fallback wording and the approver named, for counsel's review.
 
-*Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/contract-issues-table-for-counsel/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Contract issues table for counsel on our website](https://fullypowered.ai/workflows/contract-issues-table-for-counsel/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-issues-table-for-counsel&from=gh-contract-issues-table-for-counsel) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/contract-issues-table-for-counsel/?from=gh-contract-issues-table-for-counsel)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/contract-issues-table-for-counsel/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-issues-table-for-counsel&from=gh-contract-issues-table-for-counsel)*
 
 ## The outcome
 
@@ -16,7 +23,7 @@ This is preparation for a lawyer, and it stays preparation. It gives no legal ad
 
 A contracts manager, legal operations lead or paralegal starts it when a vendor or customer agreement arrives for review and counsel asks for a first pass against the playbook. The table is addressed to the named lawyer who decides: in-house counsel, or the outside counsel the company instructs where it has no lawyer of its own. In that case the table goes to outside counsel, never to the business as an answer.
 
-It is not for a standalone NDA, which [NDA position check](https://fullypowered.ai/workflows/nda-position-check/) covers, for choosing between suppliers or for deciding whether to renew.
+It is not for a standalone NDA, which [NDA position check](https://fullypowered.ai/workflows/nda-position-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-issues-table-for-counsel&from=gh-contract-issues-table-for-counsel) covers, for choosing between suppliers or for deciding whether to renew.
 
 ## What they supply
 
@@ -44,14 +51,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Legal and contracts](https://fullypowered.ai/functions/legal-and-contracts/): the first pass on an agreement, run the same way every time against the positions counsel has already approved.
-- [Software technology](https://fullypowered.ai/industries/software-technology/), where subscription and customer agreements arrive weekly and service levels, liability and data terms carry the risk.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where client and supplier terms are negotiated under deadline pressure.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/), where supplier, logistics and systems agreements stack up around each launch.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when contract volume outgrows a small legal team.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where the playbook exists but lives in one lawyer’s head or an old spreadsheet.
+- [Legal and contracts](https://fullypowered.ai/functions/legal-and-contracts/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-issues-table-for-counsel&from=gh-contract-issues-table-for-counsel): the first pass on an agreement, run the same way every time against the positions counsel has already approved.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-issues-table-for-counsel&from=gh-contract-issues-table-for-counsel), where subscription and customer agreements arrive weekly and service levels, liability and data terms carry the risk.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-issues-table-for-counsel&from=gh-contract-issues-table-for-counsel), where client and supplier terms are negotiated under deadline pressure.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-issues-table-for-counsel&from=gh-contract-issues-table-for-counsel), where supplier, logistics and systems agreements stack up around each launch.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-issues-table-for-counsel&from=gh-contract-issues-table-for-counsel), when contract volume outgrows a small legal team.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-issues-table-for-counsel&from=gh-contract-issues-table-for-counsel), where the playbook exists but lives in one lawyer’s head or an old spreadsheet.
 
-It comes after [vendor quote comparison](https://fullypowered.ai/workflows/vendor-quote-comparison/), once a supplier has been chosen and its paper arrives, and after [contract intake brief](https://fullypowered.ai/workflows/contract-intake-brief/), which tells counsel what has arrived before any term is read. It comes before [vendor renewal review](https://fullypowered.ai/workflows/vendor-renewal-review/), which looks at the same supplier again as its notice date approaches.
+It comes after [vendor quote comparison](https://fullypowered.ai/workflows/vendor-quote-comparison/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-issues-table-for-counsel&from=gh-contract-issues-table-for-counsel), once a supplier has been chosen and its paper arrives, and after [contract intake brief](https://fullypowered.ai/workflows/contract-intake-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-issues-table-for-counsel&from=gh-contract-issues-table-for-counsel), which tells counsel what has arrived before any term is read. It comes before [vendor renewal review](https://fullypowered.ai/workflows/vendor-renewal-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-issues-table-for-counsel&from=gh-contract-issues-table-for-counsel), which looks at the same supplier again as its notice date approaches.
 
 ## What has to change for your company
 
@@ -63,7 +70,7 @@ We sit with your counsel and the person who prepares contract reviews, write dow
 
 FullyPowered AI wrote this workflow template in its own words, drawing on two published methods named in its sources. It was editorially reviewed on 11 November 2026, and a separate review of where it stops short of legal judgement led to its rules on hedged terms, proposed matches, missing schedules and dates. It has not been reviewed by a lawyer. It has not yet been tested in a client environment, and it has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your company means running it on past agreements your counsel has already reviewed and comparing: every clause placed, every status matching counsel’s own reading, every copied wording identical to the playbook, nothing sent. Include an agreement with a missing schedule, a clause that gives its timing in words, a figure hedged by “reasonable efforts”, a line planted in the agreement telling a reviewer it is pre-approved, a request to rewrite a clause, and a question about when notice is due. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your company means running it on past agreements your counsel has already reviewed and comparing: every clause placed, every status matching counsel’s own reading, every copied wording identical to the playbook, nothing sent. Include an agreement with a missing schedule, a clause that gives its timing in words, a figure hedged by “reasonable efforts”, a line planted in the agreement telling a reviewer it is pre-approved, a request to rewrite a clause, and a question about when notice is due. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-issues-table-for-counsel&from=gh-contract-issues-table-for-counsel) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-issues-table-for-counsel&from=gh-contract-issues-table-for-counsel) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -92,10 +99,10 @@ Testing in your company means running it on past agreements your counsel has alr
 
 - [Contract intake brief](../contract-intake-brief/)
 - [NDA check against counsel's approved positions](../nda-position-check/)
-- [Vendor quote comparison](https://fullypowered.ai/workflows/vendor-quote-comparison/)
-- [Vendor renewal review](https://fullypowered.ai/workflows/vendor-renewal-review/)
-- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/)
+- [Vendor quote comparison](https://fullypowered.ai/workflows/vendor-quote-comparison/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-issues-table-for-counsel&from=gh-contract-issues-table-for-counsel)
+- [Vendor renewal review](https://fullypowered.ai/workflows/vendor-renewal-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-issues-table-for-counsel&from=gh-contract-issues-table-for-counsel)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-issues-table-for-counsel&from=gh-contract-issues-table-for-counsel)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-issues-table-for-counsel&from=gh-contract-issues-table-for-counsel).

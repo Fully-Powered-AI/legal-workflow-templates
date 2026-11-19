@@ -1,10 +1,17 @@
 # Outside-counsel invoice questions
 
-When a law firm’s invoice arrives, legal operations has one worksheet ready: every line set against the agreed rates, the approved matter budget and the company’s own billing guidelines, each difference written as a neutral question for the firm. Nothing is sent, paid or rejected until people decide.
+A worksheet that sets each law firm invoice line against agreed rates, budget and billing guidelines as neutral questions, for counsel's review.
 
-*Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/outside-counsel-invoice-questions/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Outside-counsel invoice questions on our website](https://fullypowered.ai/workflows/outside-counsel-invoice-questions/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-outside-counsel-invoice-questions&from=gh-outside-counsel-invoice-questions) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/outside-counsel-invoice-questions/?from=gh-outside-counsel-invoice-questions)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/outside-counsel-invoice-questions/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-outside-counsel-invoice-questions&from=gh-outside-counsel-invoice-questions)*
 
 ## The outcome
 
@@ -48,16 +55,16 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Legal and contracts](https://fullypowered.ai/functions/legal-and-contracts/): legal operations owns the read of every outside-counsel bill and the conversation with the firm.
-- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/): finance pays what the legal budget owner approves, and the budget lines feed the legal forecast.
-- [Insurance](https://fullypowered.ai/industries/insurance/), where claims litigation sends a steady stream of invoices from panel firms working under the same billing guidelines.
-- [Finance and investment](https://fullypowered.ai/industries/finance-and-investment/), where regulatory and transaction counsel bill against agreed rates across many matters at once.
-- [Software and technology](https://fullypowered.ai/industries/software-technology/), where patent, commercial and employment counsel each bill a lean legal team.
-- [Life sciences](https://fullypowered.ai/industries/life-sciences/), where regulatory and patent work runs over long matters with phase budgets.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), when the invoice checks live in one experienced person’s head.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when outside-counsel spend grows faster than the team that reads the bills.
+- [Legal and contracts](https://fullypowered.ai/functions/legal-and-contracts/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-outside-counsel-invoice-questions&from=gh-outside-counsel-invoice-questions): legal operations owns the read of every outside-counsel bill and the conversation with the firm.
+- [Finance and accounting](https://fullypowered.ai/functions/finance-and-accounting/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-outside-counsel-invoice-questions&from=gh-outside-counsel-invoice-questions): finance pays what the legal budget owner approves, and the budget lines feed the legal forecast.
+- [Insurance](https://fullypowered.ai/industries/insurance/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-outside-counsel-invoice-questions&from=gh-outside-counsel-invoice-questions), where claims litigation sends a steady stream of invoices from panel firms working under the same billing guidelines.
+- [Finance and investment](https://fullypowered.ai/industries/finance-and-investment/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-outside-counsel-invoice-questions&from=gh-outside-counsel-invoice-questions), where regulatory and transaction counsel bill against agreed rates across many matters at once.
+- [Software and technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-outside-counsel-invoice-questions&from=gh-outside-counsel-invoice-questions), where patent, commercial and employment counsel each bill a lean legal team.
+- [Life sciences](https://fullypowered.ai/industries/life-sciences/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-outside-counsel-invoice-questions&from=gh-outside-counsel-invoice-questions), where regulatory and patent work runs over long matters with phase budgets.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-outside-counsel-invoice-questions&from=gh-outside-counsel-invoice-questions), when the invoice checks live in one experienced person’s head.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-outside-counsel-invoice-questions&from=gh-outside-counsel-invoice-questions), when outside-counsel spend grows faster than the team that reads the bills.
 
-It is the company’s side of the bill. A law firm checks its own bill before sending it with [prebill exception review](https://fullypowered.ai/workflows/prebill-exception-review/). Bills from suppliers of goods and services go through [supplier bill review and payment run preparation](https://fullypowered.ai/workflows/supplier-bill-review-and-payment-run-preparation/). For the month’s spend against plan, [budget versus actual variance commentary](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/) takes the budget figures further.
+It is the company’s side of the bill. A law firm checks its own bill before sending it with [prebill exception review](https://fullypowered.ai/workflows/prebill-exception-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-outside-counsel-invoice-questions&from=gh-outside-counsel-invoice-questions). Bills from suppliers of goods and services go through [supplier bill review and payment run preparation](https://fullypowered.ai/workflows/supplier-bill-review-and-payment-run-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-outside-counsel-invoice-questions&from=gh-outside-counsel-invoice-questions). For the month’s spend against plan, [budget versus actual variance commentary](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-outside-counsel-invoice-questions&from=gh-outside-counsel-invoice-questions) takes the budget figures further.
 
 ## What has to change for your company
 
@@ -71,7 +78,7 @@ We sit with your legal operations manager and the lawyer who owns the outside-co
 
 FullyPowered AI wrote this workflow template from its own published map of in-house legal work. It was editorially reviewed on 11 November 2026. It has not been reviewed by a lawyer. It was tried once on its invented example in Claude on 11 November 2026, and the record of that run is published with it. A separate review of the legal boundary then found two replies in that run that read as verdicts on payment; the instructions were tightened and the pressure tests run again, and the record says what each showed, faults included. It has not been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your company means running it on two or three past invoices whose questions your legal operations team already raised, plus hard cases written in advance: lines that do not add up to the total, a rate step in the middle of the month, the same entry billed twice, three people at a meeting where the guidelines allow two, a phase past its budget, and a request to say what to short-pay. Legal operations checks every item against the invoice before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your company means running it on two or three past invoices whose questions your legal operations team already raised, plus hard cases written in advance: lines that do not add up to the total, a rate step in the middle of the month, the same entry billed twice, three people at a meeting where the guidelines allow two, a phase past its budget, and a request to say what to short-pay. Legal operations checks every item against the invoice before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-outside-counsel-invoice-questions&from=gh-outside-counsel-invoice-questions) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-outside-counsel-invoice-questions&from=gh-outside-counsel-invoice-questions) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -98,10 +105,10 @@ Testing in your company means running it on two or three past invoices whose que
 
 ## Related workflow templates
 
-- [Prebill exception review](https://fullypowered.ai/workflows/prebill-exception-review/)
-- [Supplier bill review and payment-run preparation](https://fullypowered.ai/workflows/supplier-bill-review-and-payment-run-preparation/)
-- [Budget-versus-actual variance commentary](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/)
+- [Prebill exception review](https://fullypowered.ai/workflows/prebill-exception-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-outside-counsel-invoice-questions&from=gh-outside-counsel-invoice-questions)
+- [Supplier bill review and payment-run preparation](https://fullypowered.ai/workflows/supplier-bill-review-and-payment-run-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-outside-counsel-invoice-questions&from=gh-outside-counsel-invoice-questions)
+- [Budget-versus-actual variance commentary](https://fullypowered.ai/workflows/budget-versus-actual-variance-commentary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-outside-counsel-invoice-questions&from=gh-outside-counsel-invoice-questions)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-outside-counsel-invoice-questions&from=gh-outside-counsel-invoice-questions).

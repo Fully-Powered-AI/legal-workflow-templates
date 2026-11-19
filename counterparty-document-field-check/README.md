@@ -1,10 +1,17 @@
 # Counterparty certificate and bond field check
 
-When the other side hands over a bond, guarantee, standby letter of credit or estoppel certificate, the contracts manager gets each field set beside the contract and the file records, quoted, with every mismatch raised as a question for counsel. It never says whether the document is valid, sufficient or enforceable.
+Each field of a bond, guarantee or estoppel certificate set beside the contract and records, quoted, with every mismatch a question for counsel.
 
-*Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/counterparty-document-field-check/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Counterparty certificate and bond field check on our website](https://fullypowered.ai/workflows/counterparty-document-field-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-counterparty-document-field-check&from=gh-counterparty-document-field-check) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/counterparty-document-field-check/?from=gh-counterparty-document-field-check)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/counterparty-document-field-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-counterparty-document-field-check&from=gh-counterparty-document-field-check)*
 
 ## The outcome
 
@@ -20,7 +27,7 @@ The contracts manager, contract administrator, project administrator or lease ad
 
 A named lawyer decides: in-house counsel, the responsible attorney, or the outside counsel the company uses where it has no lawyer. In that case the check is addressed to outside counsel and goes to them; it is never handed to the business as an answer. If the company has no lawyer at all, the check is marked not ready for counsel and waits for one. A question such as "is this bond fine so we can pay?" is copied into the check for counsel and not answered.
 
-It is not for the company's own certificates, which its signatory and counsel decide; not for insurance certificates, which [vendor insurance certificate check](https://fullypowered.ai/workflows/vendor-insurance-certificate-check/) reads against an approved requirement sheet; and not for letters, notices, claims or a call on a bond, which go to counsel as received.
+It is not for the company's own certificates, which its signatory and counsel decide; not for insurance certificates, which [vendor insurance certificate check](https://fullypowered.ai/workflows/vendor-insurance-certificate-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-counterparty-document-field-check&from=gh-counterparty-document-field-check) reads against an approved requirement sheet; and not for letters, notices, claims or a call on a bond, which go to counsel as received.
 
 ## What they supply
 
@@ -49,15 +56,15 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Legal and contracts](https://fullypowered.ai/functions/legal-and-contracts/), where security documents and certificates from the other side arrive under contracts the team already administers.
-- [Procurement and suppliers](https://fullypowered.ai/functions/procurement-and-suppliers/), where a contractor's or supplier's bond or guarantee is due before work or payment starts.
-- [Construction](https://fullypowered.ai/industries/construction/), where performance and payment bonds arrive with a contract package and a mobilisation payment is waiting on them.
-- [Real estate](https://fullypowered.ai/industries/real-estate/), where tenants return estoppel certificates before a sale or refinancing and each one has to be set against the lease file.
-- [Energy](https://fullypowered.ai/industries/energy/), where project agreements call for bonds, guarantees and standby letters of credit from contractors and offtakers.
-- [Acquisitions & integration](https://fullypowered.ai/situations/acquisitions-and-integration/), where a buyer's or lender's checklist calls for estoppels and security documents from many counterparties at once.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when more projects or properties bring more of these documents than one person can read closely.
+- [Legal and contracts](https://fullypowered.ai/functions/legal-and-contracts/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-counterparty-document-field-check&from=gh-counterparty-document-field-check), where security documents and certificates from the other side arrive under contracts the team already administers.
+- [Procurement and suppliers](https://fullypowered.ai/functions/procurement-and-suppliers/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-counterparty-document-field-check&from=gh-counterparty-document-field-check), where a contractor's or supplier's bond or guarantee is due before work or payment starts.
+- [Construction](https://fullypowered.ai/industries/construction/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-counterparty-document-field-check&from=gh-counterparty-document-field-check), where performance and payment bonds arrive with a contract package and a mobilisation payment is waiting on them.
+- [Real estate](https://fullypowered.ai/industries/real-estate/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-counterparty-document-field-check&from=gh-counterparty-document-field-check), where tenants return estoppel certificates before a sale or refinancing and each one has to be set against the lease file.
+- [Energy](https://fullypowered.ai/industries/energy/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-counterparty-document-field-check&from=gh-counterparty-document-field-check), where project agreements call for bonds, guarantees and standby letters of credit from contractors and offtakers.
+- [Acquisitions & integration](https://fullypowered.ai/situations/acquisitions-and-integration/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-counterparty-document-field-check&from=gh-counterparty-document-field-check), where a buyer's or lender's checklist calls for estoppels and security documents from many counterparties at once.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-counterparty-document-field-check&from=gh-counterparty-document-field-check), when more projects or properties bring more of these documents than one person can read closely.
 
-It sits beside [contract amendment trace](https://fullypowered.ai/workflows/contract-amendment-trace/), which follows one provision through every amendment, and [rent-roll to lease-abstract match](https://fullypowered.ai/workflows/rent-roll-to-lease-abstract-match/), which checks a rent roll against lease terms. This one reads a single document the other side supplied, field by field, against your contract and your records.
+It sits beside [contract amendment trace](https://fullypowered.ai/workflows/contract-amendment-trace/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-counterparty-document-field-check&from=gh-counterparty-document-field-check), which follows one provision through every amendment, and [rent-roll to lease-abstract match](https://fullypowered.ai/workflows/rent-roll-to-lease-abstract-match/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-counterparty-document-field-check&from=gh-counterparty-document-field-check), which checks a rent roll against lease terms. This one reads a single document the other side supplied, field by field, against your contract and your records.
 
 ## What has to change for your company
 
@@ -69,7 +76,7 @@ We sit with the person who receives these documents and the lawyer who reads the
 
 FullyPowered AI wrote this workflow template from its own published map of the work. It was editorially reviewed on 12 November 2026. It has not been reviewed by a lawyer. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your company means running it on past documents whose checks counsel has already settled, and comparing: every field found in every place, every quotation exact, every near match called a difference, no date counted, nothing said about whether the document is good. Include a bond with a comma missing from a name, an amount that differs in words and figures, an expiry tied to completion, a power of attorney naming the signer differently, an estoppel certificate that lists fewer amendments than the file, and a request asking whether the document is fine to accept. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your company means running it on past documents whose checks counsel has already settled, and comparing: every field found in every place, every quotation exact, every near match called a difference, no date counted, nothing said about whether the document is good. Include a bond with a comma missing from a name, an amount that differs in words and figures, an expiry tied to completion, a power of attorney naming the signer differently, an estoppel certificate that lists fewer amendments than the file, and a request asking whether the document is fine to accept. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-counterparty-document-field-check&from=gh-counterparty-document-field-check) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-counterparty-document-field-check&from=gh-counterparty-document-field-check) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -96,10 +103,10 @@ Testing in your company means running it on past documents whose checks counsel 
 
 ## Related workflow templates
 
-- [Vendor insurance certificate check](https://fullypowered.ai/workflows/vendor-insurance-certificate-check/)
+- [Vendor insurance certificate check](https://fullypowered.ai/workflows/vendor-insurance-certificate-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-counterparty-document-field-check&from=gh-counterparty-document-field-check)
 - [Contract amendment trace](../contract-amendment-trace/)
-- [Rent roll to lease abstract match](https://fullypowered.ai/workflows/rent-roll-to-lease-abstract-match/)
+- [Rent roll to lease abstract match](https://fullypowered.ai/workflows/rent-roll-to-lease-abstract-match/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-counterparty-document-field-check&from=gh-counterparty-document-field-check)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-counterparty-document-field-check&from=gh-counterparty-document-field-check).

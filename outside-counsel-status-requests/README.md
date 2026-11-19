@@ -1,10 +1,17 @@
 # Weekly status requests to outside counsel
 
-Every Monday, in-house counsel has a draft status request for each outside firm that owes one: what has happened since the last update, the dates on record to confirm, decisions pending and spend against budget, plus the matters skipped and why. Counsel edits and sends each one.
+Draft weekly status requests to outside firms with dates to confirm and spend against budget, for counsel's review. Counsel edits and sends each one.
 
-*Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/outside-counsel-status-requests/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Weekly status requests to outside counsel on our website](https://fullypowered.ai/workflows/outside-counsel-status-requests/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-outside-counsel-status-requests&from=gh-legal-outside-counsel-status-requests) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/outside-counsel-status-requests/?from=gh-legal-outside-counsel-status-requests)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/outside-counsel-status-requests/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-outside-counsel-status-requests&from=gh-legal-outside-counsel-status-requests)*
 
 ## The outcome
 
@@ -36,14 +43,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Legal and contracts](https://fullypowered.ai/functions/legal-and-contracts/): the in-house legal team that manages outside firms and answers to the business for their progress and their cost.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where supplier and distributor disputes, customs questions and product claims run at several firms at once.
-- [Software and technology](https://fullypowered.ai/industries/software-technology/), where a small legal team oversees outside firms on commercial, regulatory and intellectual property matters.
-- [Insurance](https://fullypowered.ai/industries/insurance/), where in-house counsel tracks many matters at panel firms against agreed budgets.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), with a standing portfolio of matters and firms to keep current.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when the matter count grows faster than the legal team.
+- [Legal and contracts](https://fullypowered.ai/functions/legal-and-contracts/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-outside-counsel-status-requests&from=gh-legal-outside-counsel-status-requests): the in-house legal team that manages outside firms and answers to the business for their progress and their cost.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-outside-counsel-status-requests&from=gh-legal-outside-counsel-status-requests), where supplier and distributor disputes, customs questions and product claims run at several firms at once.
+- [Software and technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-outside-counsel-status-requests&from=gh-legal-outside-counsel-status-requests), where a small legal team oversees outside firms on commercial, regulatory and intellectual property matters.
+- [Insurance](https://fullypowered.ai/industries/insurance/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-outside-counsel-status-requests&from=gh-legal-outside-counsel-status-requests), where in-house counsel tracks many matters at panel firms against agreed budgets.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-outside-counsel-status-requests&from=gh-legal-outside-counsel-status-requests), with a standing portfolio of matters and firms to keep current.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-outside-counsel-status-requests&from=gh-legal-outside-counsel-status-requests), when the matter count grows faster than the legal team.
 
-It sits beside [matter budget and status summary](https://fullypowered.ai/workflows/matter-budget-and-status-summary/), the report a firm prepares on its own side, and [weekly open-matter check](https://fullypowered.ai/workflows/weekly-open-matter-check/), the sweep a law firm runs over its own open matters.
+It sits beside [matter budget and status summary](https://fullypowered.ai/workflows/matter-budget-and-status-summary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-outside-counsel-status-requests&from=gh-legal-outside-counsel-status-requests), the report a firm prepares on its own side, and [weekly open-matter check](https://fullypowered.ai/workflows/weekly-open-matter-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-outside-counsel-status-requests&from=gh-legal-outside-counsel-status-requests), the sweep a law firm runs over its own open matters.
 
 ## What has to change for your company
 
@@ -57,7 +64,7 @@ We sit with your counsel and whoever keeps the matter list, write down how the w
 
 FullyPowered AI wrote this workflow template in its own words, drawing on a published method credited below. It was editorially reviewed on 11 November 2026. It was tried on its invented example in Claude on 11 November 2026, and the record of those runs is published with it. It has not been reviewed by a lawyer. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your company means running it on two or three past weeks counsel remembers, with cases agreed first: an update exactly at the threshold, a date on record that has passed, a matter over budget, an open matter with no firm, a line in the internal notes that must not reach an email. Counsel checks every draft against the matter file before anything is sent. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your company means running it on two or three past weeks counsel remembers, with cases agreed first: an update exactly at the threshold, a date on record that has passed, a matter over budget, an open matter with no firm, a line in the internal notes that must not reach an email. Counsel checks every draft against the matter file before anything is sent. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-outside-counsel-status-requests&from=gh-legal-outside-counsel-status-requests) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-outside-counsel-status-requests&from=gh-legal-outside-counsel-status-requests) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -84,10 +91,10 @@ Testing in your company means running it on two or three past weeks counsel reme
 
 ## Related workflow templates
 
-- [Matter budget and status summary](https://fullypowered.ai/workflows/matter-budget-and-status-summary/)
-- [Weekly open-matter check](https://fullypowered.ai/workflows/weekly-open-matter-check/)
-- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/)
+- [Matter budget and status summary](https://fullypowered.ai/workflows/matter-budget-and-status-summary/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-outside-counsel-status-requests&from=gh-legal-outside-counsel-status-requests)
+- [Weekly open-matter check](https://fullypowered.ai/workflows/weekly-open-matter-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-outside-counsel-status-requests&from=gh-legal-outside-counsel-status-requests)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-outside-counsel-status-requests&from=gh-legal-outside-counsel-status-requests)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-outside-counsel-status-requests&from=gh-legal-outside-counsel-status-requests).

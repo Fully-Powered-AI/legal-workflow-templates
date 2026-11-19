@@ -1,10 +1,17 @@
 # NDA check against counsel's approved positions
 
-Before anyone signs a proposed NDA, counsel gets every clause quoted with its section and set beside the positions counsel has approved: matching, departing or not covered. Any obligation beyond confidentiality sends the whole NDA to counsel. The check never says an NDA is ready to sign.
+Get each clause of a proposed NDA quoted beside counsel's approved positions, marked matching, departing or not covered, for counsel's review.
 
-*Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/nda-position-check/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See NDA check against counsel's approved positions on our website](https://fullypowered.ai/workflows/nda-position-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-nda-position-check&from=gh-legal-nda-position-check) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/nda-position-check/?from=gh-legal-nda-position-check)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/nda-position-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-nda-position-check&from=gh-legal-nda-position-check)*
 
 ## The outcome
 
@@ -44,15 +51,15 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Legal and contracts](https://fullypowered.ai/functions/legal-and-contracts/): counsel sets the positions once and sees each NDA already compared with them.
-- [Sales](https://fullypowered.ai/functions/sales/), where an NDA arrives early in a deal and waiting on it stalls the first real conversation.
-- [Software and technology](https://fullypowered.ai/industries/software-technology/), where demos, pilots and integration talks start with an exchange of NDAs.
-- [Hardware and physical technology](https://fullypowered.ai/industries/hardware-and-physical-technology/), where designs and component details are shared with suppliers and partners.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where drawings, specifications and volumes pass between plants, suppliers and customers.
-- [Growth and scaling](https://fullypowered.ai/situations/growth-and-scaling/), when NDAs arrive faster than the one lawyer can read them.
-- [Startups and new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/), where the lawyer is often outside counsel, and every hour of their time is paid for.
+- [Legal and contracts](https://fullypowered.ai/functions/legal-and-contracts/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-nda-position-check&from=gh-legal-nda-position-check): counsel sets the positions once and sees each NDA already compared with them.
+- [Sales](https://fullypowered.ai/functions/sales/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-nda-position-check&from=gh-legal-nda-position-check), where an NDA arrives early in a deal and waiting on it stalls the first real conversation.
+- [Software and technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-nda-position-check&from=gh-legal-nda-position-check), where demos, pilots and integration talks start with an exchange of NDAs.
+- [Hardware and physical technology](https://fullypowered.ai/industries/hardware-and-physical-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-nda-position-check&from=gh-legal-nda-position-check), where designs and component details are shared with suppliers and partners.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-nda-position-check&from=gh-legal-nda-position-check), where drawings, specifications and volumes pass between plants, suppliers and customers.
+- [Growth and scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-nda-position-check&from=gh-legal-nda-position-check), when NDAs arrive faster than the one lawyer can read them.
+- [Startups and new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-nda-position-check&from=gh-legal-nda-position-check), where the lawyer is often outside counsel, and every hour of their time is paid for.
 
-It sits alongside [deal close plan](https://fullypowered.ai/workflows/deal-close-plan/), [buyer security questionnaire answers](https://fullypowered.ai/workflows/buyer-security-questionnaire-answers/) and [channel partner fit review](https://fullypowered.ai/workflows/channel-partner-fit-review/), the other paperwork that arrives while a deal or partnership is taking shape. A full commercial agreement is a different piece of work and goes to counsel by your usual route.
+It sits alongside [deal close plan](https://fullypowered.ai/workflows/deal-close-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-nda-position-check&from=gh-legal-nda-position-check), [buyer security questionnaire answers](https://fullypowered.ai/workflows/buyer-security-questionnaire-answers/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-nda-position-check&from=gh-legal-nda-position-check) and [channel partner fit review](https://fullypowered.ai/workflows/channel-partner-fit-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-nda-position-check&from=gh-legal-nda-position-check), the other paperwork that arrives while a deal or partnership is taking shape. A full commercial agreement is a different piece of work and goes to counsel by your usual route.
 
 ## What has to change for your company
 
@@ -68,7 +75,7 @@ It was tried on its invented example in Claude on 11 November 2026, and the reco
 
 That run's follow-ups gave no advice and named no one but a lawyer as deciding, but a separate review of the legal boundary found that one reply labelled two clauses in its own words and another shortened an authority it had been given. The workflow template was tightened: every question about the NDA now gets one fixed reply, clauses are named only by section and heading everywhere, and a supplied authority is copied whole and marked for your lawyer to verify. The five pressure tests (asking to sign, asking for a case, "we have no lawyer", a planted instruction, an invented law offered as a reason) were then made again against the tightened wording by the session that revised it, not in a fresh session, so they show the wording can be followed, not that every run will follow it. The record says what each one did. It has not yet been tested in a client environment, or tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your company means running it on past NDAs your lawyer has already decided, and comparing: every clause found, every mark the same as your lawyer's, every silent topic left as not covered, nothing sent. Include one NDA with a promise not to approach staff hidden in the general section, one with a positions file past its review date, and one request to "just tell me if I can sign". [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your company means running it on past NDAs your lawyer has already decided, and comparing: every clause found, every mark the same as your lawyer's, every silent topic left as not covered, nothing sent. Include one NDA with a promise not to approach staff hidden in the general section, one with a positions file past its review date, and one request to "just tell me if I can sign". [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-nda-position-check&from=gh-legal-nda-position-check) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-nda-position-check&from=gh-legal-nda-position-check) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -95,10 +102,10 @@ Testing in your company means running it on past NDAs your lawyer has already de
 
 ## Related workflow templates
 
-- [Deal close plan](https://fullypowered.ai/workflows/deal-close-plan/)
-- [Buyer security questionnaire answers](https://fullypowered.ai/workflows/buyer-security-questionnaire-answers/)
-- [Channel partner fit review](https://fullypowered.ai/workflows/channel-partner-fit-review/)
+- [Deal close plan](https://fullypowered.ai/workflows/deal-close-plan/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-nda-position-check&from=gh-legal-nda-position-check)
+- [Buyer security questionnaire answers](https://fullypowered.ai/workflows/buyer-security-questionnaire-answers/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-nda-position-check&from=gh-legal-nda-position-check)
+- [Channel partner fit review](https://fullypowered.ai/workflows/channel-partner-fit-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-nda-position-check&from=gh-legal-nda-position-check)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-nda-position-check&from=gh-legal-nda-position-check).

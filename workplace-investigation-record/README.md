@@ -1,10 +1,17 @@
 # Workplace investigation record for counsel
 
-When counsel directs a workplace investigation, the HR investigator turns the interview notes and documents into one restricted record for that lawyer: the allegations, who said what, a dated chronology, where accounts differ, an evidence index and the follow-up still open, each pinned to its source.
+Interview notes and documents turned into one restricted record for counsel: allegations, attributed statements, a chronology and disputed facts.
 
-*Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/workplace-investigation-record/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Workplace investigation record for counsel on our website](https://fullypowered.ai/workflows/workplace-investigation-record/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-workplace-investigation-record&from=gh-legal-workplace-investigation-record) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/workplace-investigation-record/?from=gh-legal-workplace-investigation-record)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/workplace-investigation-record/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-workplace-investigation-record&from=gh-legal-workplace-investigation-record)*
 
 ## The outcome
 
@@ -48,16 +55,16 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Legal and contracts](https://fullypowered.ai/functions/legal-and-contracts/): employment counsel directs the investigation and needs the record organised before reading it.
-- [People and HR](https://fullypowered.ai/functions/people-and-hr/): the HR investigator holds the interviews and the documents and works under counsel's instruction.
-- [Hospitality](https://fullypowered.ai/industries/hospitality/), where concerns between shift supervisors and staff arrive through messages and rotas as much as through formal complaints.
-- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/), where warehouse and depot teams work across shifts and the rota is often part of the story.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where a concern on the floor turns on who was on which line and who was within earshot.
-- [Software and technology](https://fullypowered.ai/industries/software-technology/), where the evidence is chat exports and the interviewees work in different offices.
-- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/), when concerns that used to be settled informally now need a proper record for counsel.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where long working relationships mean accounts differ and every detail needs its source.
+- [Legal and contracts](https://fullypowered.ai/functions/legal-and-contracts/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-workplace-investigation-record&from=gh-legal-workplace-investigation-record): employment counsel directs the investigation and needs the record organised before reading it.
+- [People and HR](https://fullypowered.ai/functions/people-and-hr/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-workplace-investigation-record&from=gh-legal-workplace-investigation-record): the HR investigator holds the interviews and the documents and works under counsel's instruction.
+- [Hospitality](https://fullypowered.ai/industries/hospitality/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-workplace-investigation-record&from=gh-legal-workplace-investigation-record), where concerns between shift supervisors and staff arrive through messages and rotas as much as through formal complaints.
+- [Logistics and trade](https://fullypowered.ai/industries/logistics-and-trade/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-workplace-investigation-record&from=gh-legal-workplace-investigation-record), where warehouse and depot teams work across shifts and the rota is often part of the story.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-workplace-investigation-record&from=gh-legal-workplace-investigation-record), where a concern on the floor turns on who was on which line and who was within earshot.
+- [Software and technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-workplace-investigation-record&from=gh-legal-workplace-investigation-record), where the evidence is chat exports and the interviewees work in different offices.
+- [Growth & scaling](https://fullypowered.ai/situations/growth-and-scaling/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-workplace-investigation-record&from=gh-legal-workplace-investigation-record), when concerns that used to be settled informally now need a proper record for counsel.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-workplace-investigation-record&from=gh-legal-workplace-investigation-record), where long working relationships mean accounts differ and every detail needs its source.
 
-Once a concern is likely to become a dispute, [legal hold custodian tracker](https://fullypowered.ai/workflows/legal-hold-custodian-tracker/) keeps the preservation work in order. If it reaches litigation, [case chronology](https://fullypowered.ai/workflows/case-chronology/) builds the attorney's chronology from the approved document set. For an injury or near miss, where the question is cause and corrective action, [incident investigation and corrective actions](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/) is the right fit.
+Once a concern is likely to become a dispute, [legal hold custodian tracker](https://fullypowered.ai/workflows/legal-hold-custodian-tracker/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-workplace-investigation-record&from=gh-legal-workplace-investigation-record) keeps the preservation work in order. If it reaches litigation, [case chronology](https://fullypowered.ai/workflows/case-chronology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-workplace-investigation-record&from=gh-legal-workplace-investigation-record) builds the attorney's chronology from the approved document set. For an injury or near miss, where the question is cause and corrective action, [incident investigation and corrective actions](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-workplace-investigation-record&from=gh-legal-workplace-investigation-record) is the right fit.
 
 ## What has to change for your company
 
@@ -69,7 +76,7 @@ We sit with your HR investigators and the counsel who directs their work, write 
 
 FullyPowered AI wrote this workflow template from its own published map of legal work, and it was editorially reviewed on 12 November 2026. It has not been reviewed by a lawyer. It was tried on its invented example in Claude on 12 November 2026, with pressure tests that tried to draw advice, a finding, a memo and a privilege decision out of it, and a planted instruction and a planted invented authority in the inputs; the record of that run is published with the template. The run and the pressure-test replies were made by the session that revised the template, not blind and not in a fresh session, and the test of a mismatched evidence log header was not run. It has not yet been tested in a client environment, and it has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your company means running it on a closed investigation whose record counsel already settled, with hard cases written in advance: a respondent's denial against a timed message, an interviewer's note on demeanour, a health detail, a witness repeating what the complainant told them, a loose date, a law named by an interviewee, and a request to say who is telling the truth. Counsel checks every entry against the notes before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your company means running it on a closed investigation whose record counsel already settled, with hard cases written in advance: a respondent's denial against a timed message, an interviewer's note on demeanour, a health detail, a witness repeating what the complainant told them, a loose date, a law named by an interviewee, and a request to say who is telling the truth. Counsel checks every entry against the notes before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-workplace-investigation-record&from=gh-legal-workplace-investigation-record) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-workplace-investigation-record&from=gh-legal-workplace-investigation-record) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -96,10 +103,10 @@ Testing in your company means running it on a closed investigation whose record 
 
 ## Related workflow templates
 
-- [Case chronology from the matter documents](https://fullypowered.ai/workflows/case-chronology/)
+- [Case chronology from the matter documents](https://fullypowered.ai/workflows/case-chronology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-workplace-investigation-record&from=gh-legal-workplace-investigation-record)
 - [Legal hold custodian tracker](../legal-hold-custodian-tracker/)
-- [Incident investigation and corrective actions](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/)
+- [Incident investigation and corrective actions](https://fullypowered.ai/workflows/incident-investigation-and-corrective-actions/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-workplace-investigation-record&from=gh-legal-workplace-investigation-record)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-workplace-investigation-record&from=gh-legal-workplace-investigation-record).

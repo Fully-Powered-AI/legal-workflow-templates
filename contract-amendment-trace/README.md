@@ -1,10 +1,17 @@
 # Contract amendment trace
 
-Before a question about a signed contract goes to counsel, the contracts manager has one dated history of the provision that matters: every signed document in order, each version quoted with its document and section, every gap marked, and a list for the lawyer to confirm. It never says which wording controls.
+A dated history of one contract provision across the base agreement and every amendment, with gaps marked, for counsel's review. Nothing is sent.
 
-*Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/contract-amendment-trace/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Contract amendment trace on our website](https://fullypowered.ai/workflows/contract-amendment-trace/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-amendment-trace&from=gh-legal-contract-amendment-trace) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/contract-amendment-trace/?from=gh-legal-contract-amendment-trace)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/contract-amendment-trace/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-amendment-trace&from=gh-legal-contract-amendment-trace)*
 
 ## The outcome
 
@@ -44,14 +51,14 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Legal and contracts](https://fullypowered.ai/functions/legal-and-contracts/): the trace is the groundwork counsel would otherwise do by hand before answering any question about an amended agreement.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where supply agreements are amended for prices, volumes and specifications year after year.
-- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/), where packaging, co-packing and distribution agreements pile up amendments and side letters.
-- [Software technology](https://fullypowered.ai/industries/software-technology/), where customer and reseller agreements change at every renewal and the papers live in several places.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), with long-running agreements whose history only one person remembers.
-- [Acquisitions & integration](https://fullypowered.ai/situations/acquisitions-and-integration/), where the buyer's counsel asks how a key contract stands and the answer has to be assembled from many documents.
+- [Legal and contracts](https://fullypowered.ai/functions/legal-and-contracts/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-amendment-trace&from=gh-legal-contract-amendment-trace): the trace is the groundwork counsel would otherwise do by hand before answering any question about an amended agreement.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-amendment-trace&from=gh-legal-contract-amendment-trace), where supply agreements are amended for prices, volumes and specifications year after year.
+- [Consumer brands](https://fullypowered.ai/industries/consumer-brands/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-amendment-trace&from=gh-legal-contract-amendment-trace), where packaging, co-packing and distribution agreements pile up amendments and side letters.
+- [Software technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-amendment-trace&from=gh-legal-contract-amendment-trace), where customer and reseller agreements change at every renewal and the papers live in several places.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-amendment-trace&from=gh-legal-contract-amendment-trace), with long-running agreements whose history only one person remembers.
+- [Acquisitions & integration](https://fullypowered.ai/situations/acquisitions-and-integration/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-amendment-trace&from=gh-legal-contract-amendment-trace), where the buyer's counsel asks how a key contract stands and the answer has to be assembled from many documents.
 
-It sits well before [vendor renewal review](https://fullypowered.ai/workflows/vendor-renewal-review/), which weighs whether to renew once counsel has said what the agreement provides. It is different from [contract renewal and notice register](https://fullypowered.ai/workflows/contract-renewal-notice-register/), which lists the term, renewal and notice clauses across many agreements, from [contract issues table for counsel](https://fullypowered.ai/workflows/contract-issues-table-for-counsel/), which sets one agreement's clauses against a counsel-approved playbook before negotiation, and from [rent-roll to lease-abstract match](https://fullypowered.ai/workflows/rent-roll-to-lease-abstract-match/), which checks lease fields against a rent roll. The trace follows one provision of one agreement back through every document that changed it.
+It sits well before [vendor renewal review](https://fullypowered.ai/workflows/vendor-renewal-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-amendment-trace&from=gh-legal-contract-amendment-trace), which weighs whether to renew once counsel has said what the agreement provides. It is different from [contract renewal and notice register](https://fullypowered.ai/workflows/contract-renewal-notice-register/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-amendment-trace&from=gh-legal-contract-amendment-trace), which lists the term, renewal and notice clauses across many agreements, from [contract issues table for counsel](https://fullypowered.ai/workflows/contract-issues-table-for-counsel/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-amendment-trace&from=gh-legal-contract-amendment-trace), which sets one agreement's clauses against a counsel-approved playbook before negotiation, and from [rent-roll to lease-abstract match](https://fullypowered.ai/workflows/rent-roll-to-lease-abstract-match/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-amendment-trace&from=gh-legal-contract-amendment-trace), which checks lease fields against a rent roll. The trace follows one provision of one agreement back through every document that changed it.
 
 ## What has to change for your company
 
@@ -63,7 +70,7 @@ We sit with the person who gathers contracts and the lawyer who reads them, writ
 
 FullyPowered AI wrote this workflow template in its own words, taking one idea from a published package credited with it. It was editorially reviewed on 11 November 2026. It has not been reviewed by a lawyer. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your company means running it on past agreements whose history your counsel has already settled, and comparing: every instruction that names the provision found, every quotation exact, every gap marked, nothing said about which wording controls or whether a document changes the provision. Include an agreement with a missing amendment, one with an amendment that deletes the whole section without naming the provision, one with a draft only one side signed, one with a signed paper still marked as a draft, one with a countersigned letter, and one with two effective dates. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your company means running it on past agreements whose history your counsel has already settled, and comparing: every instruction that names the provision found, every quotation exact, every gap marked, nothing said about which wording controls or whether a document changes the provision. Include an agreement with a missing amendment, one with an amendment that deletes the whole section without naming the provision, one with a draft only one side signed, one with a signed paper still marked as a draft, one with a countersigned letter, and one with two effective dates. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-amendment-trace&from=gh-legal-contract-amendment-trace) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-amendment-trace&from=gh-legal-contract-amendment-trace) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -90,12 +97,12 @@ Testing in your company means running it on past agreements whose history your c
 
 ## Related workflow templates
 
-- [Vendor renewal review](https://fullypowered.ai/workflows/vendor-renewal-review/)
+- [Vendor renewal review](https://fullypowered.ai/workflows/vendor-renewal-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-amendment-trace&from=gh-legal-contract-amendment-trace)
 - [Contract renewal and notice register](../contract-renewal-notice-register/)
 - [Contract issues table for counsel](../contract-issues-table-for-counsel/)
-- [Rent roll to lease abstract match](https://fullypowered.ai/workflows/rent-roll-to-lease-abstract-match/)
-- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/)
+- [Rent roll to lease abstract match](https://fullypowered.ai/workflows/rent-roll-to-lease-abstract-match/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-amendment-trace&from=gh-legal-contract-amendment-trace)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-amendment-trace&from=gh-legal-contract-amendment-trace)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-amendment-trace&from=gh-legal-contract-amendment-trace).

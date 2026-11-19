@@ -1,10 +1,17 @@
 # Invention disclosure brief for patent counsel
 
-Before the first call with patent counsel, the founder or engineering lead has one factual brief: the invention in the inventor's words, who contributed what and when, every outside demonstration, sale, talk or publication with its date and audience, and the records still missing. Counsel decides.
+Get one factual brief of the invention, contributors, dated record and outside disclosures, with missing records listed, for counsel's review.
 
-*Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/invention-disclosure-brief/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Invention disclosure brief for patent counsel on our website](https://fullypowered.ai/workflows/invention-disclosure-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-invention-disclosure-brief&from=gh-legal-invention-disclosure-brief) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/invention-disclosure-brief/?from=gh-legal-invention-disclosure-brief)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/invention-disclosure-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-invention-disclosure-brief&from=gh-legal-invention-disclosure-brief)*
 
 ## The outcome
 
@@ -48,16 +55,16 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Legal and contracts](https://fullypowered.ai/functions/legal-and-contracts/), where patent counsel's time is billed by the hour and the first meeting is often spent gathering facts.
-- [Research and development](https://fullypowered.ai/functions/research-and-development/), where ideas move from a notebook to a prototype to a customer trial faster than anyone writes down who did what.
-- [Software engineering](https://fullypowered.ai/functions/software-engineering/), where the history lives in commits and the outside showings are talks, posts and release notes.
-- [Software and technology](https://fullypowered.ai/industries/software-technology/), where contractors and open conversations with customers are part of how products get built.
-- [Hardware and physical technology](https://fullypowered.ai/industries/hardware-and-physical-technology/), where prototypes go out on field trials and trade show stands.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where an improvement to a production line can come from an engineer, a supplier or a customer's maintenance team.
-- [Startups and new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/), with no lawyer on staff and a pitch, a demo and a first customer all happening at once.
-- [New business lines](https://fullypowered.ai/situations/new-business-lines/), when an established company builds something outside its usual products and nobody has kept invention records before.
+- [Legal and contracts](https://fullypowered.ai/functions/legal-and-contracts/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-invention-disclosure-brief&from=gh-legal-invention-disclosure-brief), where patent counsel's time is billed by the hour and the first meeting is often spent gathering facts.
+- [Research and development](https://fullypowered.ai/functions/research-and-development/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-invention-disclosure-brief&from=gh-legal-invention-disclosure-brief), where ideas move from a notebook to a prototype to a customer trial faster than anyone writes down who did what.
+- [Software engineering](https://fullypowered.ai/functions/software-engineering/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-invention-disclosure-brief&from=gh-legal-invention-disclosure-brief), where the history lives in commits and the outside showings are talks, posts and release notes.
+- [Software and technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-invention-disclosure-brief&from=gh-legal-invention-disclosure-brief), where contractors and open conversations with customers are part of how products get built.
+- [Hardware and physical technology](https://fullypowered.ai/industries/hardware-and-physical-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-invention-disclosure-brief&from=gh-legal-invention-disclosure-brief), where prototypes go out on field trials and trade show stands.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-invention-disclosure-brief&from=gh-legal-invention-disclosure-brief), where an improvement to a production line can come from an engineer, a supplier or a customer's maintenance team.
+- [Startups and new ventures](https://fullypowered.ai/situations/startups-and-new-ventures/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-invention-disclosure-brief&from=gh-legal-invention-disclosure-brief), with no lawyer on staff and a pitch, a demo and a first customer all happening at once.
+- [New business lines](https://fullypowered.ai/situations/new-business-lines/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-invention-disclosure-brief&from=gh-legal-invention-disclosure-brief), when an established company builds something outside its usual products and nobody has kept invention records before.
 
-Before an agreement with a contractor or partner who might contribute to the work is signed, [IP terms question table](https://fullypowered.ai/workflows/ip-terms-question-table/) puts its ownership and confidentiality clauses in front of counsel. When a customer sends its own agreement for a trial, [contract intake brief](https://fullypowered.ai/workflows/contract-intake-brief/) prepares it for review.
+Before an agreement with a contractor or partner who might contribute to the work is signed, [IP terms question table](https://fullypowered.ai/workflows/ip-terms-question-table/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-invention-disclosure-brief&from=gh-legal-invention-disclosure-brief) puts its ownership and confidentiality clauses in front of counsel. When a customer sends its own agreement for a trial, [contract intake brief](https://fullypowered.ai/workflows/contract-intake-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-invention-disclosure-brief&from=gh-legal-invention-disclosure-brief) prepares it for review.
 
 ## What has to change for your company
 
@@ -71,7 +78,7 @@ We sit with the people who build your products and the counsel who protects them
 
 FullyPowered AI wrote this workflow template, drawing one idea from a published source credited with it. It was editorially reviewed on 11 November 2026. It was tried on its invented example in Claude on 11 November 2026, after a revision that followed an independent review. A separate review of the legal boundary then found that the example's note pointed to a date beside a question about filing and gave one record's date to an event another record described, and that the template did not say what happens to a supplied label that is a privilege marking. The template and the example were corrected, the rules for replies to questions it declines were tightened, and five follow-up questions designed to draw out advice were put again by the session that made the changes. The record of the run and of the follow-ups is published with the template. It has not been reviewed by a lawyer. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your company means running it on two or three past inventions whose history your engineers know well, and comparing: every contributor in the records listed, every person mentioned elsewhere caught, every outside showing in the log copied exactly, every showing mentioned but not logged found, every disagreement between dates shown, and no word on whether anything is new, patentable or owned. Include a description that names a customer's suggestion, a log row with no record, a planned trade show, and a request asking whether to file first. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your company means running it on two or three past inventions whose history your engineers know well, and comparing: every contributor in the records listed, every person mentioned elsewhere caught, every outside showing in the log copied exactly, every showing mentioned but not logged found, every disagreement between dates shown, and no word on whether anything is new, patentable or owned. Include a description that names a customer's suggestion, a log row with no record, a planned trade show, and a request asking whether to file first. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-invention-disclosure-brief&from=gh-legal-invention-disclosure-brief) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-invention-disclosure-brief&from=gh-legal-invention-disclosure-brief) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -100,8 +107,8 @@ Testing in your company means running it on two or three past inventions whose h
 
 - [IP ownership and licence question table](../ip-terms-question-table/)
 - [Contract intake brief](../contract-intake-brief/)
-- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-invention-disclosure-brief&from=gh-legal-invention-disclosure-brief)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-invention-disclosure-brief&from=gh-legal-invention-disclosure-brief).

@@ -1,10 +1,17 @@
 # Contract renewal and notice register
 
-From your signed agreements and amendments, the contracts manager gets a register for counsel to confirm: each term, renewal and notice clause quoted with its section, cancel-by and send-by dates proposed only under counsel's own counting rules, and the windows sorted by proposed send-by date. Nothing is sent.
+A register of each agreement's term, renewal and notice clauses, quoted with sections and sorted by proposed send-by date, for counsel's review.
 
-*Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/contract-renewal-notice-register/)*
+> [!TIP]
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Contract renewal and notice register on our website](https://fullypowered.ai/workflows/contract-renewal-notice-register/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-renewal-notice-register&from=gh-contract-renewal-notice-register) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
-**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/contract-renewal-notice-register/?from=gh-contract-renewal-notice-register)
+**Quick start**
+
+1. Read EXAMPLE.md to see what a good result looks like.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+3. Read what comes back. It marks what it checked and what is left for you.
+
+*Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/contract-renewal-notice-register/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-renewal-notice-register&from=gh-contract-renewal-notice-register)*
 
 ## The outcome
 
@@ -46,15 +53,15 @@ See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
-- [Legal and contracts](https://fullypowered.ai/functions/legal-and-contracts/), which keeps the signed agreements and answers for every notice window.
-- [Procurement and suppliers](https://fullypowered.ai/functions/procurement-and-suppliers/), whose supplier agreements carry renewal and notice clauses on many different dates.
-- [Software and technology](https://fullypowered.ai/industries/software-technology/), where subscriptions on both sides carry renewal dates and notice methods that differ from one agreement to the next.
-- [Professional services](https://fullypowered.ai/industries/professional-services/), where office, software and service agreements are signed by different teams and carry different renewal dates.
-- [Manufacturing](https://fullypowered.ai/industries/manufacturing/), where maintenance, supply and equipment agreements run for years and carry fixed terms and renewal clauses.
-- [Established businesses](https://fullypowered.ai/situations/established-businesses/), where dozens of agreements were signed over years and their dates live in memory.
-- [Acquisitions and integration](https://fullypowered.ai/situations/acquisitions-and-integration/), where a whole set of inherited agreements needs every notice window found and put in front of counsel.
+- [Legal and contracts](https://fullypowered.ai/functions/legal-and-contracts/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-renewal-notice-register&from=gh-contract-renewal-notice-register), which keeps the signed agreements and answers for every notice window.
+- [Procurement and suppliers](https://fullypowered.ai/functions/procurement-and-suppliers/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-renewal-notice-register&from=gh-contract-renewal-notice-register), whose supplier agreements carry renewal and notice clauses on many different dates.
+- [Software and technology](https://fullypowered.ai/industries/software-technology/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-renewal-notice-register&from=gh-contract-renewal-notice-register), where subscriptions on both sides carry renewal dates and notice methods that differ from one agreement to the next.
+- [Professional services](https://fullypowered.ai/industries/professional-services/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-renewal-notice-register&from=gh-contract-renewal-notice-register), where office, software and service agreements are signed by different teams and carry different renewal dates.
+- [Manufacturing](https://fullypowered.ai/industries/manufacturing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-renewal-notice-register&from=gh-contract-renewal-notice-register), where maintenance, supply and equipment agreements run for years and carry fixed terms and renewal clauses.
+- [Established businesses](https://fullypowered.ai/situations/established-businesses/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-renewal-notice-register&from=gh-contract-renewal-notice-register), where dozens of agreements were signed over years and their dates live in memory.
+- [Acquisitions and integration](https://fullypowered.ai/situations/acquisitions-and-integration/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-renewal-notice-register&from=gh-contract-renewal-notice-register), where a whole set of inherited agreements needs every notice window found and put in front of counsel.
 
-Once counsel has confirmed a supplier's dates, [vendor renewal review](https://fullypowered.ai/workflows/vendor-renewal-review/) prepares the commercial decision for that one supplier. Law firms reading court orders use the sister workflow template, [court-order deadline notice preparation](https://fullypowered.ai/workflows/court-order-deadline-notice-preparation/), built on the same rule: count only under the lawyer's own rules, and show the working.
+Once counsel has confirmed a supplier's dates, [vendor renewal review](https://fullypowered.ai/workflows/vendor-renewal-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-renewal-notice-register&from=gh-contract-renewal-notice-register) prepares the commercial decision for that one supplier. Law firms reading court orders use the sister workflow template, [court-order deadline notice preparation](https://fullypowered.ai/workflows/court-order-deadline-notice-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-renewal-notice-register&from=gh-contract-renewal-notice-register), built on the same rule: count only under the lawyer's own rules, and show the working.
 
 ## What has to change for your company
 
@@ -66,7 +73,7 @@ We sit with the person who keeps the agreements and the lawyer who owns the rule
 
 FullyPowered AI wrote this workflow template. It was editorially reviewed on 11 November 2026. It was tried on its invented example in Claude on 11 November 2026, and the record of that run is published with the template. The record also says what happened when people tried to draw advice out of it, and how its rules for answering such questions were tightened afterwards. It has not been reviewed by a lawyer. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
-Testing in your company means running it on past agreements whose dates your lawyer has already settled, and comparing: every clause quoted with the right section, every proposed date equal to the lawyer's, every uncovered count left alone, nothing sent. Include an agreement that has renewed twice, one with an amendment that replaces the notice clause, one with notice in business days and one whose date lands on a closed day. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/) describes the record we keep.
+Testing in your company means running it on past agreements whose dates your lawyer has already settled, and comparing: every clause quoted with the right section, every proposed date equal to the lawyer's, every uncovered count left alone, nothing sent. Include an agreement that has renewed twice, one with an amendment that replaces the notice clause, one with notice in business days and one whose date lands on a closed day. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-renewal-notice-register&from=gh-contract-renewal-notice-register) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-renewal-notice-register&from=gh-contract-renewal-notice-register) describes the record we keep.
 
 - Written by FullyPowered AI.
 - Sources and rights reviewed.
@@ -93,10 +100,10 @@ Testing in your company means running it on past agreements whose dates your law
 
 ## Related workflow templates
 
-- [Vendor renewal review](https://fullypowered.ai/workflows/vendor-renewal-review/)
-- [Court-order deadline notice preparation](https://fullypowered.ai/workflows/court-order-deadline-notice-preparation/)
-- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/)
+- [Vendor renewal review](https://fullypowered.ai/workflows/vendor-renewal-review/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-renewal-notice-register&from=gh-contract-renewal-notice-register)
+- [Court-order deadline notice preparation](https://fullypowered.ai/workflows/court-order-deadline-notice-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-renewal-notice-register&from=gh-contract-renewal-notice-register)
+- [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-renewal-notice-register&from=gh-contract-renewal-notice-register)
 
 ## Make it yours
 
-This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/).
+This workflow template is an example and a starting point. FullyPowered AI adapts it to how your company works, proves it on real work and rolls it out to the roles that use it. We can also build any other workflow for your company, including one that runs several steps, in a Workflow Sprint or a scoped implementation. [Talk with us](https://fullypowered.ai/contact/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-renewal-notice-register&from=gh-contract-renewal-notice-register).
