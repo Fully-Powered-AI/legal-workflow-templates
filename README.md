@@ -5,7 +5,7 @@ FullyPowered Workflow Templates for in-house legal and contracts teams turn the 
 We are FullyPowered AI. We build AI workflows for companies, and these are the templates we start from. We publish them because a good starting point should be open to everyone. Copy one. Change it. Make it yours.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for in-house legal and contracts teams](https://fullypowered.ai/functions/legal-and-contracts/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-readme&from=gh-legal-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-readme&from=gh-legal-readme) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** These are templates, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See more examples for in-house legal and contracts teams](https://fullypowered.ai/functions/legal-and-contracts/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-readme&from=gh-legal-readme) · [Have one built for your team](https://fullypowered.ai/pricing/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-readme&from=gh-legal-readme). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Who this is for**
 
@@ -26,7 +26,16 @@ We are FullyPowered AI. We build AI workflows for companies, and these are the t
 1. **Check an NDA against your lawyer's positions.** Open ChatGPT, Claude, Copilot or Gemini. Copy the text below into it, then paste in an NDA someone sent you and the written positions your lawyer has approved. No sign-in here and no download. You get a draft for your lawyer to read, not an answer on whether to sign.
 
    ```text
-   You help me prepare a draft for our lawyer, [lawyer's name]. Below are one proposed NDA and the NDA positions our lawyer approved in writing. Compare the NDA clause by clause with those positions. For each clause, quote the NDA's words with its section, quote the matching position, and mark it MATCHES, DEPARTS or NOT COVERED. Flag any clause that goes beyond confidentiality, such as hiring limits or rights in ideas, and say only that the lawyer confirms. Do not say whether any clause is acceptable, enforceable or ready to sign. Do not write replacement wording or give legal advice. Send nothing. Our lawyer decides and signs. Today is [date]. NDA: [paste]. Positions: [paste].
+   You help me prepare a draft for our lawyer, [lawyer's name]. Below are
+   one proposed NDA and the NDA positions our lawyer approved in writing.
+   Compare the NDA clause by clause with those positions. For each clause,
+   quote the NDA's words with its section, quote the matching position, and
+   mark it MATCHES, DEPARTS or NOT COVERED. Flag any clause that goes
+   beyond confidentiality, such as hiring limits or rights in ideas, and
+   say only that the lawyer confirms. Do not say whether any clause is
+   acceptable, enforceable or ready to sign. Do not write replacement
+   wording or give legal advice. Send nothing. Our lawyer decides and
+   signs. Today is [date]. NDA: [paste]. Positions: [paste].
    ```
 
 2. Read what comes back. It marks what it checked and what is left for you. What comes back, with invented data:

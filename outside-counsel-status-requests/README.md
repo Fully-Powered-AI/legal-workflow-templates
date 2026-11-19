@@ -3,7 +3,7 @@
 Draft weekly status requests to outside firms with dates to confirm and spend against budget, for counsel's review. Counsel edits and sends each one.
 
 > [!TIP]
-> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Weekly status requests to outside counsel on our website](https://fullypowered.ai/workflows/outside-counsel-status-requests/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-outside-counsel-status-requests&from=gh-legal-outside-counsel-status-requests) Not sure where to start? Email hello@fullypowered.ai and a person will answer.
+> **Missing a template that is not listed here, or want these customized for your organization? Reach out to us.** This is a template, made to be customized and deployed. FullyPowered AI customizes and builds AI workflows, connects them to your business systems, installs them in your agents and puts them in the hands of the people who own the work. [See Weekly status requests to outside counsel on our website](https://fullypowered.ai/workflows/outside-counsel-status-requests/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-outside-counsel-status-requests&from=gh-legal-outside-counsel-status-requests). Not sure where to start? Email hello@fullypowered.ai and a person will answer.
 
 **Quick start**
 
