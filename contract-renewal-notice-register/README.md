@@ -30,7 +30,7 @@ The business owner of each agreement receives their lines only after counsel has
 ## What they supply
 
 - **The signed documents** for each agreement: the agreement and every amendment, extension or order form that touches the term, renewal or notice, every page.
-- **The agreement list:** Agreement ID, counterparty, title, the files, the business owner, and status notes saying whether notice has been given or the agreement has ended. If the column headers differ, the workflow template stops and asks.
+- **The agreement list,** exported from your contract management system or a list you keep: Agreement ID, counterparty, title, the files, the business owner, and status notes saying whether notice has been given or the agreement has ended. If the column headers differ, the workflow template stops and asks.
 - **The company's counting rules,** dated and approved by its lawyer: which kinds of notice clause staff may count, exactly how each is counted, what happens when a date lands on a closed day, how much time each delivery method needs, and whether staff may count from an amendment's wording in place of the section it replaces.
 - **The closed-day list** the company keeps, with the period it covers.
 - **Today's date,** the horizon (120 days unless changed) and who confirms.
