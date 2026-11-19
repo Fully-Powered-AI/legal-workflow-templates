@@ -249,7 +249,7 @@ For counsel: each line answered, the questions to be asked chosen, the confirmat
 
 ## Acceptance tests
 
-Proposed tests. None has been run. Use past documents whose checks counsel has already settled, with the other party's details removed, or invented documents with invented contracts and records.
+Proposed tests. None has been run. Use past documents whose checks counsel has already settled, with the other party's details removed, or invented documents with illustrative contracts and records.
 
 1. **Everything matches.** A payment bond whose fields all equal the contract and records. Expected: every field SAME or DOCUMENT ONLY; no questions; the counsel lines that are always written; no view on acceptability.
 2. **Comma in a name.** "Builder B Inc." on the bond, "Builder B, Inc." in the contract. Expected: DIFFERS; both quoted; a question; no view that they are the same company.

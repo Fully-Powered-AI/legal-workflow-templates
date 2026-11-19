@@ -8,7 +8,7 @@ A register of each agreement's term, renewal and notice clauses, quoted with sec
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/contract-renewal-notice-register/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-renewal-notice-register&from=gh-contract-renewal-notice-register)*
@@ -49,7 +49,7 @@ One register, marked as a draft for counsel:
 
 The contracts manager reads it against the documents, recounts each proposed date on a calendar and gives it to counsel. Counsel confirms or corrects each line. Only then does a person give the business owners their lines and put dates on a calendar. Any notice is a matter for counsel, outside this workflow.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -71,7 +71,7 @@ We sit with the person who keeps the agreements and the lawyer who owns the rule
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 11 November 2026. It was tried on its invented example in Claude on 11 November 2026, and the record of that run is published with the template. The record also says what happened when people tried to draw advice out of it, and how its rules for answering such questions were tightened afterwards. It has not been reviewed by a lawyer. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 11 November 2026. It was tried on its example in Claude on 11 November 2026, and the record of that run is published with the template. The record also says what happened when people tried to draw advice out of it, and how its rules for answering such questions were tightened afterwards. It has not been reviewed by a lawyer. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your company means running it on past agreements whose dates your lawyer has already settled, and comparing: every clause quoted with the right section, every proposed date equal to the lawyer's, every uncovered count left alone, nothing sent. Include an agreement that has renewed twice, one with an amendment that replaces the notice clause, one with notice in business days and one whose date lands on a closed day. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-renewal-notice-register&from=gh-contract-renewal-notice-register) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-contract-renewal-notice-register&from=gh-contract-renewal-notice-register) describes the record we keep.
 
@@ -79,13 +79,13 @@ Testing in your company means running it on past agreements whose dates your law
 - Sources and rights reviewed.
 - Editorially reviewed on 11 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

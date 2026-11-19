@@ -1,6 +1,6 @@
-# Outside-counsel invoice questions: an invented example
+# Outside-counsel invoice questions: an example
 
-*Illustrative example with invented data.* Company A, an invented 400-person specialty insurer, and Firm B, the invented law firm it uses on a dispute with an invented distributor, Supplier C, are not real organisations. Every person, matter, invoice, rate, budget, billing guideline and check map below is invented. The billing guidelines are one invented company’s rules and must not be used for real work.
+*Illustrative example with sample data.* Company A, an illustrative 400-person specialty insurer, and Firm B, the invented law firm it uses on a dispute with an illustrative distributor, Supplier C, are not real organisations. Every person, matter, invoice, rate, budget, billing guideline and check map below is illustrative. The billing guidelines are one illustrative company’s rules and must not be used for real work.
 
 The legal operations manager’s inputs come first, in full, then what the workflow template prepares.
 

@@ -8,7 +8,7 @@ A worksheet that sets each law firm invoice line against agreed rates, budget an
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/outside-counsel-invoice-questions/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-outside-counsel-invoice-questions&from=gh-outside-counsel-invoice-questions)*
@@ -51,7 +51,7 @@ One worksheet, marked as a draft for the named lawyer:
 
 The legal operations manager reads the worksheet against the invoice and gives it to the named lawyer. Only the questions the lawyer confirms are sent, by a person, from their own email.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -76,7 +76,7 @@ We sit with your legal operations manager and the lawyer who owns the outside-co
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template from its own published map of in-house legal work. It was editorially reviewed on 11 November 2026. It has not been reviewed by a lawyer. It was tried once on its invented example in Claude on 11 November 2026, and the record of that run is published with it. A separate review of the legal boundary then found two replies in that run that read as verdicts on payment; the instructions were tightened and the pressure tests run again, and the record says what each showed, faults included. It has not been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template from its own published map of in-house legal work. It was editorially reviewed on 11 November 2026. It has not been reviewed by a lawyer. It was tried once on its example in Claude on 11 November 2026, and the record of that run is published with it. A separate review of the legal boundary then found two replies in that run that read as verdicts on payment; the instructions were tightened and the pressure tests run again, and the record says what each showed, faults included. It has not been tested in a client environment or as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your company means running it on two or three past invoices whose questions your legal operations team already raised, plus hard cases written in advance: lines that do not add up to the total, a rate step in the middle of the month, the same entry billed twice, three people at a meeting where the guidelines allow two, a phase past its budget, and a request to say what to short-pay. Legal operations checks every item against the invoice before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-outside-counsel-invoice-questions&from=gh-outside-counsel-invoice-questions) builds that test set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-outside-counsel-invoice-questions&from=gh-outside-counsel-invoice-questions) describes the record we keep.
 
@@ -84,13 +84,13 @@ Testing in your company means running it on two or three past invoices whose que
 - Sources and rights reviewed.
 - Editorially reviewed on 11 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

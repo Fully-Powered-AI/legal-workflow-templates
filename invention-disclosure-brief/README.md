@@ -8,7 +8,7 @@ Get one factual brief of the invention, contributors, dated record and outside d
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/invention-disclosure-brief/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-invention-disclosure-brief&from=gh-legal-invention-disclosure-brief)*
@@ -23,7 +23,7 @@ This is preparation for a lawyer, and it stays preparation. It gives no legal ad
 
 ## Who starts the work, and when
 
-The founder, engineering lead or R&D manager starts it when someone in the company believes they have made something worth showing to patent counsel, and before the first meeting with counsel. It suits the moment an engineer says "I think we invented something", a demo or a trade show is coming up, or a customer trial has just ended.
+The founder, engineering lead or R&D manager starts it when someone in the company believes they have made something worth showing to patent counsel, and before the first meeting with counsel. It suits the moment an engineer says "I think we illustrative something", a demo or a trade show is coming up, or a customer trial has just ended.
 
 Patent counsel decides everything that follows: whether to search, whether and where to file, who is named as an inventor and who owns what. That is in-house patent counsel where the company has one, and otherwise the outside patent counsel the company uses or is engaging. The brief is addressed to counsel and goes to counsel. It is never handed back to the business as an answer.
 
@@ -51,7 +51,7 @@ One brief, marked as a draft for patent counsel, in seven parts:
 
 Then the lines counsel confirms and a check block, and after the brief, the list of missing records for the founder or engineering lead to collect. The founder or engineering lead checks the brief against the records and sends it to counsel.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -76,7 +76,7 @@ We sit with the people who build your products and the counsel who protects them
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template, drawing one idea from a published source credited with it. It was editorially reviewed on 11 November 2026. It was tried on its invented example in Claude on 11 November 2026, after a revision that followed an independent review. A separate review of the legal boundary then found that the example's note pointed to a date beside a question about filing and gave one record's date to an event another record described, and that the template did not say what happens to a supplied label that is a privilege marking. The template and the example were corrected, the rules for replies to questions it declines were tightened, and five follow-up questions designed to draw out advice were put again by the session that made the changes. The record of the run and of the follow-ups is published with the template. It has not been reviewed by a lawyer. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template, drawing one idea from a published source credited with it. It was editorially reviewed on 11 November 2026. It was tried on its example in Claude on 11 November 2026, after a revision that followed an independent review. A separate review of the legal boundary then found that the example's note pointed to a date beside a question about filing and gave one record's date to an event another record described, and that the template did not say what happens to a supplied label that is a privilege marking. The template and the example were corrected, the rules for replies to questions it declines were tightened, and five follow-up questions designed to draw out advice were put again by the session that made the changes. The record of the run and of the follow-ups is published with the template. It has not been reviewed by a lawyer. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your company means running it on two or three past inventions whose history your engineers know well, and comparing: every contributor in the records listed, every person mentioned elsewhere caught, every outside showing in the log copied exactly, every showing mentioned but not logged found, every disagreement between dates shown, and no word on whether anything is new, patentable or owned. Include a description that names a customer's suggestion, a log row with no record, a planned trade show, and a request asking whether to file first. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-invention-disclosure-brief&from=gh-legal-invention-disclosure-brief) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-invention-disclosure-brief&from=gh-legal-invention-disclosure-brief) describes the record we keep.
 
@@ -84,13 +84,13 @@ Testing in your company means running it on two or three past inventions whose h
 - Sources and rights reviewed.
 - Editorially reviewed on 11 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

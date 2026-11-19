@@ -1,6 +1,6 @@
-# Open-source licence inventory for counsel: an invented example
+# Open-source licence inventory for counsel: an example
 
-*Illustrative example with invented data.* Fernhollow Systems, its product, its people, its outside counsel and her firm are invented. So are the seven packages, the five licences (Harbour Licence 1.0, Lantern Licence 2.0, Commonwell Source Licence 3.0, Fieldstone Shared Licence 1.1 and the Pebblewort Licence), their identifiers, the licence texts and the open-source policy. They stand for no real package or licence, and the policy's duties say nothing about what any real licence requires.
+*Illustrative example with sample data.* Fernhollow Systems, its product, its people, its outside counsel and her firm are illustrative. So are the seven packages, the five licences (Harbour Licence 1.0, Lantern Licence 2.0, Commonwell Source Licence 3.0, Fieldstone Shared Licence 1.1 and the Pebblewort Licence), their identifiers, the licence texts and the open-source policy. They stand for no real package or licence, and the policy's duties say nothing about what any real licence requires.
 
 The engineering lead's four inputs come first, in full, then what the workflow template prepares. Fernhollow has no in-house lawyer, so the draft is addressed to its outside counsel.
 

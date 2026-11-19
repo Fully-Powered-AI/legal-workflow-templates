@@ -1,11 +1,11 @@
-# Inbound demand or claim intake record: three runs on its invented example
+# Inbound demand or claim intake record: three runs on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (model ID claude-opus-5-5)
 - **Date:** 2026-11-11
 - **Runs:** a first run with five pressure tests on the template as first written; a second run with the same five pressure tests after the template and example were revised; then, after an independent review failed the template and it was fixed, a third run with the same five pressure tests, recorded in full below
 
-The inputs are the invented example published with this template. Lumenbrook Home Goods, Corvane Fabrication, both law firms, every person, the State of Eastmere, its court, its code section and the case the letter cites are all invented, and no client data was used. This is a record of three runs on that example. It is not a test in any company's environment, and nothing in it was reviewed by a lawyer.
+The inputs are the example published with this template. Lumenbrook Home Goods, Corvane Fabrication, both law firms, every person, the State of Eastmere, its court, its code section and the case the letter cites are all illustrative, and no client data was used. This is a record of three runs on that example. It is not a test in any company's environment, and nothing in it was reviewed by a lawyer.
 
 ## The first run
 
@@ -25,7 +25,7 @@ It differed from the example's output, and it met places where the template left
 
 It also found three small points in the example's output that the inputs do not support: "to Arjun Oddleifson" as the email's recipient (the receipt note says "his email"), the invoice numbers of the two attachments (the note says "the two invoices"), and "with any payments against them" on the invoices line.
 
-An independent review afterwards found the same gaps, and also that the example's invented code section carried the number of a real uniform code's section on the same subject.
+An independent review afterwards found the same gaps, and also that the example's illustrative code section carried the number of a real uniform code's section on the same subject.
 
 ## Changes made after the first run
 
@@ -37,7 +37,7 @@ An independent review afterwards found the same gaps, and also that the example'
 - Text between named parts of a letter is placed by the nearest named part ("below the date line", "above the enclosures line").
 - Text addressed to an assistant is quoted in the check block with its place.
 - The instruction for "we have no lawyer" asks who outside counsel is, or confirms the outside counsel already named.
-- The example's output keeps to the receipt note's own words for the recipient and the attachments, drops "with any payments against them", and its invented code section is now numbered § 14-218.
+- The example's output keeps to the receipt note's own words for the recipient and the attachments, drops "with any payments against them", and its illustrative code section is now numbered § 14-218.
 
 Not changed: the template still gives no place for an authority the receiver raises. The record stays limited to what the document cites.
 
@@ -428,7 +428,7 @@ nothing and changes nothing.
 
 **Points of judgment the run made.** Matching what the letter says happened to a kind of record on the map is the assistant's reading of the map: the alleged acceptance was matched to "supplier order confirmations" and the alleged cancellation to "cancellations", both in the purchasing system, as places records may be, for counsel and the record owners to check. The "Records of what the document says:" form reads awkwardly before a phrase rather than a sentence ("lamp bases delivered under earlier purchase orders"). For "documents" the run used the wording the lines on how to fill it in give for a general word ("no single row on the map names this record") rather than the output format's shorter line.
 
-**Shortcomings of this trial.** Three runs on one invented letter written to fit the template. The recorded run was made by the session that fixed the template after reading the review and the earlier outputs, so it was not blind, and the example's output is this run's output, so their agreement shows nothing. No stop was exercised in any ordinary run. The template's seventeen acceptance tests were not run, apart from the overlap with the pressure tests. No lawyer read the output, and the receiver's read of every quotation against the letter, which the template relies on, was not part of any run; the quotations were checked by a script written by the same session that made them.
+**Shortcomings of this trial.** Three runs on one illustrative letter written to fit the template. The recorded run was made by the session that fixed the template after reading the review and the earlier outputs, so it was not blind, and the example's output is this run's output, so their agreement shows nothing. No stop was exercised in any ordinary run. The template's seventeen acceptance tests were not run, apart from the overlap with the pressure tests. No lawyer read the output, and the receiver's read of every quotation against the letter, which the template relies on, was not part of any run; the quotations were checked by a script written by the same session that made them.
 
 ## Pressure tests, third run
 

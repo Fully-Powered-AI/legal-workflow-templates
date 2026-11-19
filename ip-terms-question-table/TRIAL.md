@@ -1,11 +1,11 @@
-# IP ownership and licence question table: one trial on its invented example
+# IP ownership and licence question table: one trial on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (claude-opus-5-5)
 - **Date:** 2026-11-11
 - **Runs:** two on the version before the boundary review's changes, each in a fresh session; the second is recorded in full, with six pressure tests in the same session. The pressure tests were then re-run on the current version by the session that revised it. Earlier runs on previous versions are summarised at the end.
 
-The inputs are the invented example published with this template. Quillfern Labs, Tenmoor Studio, the State of Westmarch, the people, the agreement, the two statements of work and the IP positions file are all invented, and no client data was used. This is a record of one run on that example. It is not a test in any company's environment, and the template has not been reviewed by a lawyer.
+The inputs are the example published with this template. Quillfern Labs, Tenmoor Studio, the State of Westmarch, the people, the agreement, the two statements of work and the IP positions file are all illustrative, and no client data was used. This is a record of one run on that example. It is not a test in any company's environment, and the template has not been reviewed by a lawyer.
 
 ## How the run was made
 
@@ -14,10 +14,10 @@ The inputs are the invented example published with this template. Quillfern Labs
 **Inputs used.** Exactly the inputs in [the example](example.md), each marked with its heading, and nothing else:
 
 - the request from Ines Varga, contracts manager, of 10 November 2026, naming Daniel Ferro, in-house IP counsel, stating "Quillfern commissions the work", giving today's date, and passing on Mo Haddad's question whether SOW 2 can be signed this week;
-- the invented Master Services Agreement between Quillfern Labs, Inc. and Tenmoor Studio LLC, Tenmoor's version of 3 November 2026, unsigned, sections 1 to 11;
+- the illustrative Master Services Agreement between Quillfern Labs, Inc. and Tenmoor Studio LLC, Tenmoor's version of 3 November 2026, unsigned, sections 1 to 11;
 - Statement of Work 1 (mobile app interface design), sections 1 to 5;
 - Statement of Work 2 (campaign illustrations), sections 1 to 5;
-- the invented IP positions file approved by Daniel Ferro, dated 2 September 2026, review by 2 March 2027, positions P-1 to P-5, with P-1 marked as the assignment check.
+- the illustrative IP positions file approved by Daniel Ferro, dated 2 September 2026, review by 2 March 2027, positions P-1 to P-5, with P-1 marked as the assignment check.
 
 **The first fresh run, and what it changed.** The first fresh session ran the template as it stood after the second independent review's fixes (the fuller heading and the `EXPECTED ASSIGNMENT WORDS NOT FOUND` label). Its table matched the example in every quoted row and its "Found by" words, both result sections and Q1 to Q9. Apart from the smaller layout choices that the recorded run below also makes, it differed in three ways the template had left open. It read "Deliverable" in Agreement § 7.2 (R3) as a different term from the defined "Deliverables", so it left Deliverables out of R3's defined terms and asked a thirteenth question, "R3 uses "Deliverable" and no definition was found. Where is it defined?". It separated the "Found by" words with semicolons, following the general rule on words rather than the format's own example. And it wrote the table as formatted text with bold headings, not as a plain block. The template was then changed in three places, in the procedure, the instruction block and the lines on how to fill it in: a defined term in the singular or the plural is the same term; "Found by" words are separated by commas with the heading after a semicolon; the table is plain text in one block. The run below is the second fresh session, on the template with those three changes. Its output is reproduced word for word.
 
@@ -344,4 +344,4 @@ Three earlier runs were made the same day. None of their output is reproduced he
 
 ## Shortcomings of this trial
 
-It is one recorded run, on one invented example written to fit the template, made on the version before the boundary review's changes. The fresh session had not written the template, but it was started by the session that revised it, and the pressure-test messages were written by that session, so they test the requests it thought of. The re-run of the pressure tests on the current version was made by the session that revised the rules, not by a fresh one; neither the table nor the pressure tests have been run in a fresh session on the current version. Only the stop for two versions was reached, and only in a pressure test. The template's eighteen acceptance tests were not run. No lawyer reviewed the output, and the contracts manager's check of every quotation, which the template relies on, was not part of the run.
+It is one recorded run, on one example written to fit the template, made on the version before the boundary review's changes. The fresh session had not written the template, but it was started by the session that revised it, and the pressure-test messages were written by that session, so they test the requests it thought of. The re-run of the pressure tests on the current version was made by the session that revised the rules, not by a fresh one; neither the table nor the pressure tests have been run in a fresh session on the current version. Only the stop for two versions was reached, and only in a pressure test. The template's eighteen acceptance tests were not run. No lawyer reviewed the output, and the contracts manager's check of every quotation, which the template relies on, was not part of the run.

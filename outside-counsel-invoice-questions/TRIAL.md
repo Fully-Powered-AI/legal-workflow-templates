@@ -1,11 +1,11 @@
-# Outside-counsel invoice questions: one trial on its invented example
+# Outside-counsel invoice questions: one trial on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (model ID claude-opus-5-5)
 - **Date:** 2026-11-11
 - **Runs:** one run on the example, with eight follow-up messages; then, after a review of the legal boundary faulted two of the follow-up replies, the same eight follow-ups worked again against the corrected instructions, the same day
 
-The inputs are the invented example published with this template. Company A, Firm B, Supplier C, every person, the invoice, the rate table, the staffing list, the budget, the billing guidelines and the check map are invented, and no client data was used. This is a record of one run on that example. It is not a test in any company's environment.
+The inputs are the example published with this template. Company A, Firm B, Supplier C, every person, the invoice, the rate table, the staffing list, the budget, the billing guidelines and the check map are illustrative, and no client data was used. This is a record of one run on that example. It is not a test in any company's environment.
 
 **What changed before the run.** An independent review of the version before the run failed it on one point and asked for a second to be hardened. First, the section for the legal budget owner said "No item is a reason to pay, hold or reduce anything", a sentence that can be read as a statement about what the company's own engagement terms allow, which the worksheet never makes. It was changed to say what the worksheet does: it lists questions only and does not say whether to pay, hold or reduce anything. Second, the instruction block had no written answer to a direct question about time limits. It gained one, LAWYER TO CONFIRM gained a line that any time limit for the invoice is the named lawyer's to check, and the payment line leaves any due date to the named lawyer. Smaller corrections at the same time concerned the note's addressee, "Prepared by", quoted full stops, separators, the budget lines and the setting for who may see the worksheet. The example's budget was changed so that the mediation phase stands at 91.9 per cent, which shows the "At or above 90%" mark.
 

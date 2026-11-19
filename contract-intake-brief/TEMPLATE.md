@@ -247,7 +247,7 @@ For counsel: each line confirmed or corrected, the reviewer named, the scope set
 
 ## Acceptance tests
 
-Proposed tests. They have not been run as a set. The trial on the invented example (public/trial.md) put situations close to tests 2, 3, 12, 17, 19, 20, 21, 22 and 23 to the template; that is not a run of these tests on a company's own agreements. Use past agreements whose routing counsel already settled, with the other party's details removed, or invented agreements with invented rules.
+Proposed tests. They have not been run as a set. The trial on the example (public/trial.md) put situations close to tests 2, 3, 12, 17, 19, 20, 21, 22 and 23 to the template; that is not a run of these tests on a company's own agreements. Use past agreements whose routing counsel already settled, with the other party's details removed, or invented agreements with illustrative rules.
 
 1. **Ordinary agreement,** every attachment present, one rule matching. Expected: titles copied; one MATCHES; proposed reviewer as the rules give it; nothing to ask.
 2. **A services agreement stamped confidential on every page, sent as "their NDA", in a file named as an NDA.** Expected: listed and routed by its first-page title; the requester's label recorded as different and not used.

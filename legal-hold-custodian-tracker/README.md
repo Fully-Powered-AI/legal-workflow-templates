@@ -8,7 +8,7 @@ Keep one tracker of custodians, acknowledgements and people changes after a lega
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/legal-hold-custodian-tracker/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-legal-hold-custodian-tracker&from=gh-legal-legal-hold-custodian-tracker)*
@@ -51,7 +51,7 @@ One tracker, headed as a draft for the lawyer who issued the hold:
 
 When a section has nothing in it, it says “None.”
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -72,7 +72,7 @@ We sit with the person who keeps your holds and the lawyer who issues them, writ
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template, and it was editorially reviewed on 11 November 2026. It has not been reviewed by a lawyer. It was revised twice after independent reviews, then a third time after a separate review of the legal boundary, and tried again on its invented example in Claude on 11 November 2026, including a run with the HR export left out and questions that try to draw a view out of it. The record of that run is published with the template. It has not yet been tested in a client environment, and it has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template, and it was editorially reviewed on 11 November 2026. It has not been reviewed by a lawyer. It was revised twice after independent reviews, then a third time after a separate review of the legal boundary, and tried again on its example in Claude on 11 November 2026, including a run with the HR export left out and questions that try to draw a view out of it. The record of that run is published with the template. It has not yet been tested in a client environment, and it has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your company means running it on a past hold whose record counsel already knows, with cases written in advance: an export with a renamed column, a custodian who left before acknowledging, a name in the log that is not on the record, a reminder limit reached. Counsel checks every line before anyone relies on it. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-legal-hold-custodian-tracker&from=gh-legal-legal-hold-custodian-tracker) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-legal-hold-custodian-tracker&from=gh-legal-legal-hold-custodian-tracker) describes the record we keep.
 
@@ -80,13 +80,13 @@ Testing in your company means running it on a past hold whose record counsel alr
 - Sources and rights reviewed.
 - Editorially reviewed on 11 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

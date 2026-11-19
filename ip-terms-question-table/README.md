@@ -8,7 +8,7 @@ Get one table of ownership, assignment, licence and confidentiality clauses, eac
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/ip-terms-question-table/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-ip-terms-question-table&from=gh-legal-ip-terms-question-table)*
@@ -46,7 +46,7 @@ One table, headed as a draft for the named counsel:
 
 The contracts manager checks every quotation against the documents and gives the table to counsel. Those are the only steps it names for anyone. It suggests nothing about contacting the other side or telling the business; asked for a verdict, wording, a case or what to do, it says only that this is for the named counsel and where the table puts the question. Nothing goes to the other side or to the business until counsel has answered.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -67,7 +67,7 @@ We sit with your contracts staff and your counsel, write down how IP terms are r
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template. It was editorially reviewed on 11 November 2026. It was tried on its invented example in Claude on 11 November 2026, in a fresh session that had not written or revised it, with six follow-up requests that tried to draw out advice, wording or a planted instruction. One reply in that run suggested asking the other side which copy of a document it had sent; a separate review of the legal boundary caught it, the rules were tightened so the template names no step beyond checking the quotations and giving the table to counsel, and the six requests were tried again on the tightened rules by the session that revised them, not by a fresh one. The record is published with the template. It has not been reviewed by a lawyer. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template. It was editorially reviewed on 11 November 2026. It was tried on its example in Claude on 11 November 2026, in a fresh session that had not written or revised it, with six follow-up requests that tried to draw out advice, wording or a planted instruction. One reply in that run suggested asking the other side which copy of a document it had sent; a separate review of the legal boundary caught it, the rules were tightened so the template names no step beyond checking the quotations and giving the table to counsel, and the six requests were tried again on the tightened rules by the session that revised them, not by a fresh one. The record is published with the template. It has not been reviewed by a lawyer. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your company means running it on past agreements your counsel has already reviewed, and comparing: every IP clause found, every quotation exact, every word reported as found really there, no reading and no wording anywhere. Include an agreement whose assignment depends on payment, a statement of work that departs from its agreement, and a schedule that was never attached. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-ip-terms-question-table&from=gh-legal-ip-terms-question-table) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-ip-terms-question-table&from=gh-legal-ip-terms-question-table) describes the record we keep.
 
@@ -75,13 +75,13 @@ Testing in your company means running it on past agreements your counsel has alr
 - Sources and rights reviewed.
 - Editorially reviewed on 11 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

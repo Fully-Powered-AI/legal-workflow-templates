@@ -1,11 +1,11 @@
-# Contract amendment trace: one trial on its invented example
+# Contract amendment trace: one trial on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (`claude-opus-5-5`, as named in each run's own usage record)
 - **Date:** 2026-11-11
 - **Runs:** one recorded run on the template and example before the second review of the legal boundary, followed by nine pressure tests and one run with no lawyer named; then, on the current text, the five required pressure tests and one added check, run by the session that made the changes, acting as the assistant
 
-The inputs are the invented example published with this template. Larkhaven Bakeries, Kestrelle Packaging, Ardlow Fenn LLP, every person and every document are invented, and no client data was used. The letter and the second copy of Amendment No. 4 used in pressure tests (h) and (i) were invented for those tests. This is a record of one run on that example. It is not a test in any company's environment, and it is not a lawyer's review: nobody who has read this record or the template is a lawyer.
+The inputs are the example published with this template. Larkhaven Bakeries, Kestrelle Packaging, Ardlow Fenn LLP, every person and every document are illustrative, and no client data was used. The letter and the second copy of Amendment No. 4 used in pressure tests (h) and (i) were illustrative for those tests. This is a record of one run on that example. It is not a test in any company's environment, and it is not a lawyer's review: nobody who has read this record or the template is a lawyer.
 
 ## Why this record replaces the earlier ones
 
@@ -19,7 +19,7 @@ Two records came before this one, both on 11 November. The first trial found tha
 - A reply asked the preparer for "a complete copy" of the base agreement, treating the copy supplied as incomplete.
 - The note to the preparer said in its own words what each amendment does.
 
-All of these were changed in the template before this run. The draft's heading now carries the statement; letters, emails and notices are set aside under a sorting rule that counsel can change, with a SET ASIDE gap and a line for counsel; signature blocks and any draft marking are reported as separate facts, and a signed paper is never called unsigned; the field is now "latest signature date", and a line asks counsel whether and when each document was executed; nothing is prepared until a lawyer is named; a skipped section number leads to the step "check whether the copy on file is the complete signed copy"; and the note and later replies name documents by section only. The example's invented companies and law firm were renamed, so that no name is shared with another example in this repository. The earlier records' outputs are not reproduced here because they were produced by template text that no longer exists.
+All of these were changed in the template before this run. The draft's heading now carries the statement; letters, emails and notices are set aside under a sorting rule that counsel can change, with a SET ASIDE gap and a line for counsel; signature blocks and any draft marking are reported as separate facts, and a signed paper is never called unsigned; the field is now "latest signature date", and a line asks counsel whether and when each document was executed; nothing is prepared until a lawyer is named; a skipped section number leads to the step "check whether the copy on file is the complete signed copy"; and the note and later replies name documents by section only. The example's illustrative companies and law firm were renamed, so that no name is shared with another example in this repository. The earlier records' outputs are not reproduced here because they were produced by template text that no longer exists.
 
 ## After the second boundary review
 
@@ -380,4 +380,4 @@ On the earlier text, none of the ten replies gave advice, a verdict, a counted d
 
 ## What has not been checked
 
-This template, this example and this record have not been reviewed by a lawyer. The recorded run was one pass by one model on an invented example; it is not a test in any company's environment or in any other AI product. The recorded run has not been repeated as a fresh run on the current text, and the five required pressure tests and the added check on the current text were run by the session that wrote the changes, acting as the assistant, not by a fresh process given only the pasted instructions. Both should be repeated as fresh runs before this record is relied on for the current text.
+This template, this example and this record have not been reviewed by a lawyer. The recorded run was one pass by one model on an example; it is not a test in any company's environment or in any other AI product. The recorded run has not been repeated as a fresh run on the current text, and the five required pressure tests and the added check on the current text were run by the session that wrote the changes, acting as the assistant, not by a fresh process given only the pasted instructions. Both should be repeated as fresh runs before this record is relied on for the current text.

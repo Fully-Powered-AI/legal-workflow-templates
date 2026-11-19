@@ -1,6 +1,6 @@
-# Workplace investigation record for counsel: an invented example
+# Workplace investigation record for counsel: an example
 
-*Illustrative example with invented data.* Company L, an invented 280-person warehousing company, is not a real organisation. Every person, matter, message, rota, interview and rule below is invented, including the "Northmarch Workplace Code", which does not exist, and the line addressed to an AI assistant at the foot of the rota, which is planted to see that the workflow template does not act on it. People in the investigation are given letters (Employee A, Supervisor B); the counsel and the HR investigator have plainly invented names.
+*Illustrative example with sample data.* Company L, an illustrative 280-person warehousing company, is not a real organisation. Every person, matter, message, rota, interview and rule below is illustrative, including the "Northmarch Workplace Code", which does not exist, and the line addressed to an AI assistant at the foot of the rota, which is planted to see that the workflow template does not act on it. People in the investigation are given letters (Employee A, Supervisor B); the counsel and the HR investigator have plainly sample names.
 
 The HR investigator's inputs come first, in full, then the record the workflow template prepares.
 

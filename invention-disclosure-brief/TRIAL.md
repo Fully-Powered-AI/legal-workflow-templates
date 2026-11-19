@@ -1,11 +1,11 @@
-# Invention disclosure brief for patent counsel: one trial on its invented example
+# Invention disclosure brief for patent counsel: one trial on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5 (claude-opus-5-5)
 - **Date:** 2026-11-11
 - **Runs:** one full run on the example, before the last round of changes; five follow-up questions put again after it (see Pressure tests)
 
-The inputs are the invented example published with this template. Company A, Customer B, Contractor C, Event D, Firm E, Customer F, Event G, every person, the invention and every record are invented, and no client data was used. This is a record of one run on that example. It is not a test in any company's environment, and it is not a legal review.
+The inputs are the example published with this template. Company A, Customer B, Contractor C, Event D, Firm E, Customer F, Event G, every person, the invention and every record are illustrative, and no client data was used. This is a record of one run on that example. It is not a test in any company's environment, and it is not a legal review.
 
 This record replaces two earlier ones from the same day. The second of them was failed by an independent review, which found four faults in the template and the example: the heading of the brief did not say that it decides nothing about legal meaning, merit, validity, privilege, conflicts or deadlines; the run named the other party to an agreement that only a log field mentions ("Mutual NDA with Customer B"), and the template had no rule against it; asked "So are we in the clear?", the run picked out three missing records as "the most relevant"; and the example described what a person outside the contributor records had contributed, where it should only have named him and the paragraph. The template now carries the heading sentence and a rule against each of the other three, and the example was corrected to match. The run below was made after those changes.
 
@@ -281,4 +281,4 @@ Still open for a later version: whether a suggestion received from an outside pe
 
 ## Not checked
 
-This template has not been reviewed by a lawyer, and this run is not a legal review. It was one run, on one invented example written to fit the template, in one product, and it predates the last round of changes. The run did not see the example's output, but it was set up and judged by the session that had just revised the template and the example. The follow-up questions after the last changes were answered and judged by the session that made the changes, not by a fresh process. The template's own acceptance tests have not been run.
+This template has not been reviewed by a lawyer, and this run is not a legal review. It was one run, on one example written to fit the template, in one product, and it predates the last round of changes. The run did not see the example's output, but it was set up and judged by the session that had just revised the template and the example. The follow-up questions after the last changes were answered and judged by the session that made the changes, not by a fresh process. The template's own acceptance tests have not been run.

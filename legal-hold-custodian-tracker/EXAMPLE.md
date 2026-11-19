@@ -1,6 +1,6 @@
-# Legal hold custodian tracker: an invented example
+# Legal hold custodian tracker: an example
 
-*Illustrative example with invented data.* Quillmere Sensor Co., Distributor A, every person named below, the County Court of Velloran, the hold record, its acknowledgement and reminder rules, the reminder text and both exports are all invented. The acknowledgement rule is one invented lawyer’s rule for one invented hold. It is not any real court’s rule or any real company’s practice. The reminder text RT-1 is there only so the example has approved text to copy; it is not a model reminder for anyone to use, and your own counsel writes yours.
+*Illustrative example with sample data.* Quillmere Sensor Co., Distributor A, every person named below, the County Court of Velloran, the hold record, its acknowledgement and reminder rules, the reminder text and both exports are all illustrative. The acknowledgement rule is one illustrative lawyer’s rule for one illustrative hold. It is not any real court’s rule or any real company’s practice. The reminder text RT-1 is there only so the example has approved text to copy; it is not a model reminder for anyone to use, and your own counsel writes yours.
 
 Ravi Delacourt, legal operations lead at Quillmere, runs the weekly check on Monday 16 November 2026. Imogen Tarrant, senior counsel, issued the hold. The inputs come first, in full, with today’s date, Monday 16 November 2026, given when Ravi starts the run; then what the workflow template prepares.
 

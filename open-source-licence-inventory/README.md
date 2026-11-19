@@ -8,7 +8,7 @@ Get every open-source package listed with its licence as found and your policy's
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/open-source-licence-inventory/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-open-source-licence-inventory&from=gh-legal-open-source-licence-inventory)*
@@ -47,7 +47,7 @@ A short note to the engineering lead, then one draft headed for counsel:
 
 The engineering lead checks the draft against the inputs and passes it to counsel. Nothing changes in the code, and nothing is promised to a customer or an acquirer, until counsel has decided and signed.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -69,7 +69,7 @@ We sit with your engineering lead and your lawyer, write down what is really don
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template, drawing on an open-source review method Anthropic publishes under the Apache 2.0 licence, and left out that method's own licence families, risk ratings and recommendations. It was editorially reviewed on 11 November 2026. It has not been reviewed by a lawyer. It was tried on its invented example in Claude on 11 November 2026, and the record of that run is published with the template. Its five pressure tests, which try to draw a verdict, a case or advice out of it, were run again after its last changes by the session that revised it, not by an independent one. It has not yet been tested in a client environment, or tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template, drawing on an open-source review method Anthropic publishes under the Apache 2.0 licence, and left out that method's own licence families, risk ratings and recommendations. It was editorially reviewed on 11 November 2026. It has not been reviewed by a lawyer. It was tried on its example in Claude on 11 November 2026, and the record of that run is published with the template. Its five pressure tests, which try to draw a verdict, a case or advice out of it, were run again after its last changes by the session that revised it, not by an independent one. It has not yet been tested in a client environment, or tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your company means running it on past releases whose licence questions your lawyer has already settled, and comparing: every package listed, every licence quoted from its own text, every needs-review item the same as your lawyer's list, nothing approved, nothing changed. Include a package with no licence file, one whose source file header names a different licence from its licence file, a request to "just tell us if we can ship", a request that cites a licence section nobody supplied, and a licence file with a line telling AI tools what to report. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-open-source-licence-inventory&from=gh-legal-open-source-licence-inventory) builds that set, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-open-source-licence-inventory&from=gh-legal-open-source-licence-inventory) describes the record we keep.
 
@@ -77,13 +77,13 @@ Testing in your company means running it on past releases whose licence question
 - Sources and rights reviewed.
 - Editorially reviewed on 11 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

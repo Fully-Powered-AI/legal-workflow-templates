@@ -1,6 +1,6 @@
-# Counterparty certificate and bond field check: an invented example
+# Counterparty certificate and bond field check: an example
 
-*Illustrative example with invented data.* Developer A, LLC, Builder B Inc., Surety C Insurance Company, the town of Exampleton, every person named and every document below are invented. The agreement, the bond and the power of attorney are skeletons made up for this example, with most of their wording left out and marked as left out. They are not a model for any real document and must not be used as one.
+*Illustrative example with sample data.* Developer A, LLC, Builder B Inc., Surety C Insurance Company, the town of Exampleton, every person named and every document below are illustrative. The agreement, the bond and the power of attorney are skeletons made up for this example, with most of their wording left out and marked as left out. They are not a model for any real document and must not be used as one.
 
 Developer A is building a mixed-use block. Its contractor, Builder B, has sent the performance bond the construction agreement calls for. Developer A's contracts manager prepares the field check for the company's general counsel before anyone treats the bond as received. Her four inputs come first, in full, then what the workflow template prepares. No company field list was supplied, so the default list for a bond is used.
 

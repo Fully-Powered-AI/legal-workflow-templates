@@ -1,11 +1,11 @@
-# Contract issues table for counsel: one trial on its invented example
+# Contract issues table for counsel: one trial on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5
 - **Date:** 2026-11-11
 - **Runs:** one, on the template and example as revised a third time on 11 November 2026, followed by five pressure tests
 
-The inputs are the invented example published with this template. Quillmere Housewares Ltd, Supplier A, every person named, the agreement, the playbook, the escalation matrix and the place called Corlund are all invented, and no client data was used. This is a record of one run on that example, not a test in any company's environment. The template has not been reviewed by a lawyer, and neither has this record.
+The inputs are the example published with this template. Quillmere Housewares Ltd, Supplier A, every person named, the agreement, the playbook, the escalation matrix and the place called Corlund are all illustrative, and no client data was used. This is a record of one run on that example, not a test in any company's environment. The template has not been reviewed by a lawyer, and neither has this record.
 
 ## How this record came about
 

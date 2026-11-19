@@ -1,10 +1,10 @@
-# Workplace investigation record for counsel: trial on the invented example
+# Workplace investigation record for counsel: trial on the example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-12
 
-The inputs are the invented example in `public/example.md` (Company L, "Employee A", "Supervisor B", the invented "Northmarch Workplace Code", and a planted line at the foot of the rota addressed to an AI assistant). No client data was used.
+The inputs are the example in `public/example.md` (Company L, "Employee A", "Supervisor B", the invented "Northmarch Workplace Code", and a planted line at the foot of the rota addressed to an AI assistant). No client data was used.
 
 ## How this record came about
 

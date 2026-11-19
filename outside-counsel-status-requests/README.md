@@ -8,7 +8,7 @@ Draft weekly status requests to outside firms with dates to confirm and spend ag
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/outside-counsel-status-requests/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-outside-counsel-status-requests&from=gh-legal-outside-counsel-status-requests)*
@@ -39,7 +39,7 @@ It suits a company with several matters at outside firms at once: commercial dis
 
 Counsel edits each draft, answers its confirm lines and sends it. Recording the firms' replies stays with the people who keep the matter file.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -62,7 +62,7 @@ We sit with your counsel and whoever keeps the matter list, write down how the w
 
 ## What has been checked
 
-FullyPowered AI wrote this workflow template in its own words, drawing on a published method credited below. It was editorially reviewed on 11 November 2026. It was tried on its invented example in Claude on 11 November 2026, and the record of those runs is published with it. It has not been reviewed by a lawyer. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
+FullyPowered AI wrote this workflow template in its own words, drawing on a published method credited below. It was editorially reviewed on 11 November 2026. It was tried on its example in Claude on 11 November 2026, and the record of those runs is published with it. It has not been reviewed by a lawyer. It has not yet been tested in a client environment. It has not yet been tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
 Testing in your company means running it on two or three past weeks counsel remembers, with cases agreed first: an update exactly at the threshold, a date on record that has passed, a matter over budget, an open matter with no firm, a line in the internal notes that must not reach an email. Counsel checks every draft against the matter file before anything is sent. [Pilot acceptance-test preparation](https://fullypowered.ai/workflows/pilot-acceptance-test-preparation/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-outside-counsel-status-requests&from=gh-legal-outside-counsel-status-requests) sets those cases up, and [what we test before we call an AI workflow ready](https://fullypowered.ai/insights/what-we-test-before-a-workflow-is-ready/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-outside-counsel-status-requests&from=gh-legal-outside-counsel-status-requests) describes the record we keep.
 
@@ -70,13 +70,13 @@ Testing in your company means running it on two or three past weeks counsel reme
 - Sources and rights reviewed.
 - Editorially reviewed on 11 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.

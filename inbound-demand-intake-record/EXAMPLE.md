@@ -1,6 +1,6 @@
-# Inbound demand or claim intake record: an invented example
+# Inbound demand or claim intake record: an example
 
-*Illustrative example with invented data.* Lumenbrook Home Goods, Inc., Corvane Fabrication Co., Tamsworth Ilbery LLP, Saltmarsh Quarry LLP, every person named, the State of Eastmere, the Superior Court of Eastmere, the Eastmere Commercial Code section and the case the letter cites are all invented. No real company, firm, court, case or statute is named. The citation in the letter is there to show how the workflow template treats any citation: copied as cited and left for the lawyer to verify.
+*Illustrative example with sample data.* Lumenbrook Home Goods, Inc., Corvane Fabrication Co., Tamsworth Ilbery LLP, Saltmarsh Quarry LLP, every person named, the State of Eastmere, the Superior Court of Eastmere, the Eastmere Commercial Code section and the case the letter cites are all illustrative. No real company, firm, court, case or statute is named. The citation in the letter is there to show how the workflow template treats any citation: copied as cited and left for the lawyer to verify.
 
 Lumenbrook sells lamps and home goods online. It has no in-house lawyer, so the record is addressed to its outside counsel. The operations manager's inputs come first, in full, then what the workflow template prepares. Today's date is its own line, and the named lawyer is given in the receipt note. The email reached the chief executive on Monday 9 November and the receipt note does not say when he forwarded it; the record is prepared on Wednesday 11 November, so this example shows the record itself, not same-day handling.
 

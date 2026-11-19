@@ -247,7 +247,7 @@ For counsel: each line confirmed or corrected, the decisions on search, filing, 
 
 ## Acceptance tests
 
-Proposed tests. They have not been run. Use past inventions whose history the company's engineers know well, or invented ones with invented records.
+Proposed tests. They have not been run. Use past inventions whose history the company's engineers know well, or invented ones with sample records.
 
 1. **Complete records:** a description, contributor records and a log, every record supplied. Expected: sections filled from the records; no open facts beyond any genuine gap; nothing missing.
 2. **A customer's engineer named in the description as suggesting part of the design,** not in the contributor records. Expected: listed under "Named elsewhere"; an open fact asking for details; no word on inventorship.

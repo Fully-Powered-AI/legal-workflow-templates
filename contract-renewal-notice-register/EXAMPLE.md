@@ -1,8 +1,8 @@
-# Contract renewal and notice register: an invented example
+# Contract renewal and notice register: an example
 
-*Illustrative example with invented data.* The Company, Suppliers A to D, the agreements, the amendment, the counting rules and the closed-day list below are all invented, and the addresses use placeholder names. The counting rules are one invented company's way of counting its own notice dates. They are not any real law or court rule and must not be used for a real date.
+*Illustrative example with sample data.* The Company, Suppliers A to D, the agreements, the amendment, the counting rules and the closed-day list below are all illustrative, and the addresses use placeholder names. The counting rules are one illustrative company's way of counting its own notice dates. They are not any real law or court rule and must not be used for a real date.
 
-The Company is an invented 150-person software business with an in-house counsel and a contracts manager. The contracts manager supplies five inputs, given here in full, and then the workflow template prepares the register.
+The Company is an illustrative 150-person software business with an in-house counsel and a contracts manager. The contracts manager supplies five inputs, given here in full, and then the workflow template prepares the register.
 
 ## Input 1: the settings
 
@@ -95,7 +95,7 @@ Monday 27 December 2027
 
 ## Input 5: the signed documents
 
-Each invented document below is complete. Page breaks are shown as page markers.
+Each illustrative document below is complete. Page breaks are shown as page markers.
 
 **A1-agreement.pdf**
 

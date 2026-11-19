@@ -1,6 +1,6 @@
-# Contract issues table for counsel: an invented example
+# Contract issues table for counsel: an example
 
-*Illustrative example with invented data.* Quillmere Housewares Ltd, Supplier A, every person named, the agreement, the playbook, the escalation matrix and the place called Corlund are all invented. The clause wording in the agreement and the playbook was written for this example only. It is not offered for use in any real agreement, and nothing here is legal advice.
+*Illustrative example with sample data.* Quillmere Housewares Ltd, Supplier A, every person named, the agreement, the playbook, the escalation matrix and the place called Corlund are all illustrative. The clause wording in the agreement and the playbook was written for this example only. It is not offered for use in any real agreement, and nothing here is legal advice.
 
 The contracts manager supplies five inputs, given here in full, and then the workflow template prepares the table.
 

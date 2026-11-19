@@ -1,6 +1,6 @@
-# NDA check against counsel's approved positions: an invented example
+# NDA check against counsel's approved positions: an example
 
-*Illustrative example with invented data.* Company A Software Ltd, Prospect B Distribution Ltd, every person named below, the NDA, the positions file and Westmarch, the place whose law and courts the NDA names, are all invented. The positions file is one invented company's set of choices. It is not advice about any real NDA and must not be used as anyone's positions.
+*Illustrative example with sample data.* Company A Software Ltd, Prospect B Distribution Ltd, every person named below, the NDA, the positions file and Westmarch, the place whose law and courts the NDA names, are all illustrative. The positions file is one illustrative company's set of choices. It is not advice about any real NDA and must not be used as anyone's positions.
 
 The requester's four inputs come first, in full, then what the workflow template prepares. Counsel's positions are written as the wording counsel accepts, so most clauses can be set beside a position word for word.
 

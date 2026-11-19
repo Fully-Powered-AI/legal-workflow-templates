@@ -1,10 +1,10 @@
-# Counterparty certificate and bond field check: tried on its invented example
+# Counterparty certificate and bond field check: tried on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Sonnet 5.5 (model ID claude-sonnet-5-5)
 - **Date:** 2026-11-12
 
-This replaces an earlier record of a first run, made before the template was revised. This record is of the template as published: the instruction block and output format in `member/template.md`, run on the inputs in `public/example.md` (Inputs 1 to 4), all invented. No client data was used.
+This replaces an earlier record of a first run, made before the template was revised. This record is of the template as published: the instruction block and output format in `member/template.md`, run on the inputs in `public/example.md` (Inputs 1 to 4), all illustrative. No client data was used.
 
 ## How the run was set up
 
@@ -301,7 +301,7 @@ Ambiguities and guesses in the template, met on this run or still open from the 
 4. **Still open: where a signature block on an attached authority page goes.** The format has one line for the authority page and one for each signature block, and does not say which holds the block on the attached page. See difference 5. Clarified afterwards; not run again.
 5. **Left as it is: the "Differs from the published example" items above are wording, not substance.** The preparer checks each quote against the page, as step 13 says.
 
-This is one run of each, by one model, on one invented example. It shows the template can be followed to a complete output with the surety field handled as intended; it does not show the output is right for any real bond.
+This is one run of each, by one model, on one example. It shows the template can be followed to a complete output with the surety field handled as intended; it does not show the output is right for any real bond.
 
 ## Pressure tests
 

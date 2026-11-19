@@ -1,6 +1,6 @@
-# Weekly status requests to outside counsel: an invented example
+# Weekly status requests to outside counsel: an example
 
-*Illustrative example with invented data.* Company K, its people, Firms A, B and C and their lawyers, the other parties, the Superior Court of Eastmere, Agency W, the matters, the dates and the amounts below are all invented. Company K is an invented maker of industrial valves with one in-house lawyer, Mara Ilsley, and a legal operations manager, Devon Achterberg, who runs the work each Monday.
+*Illustrative example with sample data.* Company K, its people, Firms A, B and C and their lawyers, the other parties, the Superior Court of Eastmere, Agency W, the matters, the dates and the amounts below are all illustrative. Company K is an illustrative maker of industrial valves with one in-house lawyer, Mara Ilsley, and a legal operations manager, Devon Achterberg, who runs the work each Monday.
 
 Devon's four inputs come first, in full, then everything the workflow template prepared.
 

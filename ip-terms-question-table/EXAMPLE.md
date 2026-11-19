@@ -1,6 +1,6 @@
-# IP ownership and licence question table: an invented example
+# IP ownership and licence question table: an example
 
-*Illustrative example with invented data.* Quillfern Labs, Inc., Tenmoor Studio LLC, the State of Westmarch, the people, the agreement, the two statements of work and the IP positions file below are all invented. The positions file is one invented company's way of setting out its lawyer's positions. It is not a real company's playbook, it says nothing about any real law, and it must not be used on a real agreement.
+*Illustrative example with sample data.* Quillfern Labs, Inc., Tenmoor Studio LLC, the State of Westmarch, the people, the agreement, the two statements of work and the IP positions file below are all illustrative. The positions file is one illustrative company's way of setting out its lawyer's positions. It is not a real company's playbook, it says nothing about any real law, and it must not be used on a real agreement.
 
 The contracts manager's inputs come first, in full, then what the workflow template prepares. The template asks for four inputs; here the documents are shown one by one, as inputs 2 to 4, and today's date is given in the request, so they appear as five.
 

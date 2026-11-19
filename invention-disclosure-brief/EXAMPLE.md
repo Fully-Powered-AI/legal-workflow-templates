@@ -1,6 +1,6 @@
-# Invention disclosure brief for patent counsel: an invented example
+# Invention disclosure brief for patent counsel: an example
 
-*Illustrative example with invented data.* Company A, Customer B, Contractor C, the Event D meetup, Firm E, Customer F, the Event G trade show, every person named below, the invention and every record are invented. Nothing here describes a real product, company, event or person.
+*Illustrative example with sample data.* Company A, Customer B, Contractor C, the Event D meetup, Firm E, Customer F, the Event G trade show, every person named below, the invention and every record are illustrative. Nothing here describes a real product, company, event or person.
 
 Company A makes conveyors and has no lawyer on staff. Its VP Engineering is preparing for a first call with outside patent counsel. Her five inputs come first, in full, then what the workflow template prepares.
 

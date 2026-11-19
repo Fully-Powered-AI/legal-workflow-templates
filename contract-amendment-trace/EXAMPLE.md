@@ -1,6 +1,6 @@
-# Contract amendment trace: an invented example
+# Contract amendment trace: an example
 
-*Illustrative example with invented data.* Larkhaven Bakeries, Inc., Kestrelle Packaging LLC, Ardlow Fenn LLP, every person named and every document below are invented. The agreement and its amendments are skeletons made up for this example, with most sections left out; the trace marks the skipped section numbers as it would in a real agreement. They are not a model for any real agreement and must not be used as one.
+*Illustrative example with sample data.* Larkhaven Bakeries, Inc., Kestrelle Packaging LLC, Ardlow Fenn LLP, every person named and every document below are illustrative. The agreement and its amendments are skeletons made up for this example, with most sections left out; the trace marks the skipped section numbers as it would in a real agreement. They are not a model for any real agreement and must not be used as one.
 
 Larkhaven has no lawyer of its own. Its operations manager prepares the trace before the question goes to its outside counsel. Her six inputs come first, in full, then what the workflow template prepares.
 

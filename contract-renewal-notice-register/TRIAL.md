@@ -1,11 +1,11 @@
-# Contract renewal and notice register: one trial on its invented example
+# Contract renewal and notice register: one trial on its example
 
 - **Product:** Claude, run in Claude Code
 - **Model:** Claude Opus 5.5
 - **Date:** 2026-11-11
 - **Runs:** one register run, followed by ten pressure tests, each put separately to a copy of that run; then, after the template's rules for answering questions were tightened, the ten pressure tests again against the corrected rules (see "Pressure tests")
 
-The inputs are the invented example published with this template. The Company, Suppliers A to D, the agreements, the amendment, the order form used in one pressure test, the counting rules and the closed-day list are all invented, and no client data was used. This is a record of one run on that example. It is not a test in any company's environment, the invented counting rules are not any real law or court rule, and no lawyer has reviewed the template or this output.
+The inputs are the example published with this template. The Company, Suppliers A to D, the agreements, the amendment, the order form used in one pressure test, the counting rules and the closed-day list are all illustrative, and no client data was used. This is a record of one run on that example. It is not a test in any company's environment, the illustrative counting rules are not any real law or court rule, and no lawyer has reviewed the template or this output.
 
 ## How this record came about
 
@@ -23,7 +23,7 @@ The template's instructions for an AI assistant were given as the session's inst
 
 - the settings: the Company, in-house counsel confirms, prepared by the contracts manager, today Monday 16 November 2026, a 120-day horizon and the default bands;
 - the agreement list of four agreements, A1 to A4, with the default column headers;
-- the invented counting rules, version 2, dated 1 September 2026, review by 1 March 2027, rules R1 to R6 and their list of what is not covered;
+- the illustrative counting rules, version 2, dated 1 September 2026, review by 1 March 2027, rules R1 to R6 and their list of what is not covered;
 - the closed-day list, covering 1 January 2026 to 31 December 2027;
 - the five signed documents: A1-agreement.pdf, A2-agreement.pdf, A2-amendment-1.pdf, A3-agreement.pdf and A4-agreement.pdf.
 
@@ -281,4 +281,4 @@ The ten tests were then put again against the corrected instruction block. This 
 
 ## Shortcomings of this trial
 
-It is one run, on one invented example written to fit the template, in one product. The session that produced the output had not seen the example's output, but it ran the same model that rewrote the template, and the person who started it wrote the template, so it is not independent; a run by someone who did not write the template would be stronger evidence. The second round of pressure tests is weaker still: it was answered by the session that wrote the corrected rules, not by a fresh session, and the register run was not repeated after the correction. Three stops (differing copies, rules past their review date, and the two new cases) were exercised in pressure tests; the others (headers, no counsel, duplicate IDs, missing pages, a document showing no signature or marked draft) were not. The default bands written into the instructions were not exercised, because the example's settings spell them out. The template's own acceptance tests have not been run. No lawyer reviewed the template, the example or this output, and the contracts manager's recount on a calendar, which the template relies on, was not part of the run.
+It is one run, on one example written to fit the template, in one product. The session that produced the output had not seen the example's output, but it ran the same model that rewrote the template, and the person who started it wrote the template, so it is not independent; a run by someone who did not write the template would be stronger evidence. The second round of pressure tests is weaker still: it was answered by the session that wrote the corrected rules, not by a fresh session, and the register run was not repeated after the correction. Three stops (differing copies, rules past their review date, and the two new cases) were exercised in pressure tests; the others (headers, no counsel, duplicate IDs, missing pages, a document showing no signature or marked draft) were not. The default bands written into the instructions were not exercised, because the example's settings spell them out. The template's own acceptance tests have not been run. No lawyer reviewed the template, the example or this output, and the contracts manager's recount on a calendar, which the template relies on, was not part of the run.

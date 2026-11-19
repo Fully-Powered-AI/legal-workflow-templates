@@ -8,7 +8,7 @@ Get each clause of a proposed NDA quoted beside counsel's approved positions, ma
 **Quick start**
 
 1. Read EXAMPLE.md to see what a good result looks like.
-2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the invented ones from EXAMPLE.md.
+2. Copy all of TEMPLATE.md into your assistant, then give it your own inputs, or the sample ones from EXAMPLE.md.
 3. Read what comes back. It marks what it checked and what is left for you.
 
 *Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/nda-position-check/?utm_source=github&utm_medium=referral&utm_campaign=workflow-collections&utm_content=legal-nda-position-check&from=gh-legal-nda-position-check)*
@@ -47,7 +47,7 @@ A note to the person who asked, then one draft headed for counsel:
 
 The person who asked passes the draft and the NDA to counsel. Until counsel decides, nobody tells the other side the NDA is acceptable, proposes changes or signs.
 
-See the worked example with invented data in [EXAMPLE.md](EXAMPLE.md).
+See the worked example in [EXAMPLE.md](EXAMPLE.md).
 
 ## Where it fits
 
@@ -71,7 +71,7 @@ We sit with your lawyer and the people who receive NDAs, write down what is real
 
 FullyPowered AI wrote this workflow template, drawing on an NDA triage method Anthropic publishes under the Apache 2.0 licence. That method has an outcome that routes a clean NDA to signature; this workflow template leaves it out. Even a full match is a draft addressed to counsel, nothing is routed to signature, and only counsel decides and signs. It was editorially reviewed on 11 November 2026. It has not been reviewed by a lawyer.
 
-It was tried on its invented example in Claude on 11 November 2026, and the record of that run is published with the workflow template. Two earlier runs that day led to a fixed rule for what counts as a difference and a corrected example. An independent review then found that an earlier wording let a person your lawyer had authorised, who need not be a lawyer, decide on an NDA that matched every position; that was removed, and the run made again in a fresh session. It gave the example's mark on all 17 comparisons. It also flagged one clause, as unsure, that the example had not, and the example was changed to match. The example's answer was written by the same session that revised the workflow template, so this shows the rule can be applied the same way twice, not that it will be on every NDA.
+It was tried on its example in Claude on 11 November 2026, and the record of that run is published with the workflow template. Two earlier runs that day led to a fixed rule for what counts as a difference and a corrected example. An independent review then found that an earlier wording let a person your lawyer had authorised, who need not be a lawyer, decide on an NDA that matched every position; that was removed, and the run made again in a fresh session. It gave the example's mark on all 17 comparisons. It also flagged one clause, as unsure, that the example had not, and the example was changed to match. The example's answer was written by the same session that revised the workflow template, so this shows the rule can be applied the same way twice, not that it will be on every NDA.
 
 That run's follow-ups gave no advice and named no one but a lawyer as deciding, but a separate review of the legal boundary found that one reply labelled two clauses in its own words and another shortened an authority it had been given. The workflow template was tightened: every question about the NDA now gets one fixed reply, clauses are named only by section and heading everywhere, and a supplied authority is copied whole and marked for your lawyer to verify. The five pressure tests (asking to sign, asking for a case, "we have no lawyer", a planted instruction, an invented law offered as a reason) were then made again against the tightened wording by the session that revised it, not in a fresh session, so they show the wording can be followed, not that every run will follow it. The record says what each one did. It has not yet been tested in a client environment, or tested as a packaged version in ChatGPT, Claude, Copilot or Gemini.
 
@@ -81,13 +81,13 @@ Testing in your company means running it on past NDAs your lawyer has already de
 - Sources and rights reviewed.
 - Editorially reviewed on 11 November 2026.
 - Package format checked by script on every release.
-- Tried once on its invented example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
+- Tried once on its example in Claude on 11 November 2026. The record is in [TRIAL.md](TRIAL.md).
 - Not yet tested in a client environment.
 
 ## What is in this folder
 
 - [TEMPLATE.md](TEMPLATE.md): the complete workflow template. Roles, inputs, the procedure, exceptions and stop conditions, the output format, a reviewer checklist, acceptance tests, the instructions for an AI assistant and what to customize.
-- [EXAMPLE.md](EXAMPLE.md): a worked example with invented data.
+- [EXAMPLE.md](EXAMPLE.md): a worked example.
 - [TRIAL.md](TRIAL.md): what came out when the template was tried on its example.
 - [SKILL.md](SKILL.md): the technical file, for AI products that load packaged instructions from a folder.
 - [SOURCES.md](SOURCES.md): what the workflow template drew on, with licences.
