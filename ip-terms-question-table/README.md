@@ -4,6 +4,8 @@ Before an agreement or statement of work is signed, IP counsel gets one table of
 
 *Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/ip-terms-question-table/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/ip-terms-question-table/?from=gh-legal-ip-terms-question-table)
+
 ## The outcome
 
 IP counsel opens one table and sees every clause the search finds on ownership, assignment, licence, background IP and confidentiality, in the agreement and each statement of work that goes with it, quoted in full with its document and section. Counsel confirms that nothing is missing. The first thing on the page is the assignment check: whether the words your positions file expects for an assignment appear anywhere at all. Under it, each clause is set beside the position it touches, the words counsel listed are marked found or not found, and every gap is already written as a question for counsel to answer.

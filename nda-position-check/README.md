@@ -4,6 +4,8 @@ Before anyone signs a proposed NDA, counsel gets every clause quoted with its se
 
 *Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/nda-position-check/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/nda-position-check/?from=gh-legal-nda-position-check)
+
 ## The outcome
 
 The NDA a prospect sends one morning reaches your lawyer already laid out against the lawyer's own rules. Every clause sits beside the position it was measured against, in both sets of words, with the section and page. The few that differ, and the ones your positions never mention, are pulled to the top as a short list with a line for counsel's decision. One sentence names everything that matched. Counsel reads the short list first, then confirms each match on the list of matches, and the sales conversation keeps moving.

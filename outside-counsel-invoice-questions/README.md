@@ -4,6 +4,8 @@ When a law firm’s invoice arrives, legal operations has one worksheet ready: e
 
 *Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/outside-counsel-invoice-questions/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/outside-counsel-invoice-questions/?from=gh-outside-counsel-invoice-questions)
+
 ## The outcome
 
 Every outside-counsel invoice gets the same careful read, line by line, without anyone spending an afternoon on it. The worksheet sets each line beside the company’s own records and lists what does not match: a rate different from the agreed rate for that date, two entries that look like the same work, several tasks billed under one time, a timekeeper who is not on the matter’s staffing list, more people billing for one meeting than the number the company checks against, a phase that has gone past its budget, a line dated outside the invoice’s period. Each item names its invoice line and the record it was compared with, so anyone can check it in a minute.

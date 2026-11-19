@@ -4,6 +4,8 @@ When counsel directs a workplace investigation, the HR investigator turns the in
 
 *Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/workplace-investigation-record/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/workplace-investigation-record/?from=gh-legal-workplace-investigation-record)
+
 ## The outcome
 
 Counsel opens one record instead of a folder of interview notes, message screenshots and rotas. Every allegation is there in the words counsel used to frame it, with the passage of the complaint it came from. Every statement is quoted from the notes and attributed to the person who made it, with the interview and paragraph beside it. The dated occasions run in order, each listing the statements and documents that mention it. Where two people, or a person and a document, give different accounts of the same point, the accounts sit side by side and stay unresolved.

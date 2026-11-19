@@ -4,6 +4,8 @@ Before the first call with patent counsel, the founder or engineering lead has o
 
 *Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/invention-disclosure-brief/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/invention-disclosure-brief/?from=gh-legal-invention-disclosure-brief)
+
 ## The outcome
 
 Patent counsel's first hour goes on the questions only counsel can answer, because the facts arrive already gathered. The brief sets out what was made and how it works, quoted from the inventor and located paragraph by paragraph. It lists everyone the records show contributing, with what they did, when, and the record that shows it, and it puts beside them anyone the records mention who is not on the list, such as a customer's engineer who suggested part of the design. It lays every dated event in one line of dates and shows where two records disagree. It lists every time the invention was shown, sold, offered, published or talked about outside the company, with the date and audience copied from your own log, and anything mentioned elsewhere that the log missed.

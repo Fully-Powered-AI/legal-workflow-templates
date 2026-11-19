@@ -4,6 +4,8 @@ Once counsel has issued a legal hold, your legal operations lead keeps one track
 
 *Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/legal-hold-custodian-tracker/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/legal-hold-custodian-tracker/?from=gh-legal-legal-hold-custodian-tracker)
+
 ## The outcome
 
 Once counsel has issued a hold, someone has to keep track of it week after week: who has acknowledged, who has not, and who has left or changed role since the notice went out, across many people and systems. With this workflow template, the person who keeps the hold record sees the whole picture on one page, every week, in the same shape: each person and each system counsel named, the day each notice went out, who has acknowledged, and who is past the proposed due date and by how many days. The moment the HR export shows someone on counsel’s record leaving or moving to a new role, the tracker puts it in front of counsel, saying where counsel’s record lists that person, with the offboarding checklist’s dates for mailbox removal and laptop wipes beside it, before those dates arrive rather than after.

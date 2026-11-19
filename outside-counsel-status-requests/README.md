@@ -4,6 +4,8 @@ Every Monday, in-house counsel has a draft status request for each outside firm 
 
 *Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/outside-counsel-status-requests/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/outside-counsel-status-requests/?from=gh-legal-outside-counsel-status-requests)
+
 ## The outcome
 
 Counsel's Monday starts with the check-ins already drafted, not with a blank email to each firm in turn. The drafts are waiting: one per matter that is due a check-in, each asking the firm the right questions in counsel's own house style, with the company's facts already in place. Matters the rules do not select are skipped, and the summary gives the rule for each, for counsel to confirm, so no matter drops out of sight unlisted.

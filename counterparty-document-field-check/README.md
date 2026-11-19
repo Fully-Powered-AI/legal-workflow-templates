@@ -4,6 +4,8 @@ When the other side hands over a bond, guarantee, standby letter of credit or es
 
 *Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/counterparty-document-field-check/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/counterparty-document-field-check/?from=gh-counterparty-document-field-check)
+
 ## The outcome
 
 A contractor emails the bond, or a tenant returns the estoppel certificate, and a payment or a closing is waiting on it. Before it is passed along, somebody should set what it says beside what the contract and the company's own records say. A comma in a company name, a contract number with two characters missing, an amount that reads one way in words and another in figures: these are the details that slip past a skim. This workflow template looks for them in the same order every time.

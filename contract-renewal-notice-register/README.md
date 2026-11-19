@@ -4,6 +4,8 @@ From your signed agreements and amendments, the contracts manager gets a registe
 
 *Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/contract-renewal-notice-register/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/contract-renewal-notice-register/?from=gh-contract-renewal-notice-register)
+
 ## The outcome
 
 Counsel sees every notice window in one place, sorted by how soon its proposed send-by date comes. One register holds every agreement's term, renewal wording, notice period, notice method and address, each quoted from the documents with its section. Agreements whose proposed send-by date is already before today sit at the top, each showing whether its proposed cancel-by date is before or after today. The register never says a window is open or closed, or that notice is late or in time: that is counsel's to say.

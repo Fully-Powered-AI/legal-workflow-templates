@@ -4,6 +4,8 @@ When another party's agreement arrives, counsel gets a one-page intake brief: wh
 
 *Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/contract-intake-brief/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/contract-intake-brief/?from=gh-legal-contract-intake-brief)
+
 ## The outcome
 
 Every incoming agreement reaches counsel in the same shape, on one page, before anyone has read a clause. Counsel sees what arrived and what did not, who is named and where the names disagree, what the business needs it for and by when, and whose desk the company's own rules put it on. The chasing that usually eats the first day of a review, for the missing exhibit, the unsigned signature page or the right company name, is already a short list of questions for the requester.

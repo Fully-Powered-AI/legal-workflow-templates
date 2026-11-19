@@ -4,6 +4,8 @@ When a demand, claim or subpoena arrives, the company's lawyer gets one intake r
 
 *Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/inbound-demand-intake-record/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/inbound-demand-intake-record/?from=gh-legal-inbound-demand-intake-record)
+
 ## The outcome
 
 The letter that lands on a Monday morning reaches the company's lawyer that afternoon as a record they can work from. Every demand, date, fact and citation is copied in the sender's own words with its page and paragraph, and every record the letter mentions is named in the letter's own words, so nothing the sender alleges is restated as fact. The company's own matter list has already been searched for the same party and the same order or contract numbers. The systems that hold the records the letter talks about are named, with their owners and anything they delete automatically. The lawyer starts on the judgment instead of the gathering.

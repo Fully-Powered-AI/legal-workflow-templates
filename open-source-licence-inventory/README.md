@@ -4,6 +4,8 @@ Before a release ships or an acquirer asks, counsel and the engineering lead get
 
 *Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/open-source-licence-inventory/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/open-source-licence-inventory/?from=gh-legal-open-source-licence-inventory)
+
 ## The outcome
 
 Your lawyer opens one draft and sees the open-source code inside the release the way your own policy sees it. Each package sits on its own line: the licence its metadata declares, the licence its own files name, quoted with the file and line, the category your policy gives that licence, and the duties your policy attaches to it for the way this release reaches people, copied word for word. The packages that need a lawyer's eye are pulled into a short lettered list, each with the words that raised it and the question to decide. Gaps in your policy, and any question the engineers asked, sit underneath as plain questions. Counsel spends the hour on the judgment, not on opening package folders.

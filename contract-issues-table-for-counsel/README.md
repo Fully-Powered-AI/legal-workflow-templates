@@ -4,6 +4,8 @@ Before counsel negotiates a vendor or customer agreement, the contracts team han
 
 *Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/contract-issues-table-for-counsel/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/contract-issues-table-for-counsel/?from=gh-contract-issues-table-for-counsel)
+
 ## The outcome
 
 Counsel opens one table and sees the whole agreement against the company’s own playbook. Each clause the playbook covers sits in full beside the position it was checked against, with the exact words that put it there. Where a clause departs, the playbook’s own approved wording sits next to it, copied unchanged. Each issue already names the person the escalation matrix says must decide it, and each of those people has a draft note waiting for counsel’s position. Counsel’s time goes on the negotiation, not on hunting through the agreement.

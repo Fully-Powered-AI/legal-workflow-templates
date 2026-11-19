@@ -4,6 +4,8 @@ Before a question about a signed contract goes to counsel, the contracts manager
 
 *Workflow template · Legal and contracts · version 0.1.0 · [Workflows Directory](https://fullypowered.ai/workflows/contract-amendment-trace/)*
 
+**This is a template, made to be customized and deployed.** FullyPowered AI customizes AI workflows that run in ChatGPT, Claude, Copilot and Gemini. [Get this one fitted to your company](https://fullypowered.ai/workflows/contract-amendment-trace/?from=gh-legal-contract-amendment-trace)
+
 ## The outcome
 
 The lawyer opens one page and sees how a provision got to where it is. The base agreement and every amendment sit in order of the latest date beside a signature, with the effective date each one states and each party's signature block shown as it is. Every place in a signed document that names the provision, the section that holds it, or words that apply across the whole agreement is quoted with the document, section and page, so every line can be checked against the page it came from. Places that name or redefine the terms it relies on are listed beside it. The awkward findings arrive before the call rather than during it: an amendment number that is missing, a version only one side signed, a signed paper still marked as a draft, a countersigned letter that names the provision, a document that gives two effective dates, a party whose name has changed. The gathering is done, and the lawyer's time goes to the judgment.
